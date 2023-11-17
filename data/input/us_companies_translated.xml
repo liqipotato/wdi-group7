@@ -1,0 +1,4717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies xsi:noNamespaceSchemaLocation="file:///C:/Users/Marcus%20Kok/OneDrive/Y3S1/Web%20Data%20Integration/target_schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<company>
+		<id>us_companies_id_1000</id>
+		<name>3 Round Stones, Inc.</name>
+		<website>http://3RoundStones.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1001</id>
+		<name>48 Factoring Inc.</name>
+		<website>https://www.48factoring.com</website>
+		<foundingdate>2014</foundingdate>
+		<hqcity> Philadelphia</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Financial Services</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1002</id>
+		<name>5PSolutions</name>
+		<website>www.5psolutions.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Fairfax</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1003</id>
+		<name>Abt Associates</name>
+		<website>abtassoc.com</website>
+		<foundingdate>1965</foundingdate>
+		<hqcity>Cambridge</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1004</id>
+		<name>Accela</name>
+		<website>http://www.accela.com</website>
+		<foundingdate>1999</foundingdate>
+		<hqcity>San Ramon</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1005</id>
+		<name>Accenture</name>
+		<website>http://www.accenture.com/us-en/pages/index.aspx</website>
+		<foundingdate>1989</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1006</id>
+		<name>AccuWeather</name>
+		<website>http://www.accuweather.com</website>
+		<foundingdate>1962</foundingdate>
+		<hqcity>State College</hqcity>
+		<industry>Environment &amp; Weather</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1007</id>
+		<name>Acxiom</name>
+		<website>http://acxiom.com</website>
+		<foundingdate>1969</foundingdate>
+		<hqcity>Little Rock</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1008</id>
+		<name>Adaptive</name>
+		<website>http://www.adaptive.com</website>
+		<foundingdate>2001</foundingdate>
+		<hqcity>Irvine</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1009</id>
+		<name>Adobe Digital Government</name>
+		<website>http://www.adobe.com/solutions/government.html</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>San Jose</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1010</id>
+		<name>Aidin</name>
+		<website>http://www.myAidin.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1011</id>
+		<name>Alarm.com</name>
+		<website>www.alarm.com</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Leesburg Pike Vienna</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+	</company>
+	<company>
+		<id>us_companies_id_1012</id>
+		<name>Allianz</name>
+		<website>http://www.allianzusa.com</website>
+		<foundingdate>1896</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1013</id>
+		<name>Allied Van Lines</name>
+		<website>http://www.allied.com</website>
+		<foundingdate>1928</foundingdate>
+		<hqcity>Oakbrook Terrace</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1014</id>
+		<name>AllState Insurance Group</name>
+		<website>http://www.allstate.com</website>
+		<foundingdate>1931</foundingdate>
+		<hqcity>Northbrook</hqcity>
+		<industry>Insurance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1015</id>
+		<name>Alltuition</name>
+		<website>https://www.alltuition.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1016</id>
+		<name>Altova</name>
+		<website>http://www.altova.com</website>
+		<foundingdate>1992</foundingdate>
+		<hqcity>Beverly</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1017</id>
+		<name>Amazon Web Services</name>
+		<website>http://aws.amazon.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1018</id>
+		<name>American Red Ball Movers</name>
+		<website>http://www.redball.com</website>
+		<foundingdate>1919</foundingdate>
+		<hqcity>Indianapolis</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1019</id>
+		<name>Amida Technology Solutions</name>
+		<website>http://amida-tech.com/index.html</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1020</id>
+		<name>Analytica</name>
+		<website>http://www.analytica.net/</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Washington DC</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Software licensing, Information Brokering</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1021</id>
+		<name>Apextech LLC</name>
+		<website>apextechllc.com</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>Arlington</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1022</id>
+		<name>Appallicious</name>
+		<website>appallicious.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1023</id>
+		<name>Aquicore</name>
+		<website>http://www.aquicore.com/</website>
+		<foundingdate>2010</foundingdate>
+		<industry>Energy</industry>
+	</company>
+	<company>
+		<id>us_companies_id_1024</id>
+		<name>Archimedes Inc.</name>
+		<website>http://archimedesmodel.com/</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1025</id>
+		<name>AreaVibes Inc.</name>
+		<website>http://www.areavibes.com/</website>
+		<foundingdate>2009</foundingdate>
+		<industry>Data/Technology</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1026</id>
+		<name>Arpin Van Lines</name>
+		<website>http://www.arpin.com</website>
+		<foundingdate>1900</foundingdate>
+		<hqcity>West Warwick</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1027</id>
+		<name>Arrive Labs</name>
+		<website>http://home.downloadarrive.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1028</id>
+		<name>ASC Partners</name>
+		<website>http://www.asc-partners.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1029</id>
+		<name>Asset4</name>
+		<website>asset4.com</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1030</id>
+		<name>Atlas Van Lines</name>
+		<website>http://www.atlasvanlines.com</website>
+		<foundingdate>1948</foundingdate>
+		<hqcity>Evansville</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Customers</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1031</id>
+		<name>AtSite</name>
+		<website>www.atsiteinc.com</website>
+		<foundingdate>1993</foundingdate>
+		<hqcity>Washington, D.C.</hqcity>
+		<industry>Research &amp; Consulting</industry>
+	</company>
+	<company>
+		<id>us_companies_id_1032</id>
+		<name>Aunt Bertha, Inc.</name>
+		<website>auntbertha.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Austin</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1033</id>
+		<name>Aureus Sciences (*Now part of Elsevier)</name>
+		<website>http://www.aureus-sciences.com</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Philadelphia</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1034</id>
+		<name>AutoGrid Systems</name>
+		<website>http://www.auto-grid.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Redwood Shores</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1035</id>
+		<name>Avalara</name>
+		<website>http://www.avalara.com</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Bainbridge Island</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1036</id>
+		<name>Avvo</name>
+		<website>http://www.avvo.com</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1037</id>
+		<name>Ayasdi</name>
+		<website>http://www.ayasdi.com/</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Menlo Park</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1038</id>
+		<name>Azavea</name>
+		<website>azavea.com</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Philadelphia</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions, Software Development Services, Open Source Software</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1039</id>
+		<name>BaleFire Global</name>
+		<website>http://balefireglobal.com</website>
+		<foundingdate>2014</foundingdate>
+		<hqcity>Raleigh</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Open Data Portal Deployment</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1040</id>
+		<name>Barchart</name>
+		<website>www.barchartmarketdata.com</website>
+		<foundingdate>1995</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Advertising, Data analysis for clients, Database licensing, Software licensing, Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1041</id>
+		<name>Be Informed</name>
+		<website>http://www.beinformed.com/BeInformed/website/en?init=true</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1042</id>
+		<name>Bekins</name>
+		<website>http://www.bekins.com</website>
+		<foundingdate>1891</foundingdate>
+		<hqcity>Indianapolis</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1043</id>
+		<name>Berkery Noyes MandASoft</name>
+		<website>https://mandasoft.com/</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1044</id>
+		<name>Berkshire Hathaway</name>
+		<website>http://www.berkshirehathaway.com</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>Omaha</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1045</id>
+		<name>BetterLesson</name>
+		<website>http://betterlesson.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Cambridge</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1046</id>
+		<name>BillGuard</name>
+		<website>https://www.billguard.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1047</id>
+		<name>Bing</name>
+		<website>http://www.bing.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Redmond</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1048</id>
+		<name>Biovia</name>
+		<website>http://accelrys.com</website>
+		<foundingdate>2001</foundingdate>
+		<hqcity>San Diego</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1049</id>
+		<name>BizVizz</name>
+		<website>http://bizvizz.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Milwaukee</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1050</id>
+		<name>BlackRock</name>
+		<website>http://www.blackrock.com</website>
+		<foundingdate>1988</foundingdate>
+		<hqcity>Atlanta</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1051</id>
+		<name>Bloomberg</name>
+		<website>http://www.bloomberg.com</website>
+		<foundingdate>1982</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1052</id>
+		<name>Booz Allen Hamilton</name>
+		<website>http://www.boozallen.com</website>
+		<foundingdate>1914</foundingdate>
+		<hqcity>McLean</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1053</id>
+		<name>Boston Consulting Group</name>
+		<website>http://www.bcg.com</website>
+		<foundingdate>1963</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1054</id>
+		<name>Boundless</name>
+		<website>www.boundlessgeo.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1055</id>
+		<name>Bridgewater</name>
+		<website>http://www.bwater.com</website>
+		<foundingdate>1975</foundingdate>
+		<hqcity>Westport</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1056</id>
+		<name>Brightscope</name>
+		<website>http://www.brightscope.com/</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>San Diego</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Software licensing, Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1057</id>
+		<name>BuildFax</name>
+		<website>http://www.buildfax.com/</website>
+		<foundingdate>2008</foundingdate>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1058</id>
+		<name>Buildingeye</name>
+		<website>http://www.buildingeye.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Palo Alto</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1059</id>
+		<name>BuildZoom</name>
+		<website>www.buildzoom.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Advertising, Lead generation to other businesses</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1060</id>
+		<name>Business and Legal Resources</name>
+		<website>http://www.blr.com</website>
+		<foundingdate>1977</foundingdate>
+		<hqcity>Brentwood</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1061</id>
+		<name>Business Monitor International</name>
+		<website>www.businessmonitor.com</website>
+		<foundingdate>1984</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1062</id>
+		<name>Calcbench, Inc.</name>
+		<website>calcbench.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1063</id>
+		<name>Cambridge Information Group</name>
+		<website>http://www.cig.com</website>
+		<foundingdate>1971</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1064</id>
+		<name>Cambridge Semantics</name>
+		<website>http://www.cambridgesemantics.com/home</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1065</id>
+		<name>CAN Capital</name>
+		<website>http://www.cancapital.com/</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Financial Products and Services</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1066</id>
+		<name>Canon</name>
+		<website>http://www.canon.com</website>
+		<foundingdate>1937</foundingdate>
+		<hqcity>Melville</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1067</id>
+		<name>Capital Cube</name>
+		<website>http://www.capitalcube.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Williamsville</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1068</id>
+		<name>Cappex</name>
+		<website>www.cappex.com</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Education</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1069</id>
+		<name>Captricity</name>
+		<website>captricity.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Berkeley</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Subscriptions, User fees for web or mobile access, Monthly and Annual Subscriptions, Pay as You Go, Professional Services</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1070</id>
+		<name>CareSet Systems</name>
+		<website>www.careset.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Houston</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1071</id>
+		<name>Careset.com</name>
+		<website>www.careset.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Houston</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1072</id>
+		<name>CARFAX</name>
+		<website>http://www.carfax.com</website>
+		<foundingdate>1984</foundingdate>
+		<hqcity>Centreville</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1073</id>
+		<name>Caspio</name>
+		<website>http://www.caspio.com/</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Santa Clara</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1074</id>
+		<name>Castle Biosciences</name>
+		<website>http://www.castlebiosciences.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Friendswood</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1075</id>
+		<name>CB Insights</name>
+		<website>http://www.cbinsights.com/</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Lead generation to other businesses, Subscriptions, API</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1076</id>
+		<name>Ceiba Solutions</name>
+		<website>http://www.ceibasolutions.com</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1077</id>
+		<name>Center for Responsive Politics</name>
+		<website>www.opensecrets.org</website>
+		<foundingdate>1983</foundingdate>
+		<hqcity>Washington DC</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1078</id>
+		<name>Cerner</name>
+		<website>http://www.cerner.com</website>
+		<foundingdate>1979</foundingdate>
+		<hqcity>North Kansas City</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1079</id>
+		<name>Certara</name>
+		<website>http://www.certara.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>St Louis</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1080</id>
+		<name>CGI</name>
+		<website>http://www.cgi.com/en</website>
+		<foundingdate>1976</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1081</id>
+		<name>Charles River Associates</name>
+		<website>http://crai.com/</website>
+		<foundingdate>1965</foundingdate>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1082</id>
+		<name>Charles Schwab Corp.</name>
+		<website>https://www.schwab.com</website>
+		<foundingdate>1973</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1083</id>
+		<name>Chemical Abstracts Service</name>
+		<website>https://www.cas.org</website>
+		<foundingdate>1907</foundingdate>
+		<hqcity>Columbus</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1084</id>
+		<name>Child Care Desk</name>
+		<website>http://childcaredesk.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1085</id>
+		<name>Chubb</name>
+		<website>http://www.chubb.com</website>
+		<foundingdate>1882</foundingdate>
+		<hqcity>Warren</hqcity>
+		<industry>Insurance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1086</id>
+		<name>Citigroup</name>
+		<website>http://www.citigroup.com/citi/</website>
+		<foundingdate>1812</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1087</id>
+		<name>CityScan</name>
+		<website>www.CityScan.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1088</id>
+		<name>CitySourced</name>
+		<website>http://www.citysourced.com/</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Log Angeles</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1089</id>
+		<name>Civic Impulse LLC</name>
+		<website>https://www.govtrack.us/civicimpulse</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Advertising</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1090</id>
+		<name>Civic Insight</name>
+		<website>http://civicinsight.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1091</id>
+		<name>Civinomics</name>
+		<website>civinomics.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Santa Cruz</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Lead generation to other businesses</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1092</id>
+		<name>Civis Analytics</name>
+		<website>http://civisanalytics.com/</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>West Loop</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1093</id>
+		<name>Clean Power Finance</name>
+		<website>http://www.cleanpowerfinance.com</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Software licensing, Transaction fees across our platform</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1094</id>
+		<name>ClearHealthCosts</name>
+		<website>clearhealthcosts.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York City</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Advertising, Data analysis for clients, Database licensing, Philanthropic grants, Software licensing, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1095</id>
+		<name>ClearStory Data</name>
+		<website>www.clearstorydata.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Palo Alto</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1096</id>
+		<name>Climate Corporation</name>
+		<website>http://www.climate.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Food &amp; Agriculture</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1097</id>
+		<name>CliniCast</name>
+		<website>http://clinicast.net/</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Millbrae</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Software licensing, Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1098</id>
+		<name>Cloudmade</name>
+		<website>http://cloudmade.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Menlo Park</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1099</id>
+		<name>Cloudspyre</name>
+		<website>http://www.cloudspyre.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Bristow</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Consulting, App Sales</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1100</id>
+		<name>Code for America</name>
+		<website>http://codeforamerica.org</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Philanthropic grants</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1101</id>
+		<name>Code-N</name>
+		<website>http://www.code-n.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Menlo Park</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1102</id>
+		<name>Collective IP</name>
+		<website>www.collectiveip.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Denver</hqcity>
+		<industry>Data/Technology,</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1103</id>
+		<name>College Abacus, an ECMC initiative</name>
+		<website>https://collegeabacus.org</website>
+		<foundingdate>1994</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>No revenue; this is an ECMC non-profit initiative.</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1104</id>
+		<name>College Board</name>
+		<website>http://www.collegeboard.org</website>
+		<foundingdate>1900</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Education</industry>
+		<revenuesource>educational assessment, Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1105</id>
+		<name>Compared Care</name>
+		<website>comparedcare.com</website>
+		<foundingdate>2014</foundingdate>
+		<hqcity>Baltimore</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Advertising, Lead generation to other businesses, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1106</id>
+		<name>Compendia Bioscience Life Technologies</name>
+		<website>http://www.lifetechnologies.com/us/en/home/life-science/cancer-research/cancer-genomics/compendia-bioscience-life-technologies.html</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Ann Arbor</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Database licensing, Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1107</id>
+		<name>Compliance and Risks</name>
+		<website>http://www.complianceandrisks.com</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Oregon House</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1108</id>
+		<name>Computer Packages Inc</name>
+		<website>http://www.computerpackages.com/</website>
+		<foundingdate>1968</foundingdate>
+		<hqcity>Rockville</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1109</id>
+		<name>CONNECT-DOT LLC.</name>
+		<website>http://conndot.com</website>
+		<foundingdate>2014</foundingdate>
+		<hqcity>Fair Lawn</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Consulting, Data analysis for clients, Lead generation to other businesses</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1110</id>
+		<name>ConnectEDU</name>
+		<website>http://www.connectedu.com</website>
+		<foundingdate>2002</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1111</id>
+		<name>Connotate</name>
+		<website>http://www.connotate.com</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>New Brunswick</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1112</id>
+		<name>Construction Monitor LLC</name>
+		<website>www.constructionmonitor.com</website>
+		<foundingdate>1989</foundingdate>
+		<hqcity>Cedar City</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1113</id>
+		<name>Consumer Reports</name>
+		<website>www.consumerreports.org</website>
+		<foundingdate>1936</foundingdate>
+		<hqcity>Yonkers</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Subscriptions, Philanthropic grants</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1114</id>
+		<name>CoolClimate</name>
+		<website>http://coolclimate.berkeley.edu</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Berkeley</hqcity>
+		<industry>Environment &amp; Weather</industry>
+		<revenuesource>Data analysis for clients, Database licensing, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1115</id>
+		<name>Copyright Clearance Center</name>
+		<website>http://www.copyright.com</website>
+		<foundingdate>1978</foundingdate>
+		<hqcity>Danvers</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1116</id>
+		<name>CoreLogic</name>
+		<website>http://www.corelogic.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Irvine</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1117</id>
+		<name>CostQuest</name>
+		<website>http://www.costquest.com</website>
+		<foundingdate>1990</foundingdate>
+		<hqcity>Cincinnati</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1118</id>
+		<name>Credit Karma</name>
+		<website>https://www.creditkarma.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1119</id>
+		<name>Credit Sesame</name>
+		<website>creditsesame.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Mountain View</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Advertising, Lead generation to other businesses</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1120</id>
+		<name>CrowdANALYTIX</name>
+		<website>www.crowdanalytix.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Campbell</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1121</id>
+		<name>Dabo Health</name>
+		<website>https://www.dabohealth.com/#/</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Menlo Park</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1122</id>
+		<name>DataLogix</name>
+		<website>http://www.datalogix.com</website>
+		<foundingdate>2002</foundingdate>
+		<hqcity>Westminster</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1123</id>
+		<name>DataMade</name>
+		<website>http://datamade.us</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Philanthropic grants</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1124</id>
+		<name>DataMarket</name>
+		<website>datamarket.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1125</id>
+		<name>Datamyne</name>
+		<website>http://www.datamyne.com</website>
+		<foundingdate>1992</foundingdate>
+		<hqcity>Miami</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1126</id>
+		<name>DataWeave</name>
+		<website>www.dataweave.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1127</id>
+		<name>Deloitte</name>
+		<website>http://www.deloitte.com</website>
+		<foundingdate>1845</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1128</id>
+		<name>DemystData</name>
+		<website>http://demystdata.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1129</id>
+		<name>Department of Better Technology</name>
+		<website>dobt.co</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Atlanta</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1130</id>
+		<name>Development Seed</name>
+		<website>developmentseed.org</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Custom open source software development</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1131</id>
+		<name>Docket Alarm, Inc.</name>
+		<website>www.docketalarm.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Membership fees, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1132</id>
+		<name>Dow Jones &amp; Co.</name>
+		<website>http://www.dowjones.com</website>
+		<foundingdate>1882</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1133</id>
+		<name>Dun &amp; Bradstreet</name>
+		<website>http://www.dnb.com</website>
+		<foundingdate>1841</foundingdate>
+		<hqcity>Short Hills</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Subscriptions, Credit Risk and Business Insight, Lead generation to other businesses, Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1134</id>
+		<name>Earth Networks</name>
+		<website>www.earthnetworks.com</website>
+		<foundingdate>1993</foundingdate>
+		<hqcity>Germantown</hqcity>
+		<industry>Environment &amp; Weather</industry>
+	</company>
+	<company>
+		<id>us_companies_id_1135</id>
+		<name>EarthObserver App</name>
+		<website>http://www.earth-observer.org/</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1136</id>
+		<name>Earthquake Alert!</name>
+		<website>https://play.google.com/store/apps/details?id=com.joshclemm.android.quake&amp;hl=en</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Reston</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1137</id>
+		<name>Eat Shop Sleep</name>
+		<website>https://itunes.apple.com/us/app/eat-shop-sleep/id465262611</website>
+		<foundingdate>2012</foundingdate>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1138</id>
+		<name>Ecodesk</name>
+		<website>https://www.ecodesk.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1139</id>
+		<name>eInstitutional</name>
+		<website>einstitutional.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Ridgefield</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1140</id>
+		<name>Embark</name>
+		<website>http://letsembark.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Cupertino</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1141</id>
+		<name>EMC</name>
+		<website>http://www.emc.com/index.htm</website>
+		<foundingdate>1979</foundingdate>
+		<hqcity>Hopkinton</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1142</id>
+		<name>Energy Points, Inc.</name>
+		<website>http://energypoints.com/</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1143</id>
+		<name>Energy Solutions Forum</name>
+		<website>energysolforum.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1144</id>
+		<name>Enervee Corporation</name>
+		<website>http://enervee.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Santa Monica</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Advertising, Data analysis for clients, Database licensing, Lead generation to other businesses, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1145</id>
+		<name>Enigma.io</name>
+		<website>enigma.io</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Subscriptions, API Licenses</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1146</id>
+		<name>Ensco</name>
+		<website>http://www.enscoplc.com/Home/default.aspx</website>
+		<foundingdate>1987</foundingdate>
+		<hqcity>Falls Church</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1147</id>
+		<name>Environmental Data Resources</name>
+		<website>http://www.edrnet.com</website>
+		<foundingdate>1990</foundingdate>
+		<hqcity>Milford</hqcity>
+		<industry>Environment &amp; Weather</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1148</id>
+		<name>Epsilon</name>
+		<website>http://www.epsilon.com</website>
+		<foundingdate>1969</foundingdate>
+		<hqcity>Plano</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1149</id>
+		<name>Equal Pay for Women</name>
+		<website>http://resources.alljobopenings.com/equality</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Midlothian</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1150</id>
+		<name>Equifax</name>
+		<website>http://www.equifax.com/home/en_us</website>
+		<foundingdate>1899</foundingdate>
+		<hqcity>Atlanta</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1151</id>
+		<name>Equilar</name>
+		<website>http://www.equilar.com/</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Redwood City</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1152</id>
+		<name>Ernst &amp; Young LLP</name>
+		<website>http://www.ey.com</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1153</id>
+		<name>eScholar LLC.</name>
+		<website>http://www.escholar.com</website>
+		<foundingdate>1997</foundingdate>
+		<hqcity>White Plains</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1154</id>
+		<name>Esri</name>
+		<website>esri.com</website>
+		<foundingdate>1969</foundingdate>
+		<hqcity>Redlands</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Subscriptions, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1155</id>
+		<name>Estately</name>
+		<website>http://www.estately.com/</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Lead generation to other businesses</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1156</id>
+		<name>Everyday Health</name>
+		<website>http://www.everydayhealth.com</website>
+		<foundingdate>2002</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1157</id>
+		<name>Evidera</name>
+		<website>http://www.evidera.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Bethesda</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1158</id>
+		<name>Experian</name>
+		<website>http://www.experian.com</website>
+		<foundingdate>1980</foundingdate>
+		<hqcity>Costa Mesa</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1159</id>
+		<name>Expert Health Data Programming, Inc.</name>
+		<website>http://www.ehdp.com/</website>
+		<foundingdate>1997</foundingdate>
+		<hqcity>Bellevue</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1160</id>
+		<name>Exversion</name>
+		<website>https://exversion.com</website>
+		<foundingdate>2013</foundingdate>
+		<industry>Data/Technology</industry>
+		<revenuesource>User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1161</id>
+		<name>Ez-XBRL</name>
+		<website>ez-xbrl.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Manassas</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1162</id>
+		<name>Factset</name>
+		<website>http://www.factset.com</website>
+		<foundingdate>1978</foundingdate>
+		<hqcity>Norwalk</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1163</id>
+		<name>Factual</name>
+		<website>http://www.factual.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Los Angeles</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Advertising, Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1164</id>
+		<name>Farmers</name>
+		<website>http://www.farmers.com</website>
+		<foundingdate>1928</foundingdate>
+		<hqcity>Los Angeles</hqcity>
+		<industry>Insurance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1165</id>
+		<name>FarmLogs</name>
+		<website>farmlogs.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Ann Arbor</hqcity>
+		<industry>Food &amp; Agriculture</industry>
+		<revenuesource>Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1166</id>
+		<name>Fastcase</name>
+		<website>fastcase.com</website>
+		<foundingdate>1999</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1167</id>
+		<name>Fidelity Investments</name>
+		<website>https://www.fidelity.com</website>
+		<foundingdate>1946</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1168</id>
+		<name>FindTheBest.com</name>
+		<website>http://www.findthebest.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Santa Barbara</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Advertising</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1169</id>
+		<name>First Fuel Software</name>
+		<website>http://firstfuel.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Lexington</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1170</id>
+		<name>FirstPoint, Inc.</name>
+		<website>https://www.firstpointresources.com/</website>
+		<foundingdate>1941</foundingdate>
+		<hqcity>Greensboro</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1171</id>
+		<name>Fitch</name>
+		<website>https://www.fitchratings.com/web/en/dynamic/fitch-home.jsp</website>
+		<foundingdate>1913</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1172</id>
+		<name>FlightAware</name>
+		<website>http://www.flightaware.com/</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Houston</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1173</id>
+		<name>FlightStats</name>
+		<website>http://www.flightstats.com/</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Portland</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1174</id>
+		<name>FlightView</name>
+		<website>http://www.flightview.com/</website>
+		<foundingdate>1981</foundingdate>
+		<hqcity>Newton</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1175</id>
+		<name>Food+Tech Connect</name>
+		<website>http://www.foodtechconnect.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Food &amp; Agriculture</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1176</id>
+		<name>Forrester Research</name>
+		<website>http://www.forrester.com</website>
+		<foundingdate>1983</foundingdate>
+		<hqcity>Cambridge</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1177</id>
+		<name>Foursquare</name>
+		<website>https://foursquare.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1178</id>
+		<name>Fujitsu</name>
+		<website>http://www.fujitsu.com/us/</website>
+		<foundingdate>1935</foundingdate>
+		<hqcity>Sunnyvale</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>ICT Product and Services, Software licensing, Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1179</id>
+		<name>Funding Circle</name>
+		<website>https://www.fundingcircle.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1180</id>
+		<name>FutureAdvisor</name>
+		<website>https://www.futureadvisor.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1181</id>
+		<name>Fuzion Apps, Inc.</name>
+		<website>www.fuzionapps.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Sugar Land</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Advertising, Lead generation to other businesses, Software licensing, User fees for web or mobile access, Feature upgrades within the app</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1182</id>
+		<name>Gallup</name>
+		<website>http://www.gallup.com</website>
+		<foundingdate>1969</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1183</id>
+		<name>Galorath Incorporated</name>
+		<website>www.galorath.com</website>
+		<foundingdate>1987</foundingdate>
+		<hqcity>El Segundo</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1184</id>
+		<name>Garmin</name>
+		<website>http://www.garmin.com/en-US</website>
+		<foundingdate>1989</foundingdate>
+		<hqcity>Olathe</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1185</id>
+		<name>Genability</name>
+		<website>http://genability.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1186</id>
+		<name>GenoSpace</name>
+		<website>https://www.genospace.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Cambridge</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1187</id>
+		<name>Geofeedia</name>
+		<website>http://geofeedia.com/</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1188</id>
+		<name>Geolytics</name>
+		<website>http://www.geolytics.com</website>
+		<foundingdate>1996</foundingdate>
+		<hqcity>Branchburg</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1189</id>
+		<name>Geoscape</name>
+		<website>www.geoscape.com</website>
+		<foundingdate>1995</foundingdate>
+		<hqcity>Miami</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1190</id>
+		<name>GetRaised</name>
+		<website>https://getraised.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1191</id>
+		<name>GitHub</name>
+		<website>https://github.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1192</id>
+		<name>Glassy Media</name>
+		<website>http://www.glassymedia.com/</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Cambridge</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1193</id>
+		<name>Golden Helix</name>
+		<website>http://www.goldenhelix.com/</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>Bozeman</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1194</id>
+		<name>GoodGuide</name>
+		<website>http://www.goodguide.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1195</id>
+		<name>Google Maps</name>
+		<website>https://www.google.com/maps/about/explore/</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Mountain View</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1196</id>
+		<name>Google Public Data Explorer</name>
+		<website>https://www.google.com/intl/en/about/</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Mountain View</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1197</id>
+		<name>Government Transaction Services</name>
+		<website>http://www.ezgrantfiling.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Vienna</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1198</id>
+		<name>Govini</name>
+		<website>http://www.govini.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1199</id>
+		<name>GovTribe</name>
+		<website>govtribe.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Arlington</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1200</id>
+		<name>Govzilla, Inc.</name>
+		<website>fdazilla.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Yorkville</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Advertising, Subscriptions, Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1201</id>
+		<name>gRadiant Research LLC</name>
+		<website>gradiant-research.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Concord</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>IP licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1202</id>
+		<name>Graebel Van Lines</name>
+		<website>http://www.graebelmoving.com</website>
+		<foundingdate>1950</foundingdate>
+		<hqcity>Aurora</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1203</id>
+		<name>Graematter, Inc.</name>
+		<website>www.graematter.com</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>St. Louis</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Subscriptions, Services</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1204</id>
+		<name>Granicus</name>
+		<website>http://www.granicus.com</website>
+		<foundingdate>1999</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1205</id>
+		<name>GreatSchools</name>
+		<website>greatschools.org</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Advertising, Philanthropic grants</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1206</id>
+		<name>GuideStar</name>
+		<website>http://www.guidestar.org</website>
+		<foundingdate>1994</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Philanthropic grants, Software licensing, Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1207</id>
+		<name>H3 Biomedicine</name>
+		<website>http://www.h3biomedicine.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Cambridge</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Lead generation to other businesses</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1208</id>
+		<name>Harris Corporation</name>
+		<website>www.harris.com</website>
+		<foundingdate>1895</foundingdate>
+		<hqcity>Melbourne</hqcity>
+		<industry>Environment &amp; Weather</industry>
+		<revenuesource>Government &amp; Defense, Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1209</id>
+		<name>HDScores, Inc</name>
+		<website>http://hdscores.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Baltimore</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1210</id>
+		<name>Headlight</name>
+		<website>HeadlightData.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Austin</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Government contract, Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1211</id>
+		<name>Healthgrades</name>
+		<website>http://www.healthgrades.com/</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>Denver, CO</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1212</id>
+		<name>Healthline</name>
+		<website>http://www.healthline.com</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1213</id>
+		<name>HealthMap</name>
+		<website>http://healthmap.org/</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1214</id>
+		<name>HealthPocket, Inc.</name>
+		<website>http://www.healthpocket.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Sunnyvale</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Advertising</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1215</id>
+		<name>HelloWallet</name>
+		<website>http://www.hellowallet.com/</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1216</id>
+		<name>HERE</name>
+		<website>http://here.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1217</id>
+		<name>Honest Buildings</name>
+		<website>https://www.honestbuildings.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1218</id>
+		<name>HopStop</name>
+		<website>https://www.hopstop.com/</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1219</id>
+		<name>Housefax</name>
+		<website>http://housefax.com/</website>
+		<foundingdate>2002</foundingdate>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1220</id>
+		<name>How's My Offer?</name>
+		<website>http://hmo.launchrock.com/</website>
+		<foundingdate>2014</foundingdate>
+		<industry>Education</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1221</id>
+		<name>IBM</name>
+		<website>www.ibm.com</website>
+		<foundingdate>1912</foundingdate>
+		<hqcity>Armonk</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>IT and business hardware, software, and services</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1222</id>
+		<name>ideas42</name>
+		<website>ideas42.org</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Philanthropic grants</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1223</id>
+		<name>iFactor Consulting</name>
+		<website>http://www.ifactorconsulting.com</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Tempe</hqcity>
+		<industry>Research &amp; Consulting</industry>
+	</company>
+	<company>
+		<id>us_companies_id_1224</id>
+		<name>IFI CLAIMS Patent Services</name>
+		<website>www.ificlaims.com</website>
+		<foundingdate>1955</foundingdate>
+		<hqcity>Madison</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1225</id>
+		<name>iMedicare</name>
+		<website>http://imedicare.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1226</id>
+		<name>Impact Forecasting (Aon)</name>
+		<website>http://www.aon.com/impactforecasting/impact-forecasting.jsp</website>
+		<foundingdate>1987</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Insurance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1227</id>
+		<name>Impaq International</name>
+		<website>http://www.impaqint.com</website>
+		<foundingdate>2001</foundingdate>
+		<hqcity>Columbia</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1228</id>
+		<name>Import.io</name>
+		<website>http://import.io</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Database licensing, sell data sets</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1229</id>
+		<name>IMS Health</name>
+		<website>http://www.imshealth.com/portal/site/imshealth</website>
+		<foundingdate>1954</foundingdate>
+		<hqcity>Danbury</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1230</id>
+		<name>InCadence</name>
+		<website>http://incadence.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Manassas</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1231</id>
+		<name>indoo.rs</name>
+		<website>http://indoo.rs/</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Palo Alto</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1232</id>
+		<name>InfoCommerce Group</name>
+		<website>http://infocommercegroup.com</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Bala Cynwyd</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1233</id>
+		<name>Informatica</name>
+		<website>http://www.informatica.com</website>
+		<foundingdate>1993</foundingdate>
+		<hqcity>Redwood City</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1234</id>
+		<name>InnoCentive</name>
+		<website>http://www.innocentive.com</website>
+		<foundingdate>2001</foundingdate>
+		<hqcity>Waltham</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1235</id>
+		<name>Innography</name>
+		<website>http://www.innography.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Austin</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1236</id>
+		<name>Innovest Systems</name>
+		<website>http://www.innovestsystems.com</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1237</id>
+		<name>Inovalon</name>
+		<website>http://www.inovalon.com/pages/default.aspx</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>Bowie</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1238</id>
+		<name>Inrix Traffic</name>
+		<website>http://www.inrixtraffic.com</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Kirkland</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1239</id>
+		<name>Intelius</name>
+		<website>http://corp.intelius.com/</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>Bellevue</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1240</id>
+		<name>Intermap Technologies</name>
+		<website>www.intermap.com</website>
+		<foundingdate>1996</foundingdate>
+		<hqcity>Englewood</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1241</id>
+		<name>Investormill</name>
+		<website>www.investormill.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1242</id>
+		<name>Iodine</name>
+		<website>www.iodine.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1243</id>
+		<name>IPHIX</name>
+		<website>iphix.net</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Falls Church</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing, Consulting Services</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1244</id>
+		<name>iRecycle</name>
+		<website>http://earth911.com/irecycle/</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Scotsdale</hqcity>
+		<industry>Environment &amp; Weather</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1245</id>
+		<name>iTriage</name>
+		<website>itriagehealth.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Denver</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Lead generation to other businesses, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1246</id>
+		<name>IVES Group Inc</name>
+		<website>http://auditanalytics.com/</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Sutton</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1247</id>
+		<name>IW Financial</name>
+		<website>http://info.iwfinancial.com</website>
+		<foundingdate>2001</foundingdate>
+		<hqcity>Portland</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1248</id>
+		<name>JJ Keller</name>
+		<website>http://www.jjkeller.com</website>
+		<foundingdate>1953</foundingdate>
+		<hqcity>Neenah</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1249</id>
+		<name>J.P. Morgan Chase</name>
+		<website>http://www.jpmorganchase.com/corporate/Home/home.htm</website>
+		<foundingdate>1799</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1250</id>
+		<name>Junar, Inc.</name>
+		<website>www.Junar.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>McKinney</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1251</id>
+		<name>Junyo</name>
+		<website>http://junyo.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Menlo Park</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1252</id>
+		<name>Jurispect</name>
+		<website>jurispect.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Mountain View</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1253</id>
+		<name>Kaiser Permanante</name>
+		<website>https://healthy.kaiserpermanente.org/html/kaiser/index.shtml</website>
+		<foundingdate>1945</foundingdate>
+		<hqcity>Oakland</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1254</id>
+		<name>karmadata</name>
+		<website>www.karmadata.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Hingham</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1255</id>
+		<name>Keychain Logistics Corp.</name>
+		<website>www.keychainlogistics.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Online Marketplace</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1256</id>
+		<name>KidAdmit, Inc.</name>
+		<website>www.kidadmit.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Education</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1257</id>
+		<name>Kimono Labs</name>
+		<website>kimonolabs.com</website>
+		<foundingdate>2014</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>No revenue, investors</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1258</id>
+		<name>KLD Research</name>
+		<website>http://www.msci.com/products/esg/#</website>
+		<foundingdate>1988</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1259</id>
+		<name>Knoema</name>
+		<website>http://knoema.com/</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1260</id>
+		<name>Knowledge Agency</name>
+		<website>http://www.knowledgeagency.com/</website>
+		<foundingdate>1989</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1261</id>
+		<name>KPMG</name>
+		<website>http://www.kpmg.com</website>
+		<foundingdate>1987</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1262</id>
+		<name>Kroll Bond Ratings Agency</name>
+		<website>https://www.krollbondratings.com/</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1263</id>
+		<name>Kyruus</name>
+		<website>http://kyruus.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1264</id>
+		<name>Lawdragon</name>
+		<website>lawdragon.com</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Advertising, Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1265</id>
+		<name>Legal Science Partners</name>
+		<website>www.legalsciencepartners.net</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Narberth</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1266</id>
+		<name>(Leg)Cyte</name>
+		<website>http://www.legcyte.com</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1267</id>
+		<name>LegiNation, Inc.</name>
+		<website>http://www.billtrack50.com/</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Denver</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1268</id>
+		<name>LegiStorm</name>
+		<website>http://www.legistorm.com/</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1269</id>
+		<name>Lenddo</name>
+		<website>https://www.lenddo.com/pages/what_is_lenddo/office</website>
+		<foundingdate>2011</foundingdate>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1270</id>
+		<name>Lending Club</name>
+		<website>https://www.lendingclub.com</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1271</id>
+		<name>Level One Technologies</name>
+		<website>http://www.levelonetechnologies.com</website>
+		<foundingdate>1999</foundingdate>
+		<hqcity>Maryland Heights</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1272</id>
+		<name>LexisNexis</name>
+		<website>http://www.lexisnexis.com/en-us/home.page</website>
+		<foundingdate>1977</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1273</id>
+		<name>Liberty Mutual Insurance Cos.</name>
+		<website>http://www.libertymutual.com</website>
+		<foundingdate>1912</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Insurance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1274</id>
+		<name>Lilly Open Innovation Drug Discovery</name>
+		<website>https://openinnovation.lilly.com/dd/</website>
+		<foundingdate>1876</foundingdate>
+		<hqcity>Indianapolis</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1275</id>
+		<name>Liquid Robotics</name>
+		<website>http://liquidr.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Sunnyvale</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1276</id>
+		<name>Locavore</name>
+		<website>http://www.getlocavore.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Madison</hqcity>
+		<industry>Food &amp; Agriculture</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1277</id>
+		<name>LOGIXDATA, LLC</name>
+		<website>www.logixdata.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Sacramento</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1278</id>
+		<name>LoopNet</name>
+		<website>http://www.loopnet.com</website>
+		<foundingdate>1995</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1279</id>
+		<name>Loqate, Inc.</name>
+		<website>www.loqate.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>San Mateo</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Software licensing, Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1280</id>
+		<name>LoseIt.com</name>
+		<website>http://loseit.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1281</id>
+		<name>LOVELAND Technologies</name>
+		<website>www.makeloveland.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Detroit</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Subscriptions, Special Projects</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1282</id>
+		<name>Lucid</name>
+		<website>http://www.luciddesigngroup.com</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Oakland</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1283</id>
+		<name>Lumesis, Inc.</name>
+		<website>www.lumesis.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Stamford</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Subscriptions, Software licensing, Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1284</id>
+		<name>Mango Transit</name>
+		<website>http://www.windowsphone.com/en-us/store/app/mango-transit/34083d75-dca6-4631-99be-4f9a3813dd73</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Redmond</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1285</id>
+		<name>Mapbox</name>
+		<website>mapbox.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Database licensing, Philanthropic grants, Software licensing, Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1286</id>
+		<name>Maponics</name>
+		<website>http://www.maponics.com/</website>
+		<foundingdate>2001</foundingdate>
+		<hqcity>White River Junction</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1287</id>
+		<name>MapQuest</name>
+		<website>http://www.mapquest.com</website>
+		<foundingdate>1967</foundingdate>
+		<hqcity>Denver</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1288</id>
+		<name>Marinexplore, Inc.</name>
+		<website>www.marinexplore.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Sunnyvale</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1289</id>
+		<name>MarketSense</name>
+		<website>http://www.marketsense.com/</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Sammamish</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1290</id>
+		<name>Marlin &amp; Associates</name>
+		<website>http://www.marlinllc.com</website>
+		<foundingdate>2002</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1291</id>
+		<name>Marlin Alter and Associates</name>
+		<website>http://www.marlinalter.com/</website>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1292</id>
+		<name>McGraw Hill Financial</name>
+		<website>http://www.mhfi.com</website>
+		<foundingdate>1919</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1293</id>
+		<name>McKinsey</name>
+		<website>http://www.mckinsey.com</website>
+		<foundingdate>1926</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1294</id>
+		<name>MedWatcher</name>
+		<website>http://www.medwatcher.org</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Boston, MA</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1295</id>
+		<name>Mercaris</name>
+		<website>http://www.mercaris.com/</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Silver Spring</hqcity>
+		<industry>Food &amp; Agriculture</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1296</id>
+		<name>Merrill Corp.</name>
+		<website>http://www.merrillcorp.com</website>
+		<foundingdate>1968</foundingdate>
+		<hqcity>St. Paul</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1297</id>
+		<name>Merrill Lynch</name>
+		<website>http://www.ml.com/index.asp?id=7695_15125</website>
+		<foundingdate>1914</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1298</id>
+		<name>MetLife</name>
+		<website>https://www.metlife.com</website>
+		<foundingdate>1868</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Insurance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1299</id>
+		<name>mHealthCoach</name>
+		<website>http://mhealthcoach.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1300</id>
+		<name>MicroBilt Corporation</name>
+		<website>http://www.microbilt.com/</website>
+		<foundingdate>1978</foundingdate>
+		<hqcity>Kennesaw</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1301</id>
+		<name>Microsoft Windows Azure Marketplace</name>
+		<website>http://datamarket.azure.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Redmond</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1302</id>
+		<name>Mint</name>
+		<website>https://www.mint.com</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Mountain View</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1303</id>
+		<name>Moody's</name>
+		<website>https://www.moodys.com</website>
+		<foundingdate>1909</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1304</id>
+		<name>Morgan Stanley</name>
+		<website>http://www.morganstanley.com</website>
+		<foundingdate>1935</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1305</id>
+		<name>Morningstar, Inc.</name>
+		<website>http://www.morningstar.com</website>
+		<foundingdate>1984</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1306</id>
+		<name>Mozio</name>
+		<website>http://www.mozio.com/</website>
+		<foundingdate>2011</foundingdate>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1307</id>
+		<name>MuckRock.com</name>
+		<website>https://www.muckrock.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1308</id>
+		<name>Munetrix</name>
+		<website>www.munetrix.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Auburn Hills</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Database licensing, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1309</id>
+		<name>Municode</name>
+		<website>http://www.municode.com</website>
+		<foundingdate>1951</foundingdate>
+		<hqcity>Tallahassee</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1310</id>
+		<name>National Van Lines</name>
+		<website>http://www.nationalvanlines.com</website>
+		<foundingdate>1901</foundingdate>
+		<hqcity>Broadview</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1311</id>
+		<name>Nationwide Mutual Insurance Company</name>
+		<website>http://www.nationwide.com</website>
+		<foundingdate>1926</foundingdate>
+		<industry>Insurance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1312</id>
+		<name>Nautilytics</name>
+		<website>http://www.nautilytics.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1313</id>
+		<name>Navico</name>
+		<website>www.navico.com</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Nashua</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Sale of hydrographic cartography</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1314</id>
+		<name>NERA Economic Consulting</name>
+		<website>http://www.nera.com/</website>
+		<foundingdate>1961</foundingdate>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1315</id>
+		<name>NerdWallet</name>
+		<website>http://www.nerdwallet.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Lead generation to other businesses</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1316</id>
+		<name>New Media Parents</name>
+		<website>http://mommaps.com/</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Advertising, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1317</id>
+		<name>Next Step Living</name>
+		<website>http://www.nextstepliving.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1318</id>
+		<name>NextBus</name>
+		<website>http://www.nextbus.com</website>
+		<foundingdate>1997</foundingdate>
+		<hqcity>Emeryville</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1319</id>
+		<name>nGAP Incorporated</name>
+		<website>ngap.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Bonsall</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1320</id>
+		<name>Nielsen</name>
+		<website>http://www.nielsen.com/us/en.html</website>
+		<foundingdate>1964</foundingdate>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1321</id>
+		<name>Noesis</name>
+		<website>https://www.noesisenergy.com/site/</website>
+		<foundingdate>1986</foundingdate>
+		<hqcity>Austin</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1322</id>
+		<name>NonprofitMetrics</name>
+		<website>https://www.nonprofitmetrics.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1323</id>
+		<name>North American Van Lines</name>
+		<website>http://northamericanvanlines.com</website>
+		<foundingdate>1933</foundingdate>
+		<hqcity>Fort Wayne</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1324</id>
+		<name>Noveda Technologies</name>
+		<website>www.noveda.com</website>
+		<foundingdate>2007</foundingdate>
+		<industry>Data/Technology</industry>
+	</company>
+	<company>
+		<id>us_companies_id_1325</id>
+		<name>NuCivic</name>
+		<website>http://www.nucivic.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1326</id>
+		<name>Numedii</name>
+		<website>http://numedii.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Palo Alto</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1327</id>
+		<name>Oliver Wyman</name>
+		<website>http://www.oliverwyman.com/index.html</website>
+		<foundingdate>1984</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1328</id>
+		<name>OnDeck</name>
+		<website>www.ondeck.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Growing number of small businesses we are able to serve</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1329</id>
+		<name>OnStar</name>
+		<website>https://www.onstar.com/web/portal/home?g=1</website>
+		<foundingdate>1995</foundingdate>
+		<hqcity>Warren</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1330</id>
+		<name>Ontodia, Inc</name>
+		<website>ontodia.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1331</id>
+		<name>Onvia</name>
+		<website>http://www.onvia.com</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1332</id>
+		<name>Open Data Nation</name>
+		<website>www.opendatanation.com</website>
+		<foundingdate>2015</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Consulting, Data analysis for clients, Government contract, Lead generation to other businesses, Philanthropic grants, Software licensing, Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1333</id>
+		<name>OpenCounter</name>
+		<website>http://opencounter.us</website>
+		<foundingdate>2013</foundingdate>
+		<industry>Governance</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1334</id>
+		<name>OpenGov</name>
+		<website>http://opengov.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Mountain View</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1335</id>
+		<name>OpenPlans</name>
+		<website>http://openplans.org</website>
+		<foundingdate>1999</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1336</id>
+		<name>OpportunitySpace, Inc.</name>
+		<website>opportunityspace.org</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1337</id>
+		<name>Optensity</name>
+		<website>http://www.optensity.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>McLean</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1338</id>
+		<name>optiGov</name>
+		<website>optigov.com</website>
+		<foundingdate>2013</foundingdate>
+		<industry>Governance</industry>
+		<revenuesource>Philanthropic grants, Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1339</id>
+		<name>OptumInsight</name>
+		<website>http://www.optuminsight.com</website>
+		<foundingdate>1993</foundingdate>
+		<hqcity>Eden Prairie</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1340</id>
+		<name>Orlin Research</name>
+		<website>http://www.orlinresearch.com</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Los Angeles</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1341</id>
+		<name>OSIsoft</name>
+		<website>http://www.osisoft.com</website>
+		<foundingdate>1980</foundingdate>
+		<hqcity>San Leandro</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1342</id>
+		<name>OTC Markets</name>
+		<website>http://www.otcmarkets.com/home</website>
+		<foundingdate>1997</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Advertising, Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1343</id>
+		<name>Outline</name>
+		<website>http://outline.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Somerset</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1344</id>
+		<name>Oversight Systems</name>
+		<website>http://www.oversightsystems.com</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>Atlanta</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1345</id>
+		<name>Overture Technologies</name>
+		<website>http://www.overturecorp.com/</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Bethesda</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1346</id>
+		<name>Owler</name>
+		<website>owler.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>San Mateo</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1347</id>
+		<name>Palantir Technologies</name>
+		<website>https://www.palantir.com</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Palo Alto</hqcity>
+		<industry>Data/Technology</industry>
+	</company>
+	<company>
+		<id>us_companies_id_1348</id>
+		<name>Panjiva</name>
+		<website>www.panjiva.com</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>New York</hqcity>
+		<revenuesource>Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1349</id>
+		<name>Parsons Brinckerhoff</name>
+		<website>www.pbworld.com</website>
+		<foundingdate>1885</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Consulting</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1350</id>
+		<name>Patently-O</name>
+		<website>www.patentlyo.com</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Columbia</hqcity>
+		<industry>Media</industry>
+		<revenuesource>Advertising</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1351</id>
+		<name>PatientsLikeMe</name>
+		<website>http://www.patientslikeme.com</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Cambridge</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1352</id>
+		<name>Pave</name>
+		<website>http://www.pave.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Philanthropic grants, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1353</id>
+		<name>Paxata</name>
+		<website>www.paxata.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Redwood City</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1354</id>
+		<name>PayScale, Inc.</name>
+		<website>http://www.payscale.com</website>
+		<foundingdate>2001</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Advertising, Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1355</id>
+		<name>PeerJ</name>
+		<website>https://peerj.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Corte Madera</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Publication fees</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1356</id>
+		<name>People Power</name>
+		<website>http://www.peoplepowerco.com/</website>
+		<foundingdate>2009</foundingdate>
+		<industry>Data/Technology</industry>
+	</company>
+	<company>
+		<id>us_companies_id_1357</id>
+		<name>Persint</name>
+		<website>http://www.persint.com/</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Atlanta</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1358</id>
+		<name>Personal Democracy Media</name>
+		<website>http://personaldemocracy.com</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Advertising, Philanthropic grants, Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1359</id>
+		<name>Personal, Inc.</name>
+		<website>personal.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1360</id>
+		<name>Personalis</name>
+		<website>http://www.personalis.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Menlo Park</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1361</id>
+		<name>Peterson's</name>
+		<website>www.corporate.petersons.com</website>
+		<foundingdate>1966</foundingdate>
+		<hqcity>Paramus</hqcity>
+		<industry>Education</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1362</id>
+		<name>PEV4me.com</name>
+		<website>http://www.pev4me.com</website>
+		<foundingdate>2011</foundingdate>
+		<industry>Energy</industry>
+		<revenuesource>Advertising, Data analysis for clients, Database licensing, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1363</id>
+		<name>PIXIA Corp</name>
+		<website>www.pixia.com</website>
+		<foundingdate>1999</foundingdate>
+		<hqcity>Reston</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1364</id>
+		<name>PlaceILive.com</name>
+		<website>www.placeilive.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Vilnius</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Venture Capital</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1365</id>
+		<name>PlanetEcosystems</name>
+		<website>http://planetecosystems.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1366</id>
+		<name>PlotWatt</name>
+		<website>https://plotwatt.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Durham</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1367</id>
+		<name>Plus-U</name>
+		<website>https://www.unigo.com/from-plusu.aspx</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1368</id>
+		<name>PolicyMap</name>
+		<website>policymap.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Philadelphia</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Philanthropic grants, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1369</id>
+		<name>Politify</name>
+		<website>http://www.politify.us</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Berkeley</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1370</id>
+		<name>Poncho App</name>
+		<website>http://poncho.is/</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Environment &amp; Weather</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1371</id>
+		<name>POPVOX</name>
+		<website>popvox.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Redwood City</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1372</id>
+		<name>Porch</name>
+		<website>porch.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1373</id>
+		<name>PossibilityU</name>
+		<website>http://www.possibilityu.com/</website>
+		<foundingdate>2010</foundingdate>
+		<industry>Education</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1374</id>
+		<name>PowerAdvocate</name>
+		<website>http://www.poweradvocate.com/index.html</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1375</id>
+		<name>Practice Fusion</name>
+		<website>http://www.practicefusion.com</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1376</id>
+		<name>Predilytics</name>
+		<website>http://www.predilytics.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Manchester</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1377</id>
+		<name>PricewaterhouseCoopers (PWC)</name>
+		<website>http://www.pwc.com/us/en/index.jhtml</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1378</id>
+		<name>ProgrammableWeb</name>
+		<website>http://www.programmableweb.com</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1379</id>
+		<name>Progressive Insurance Group</name>
+		<website>http://www.progressive.com</website>
+		<foundingdate>1937</foundingdate>
+		<hqcity>Mayfield Village</hqcity>
+		<industry>Insurance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1380</id>
+		<name>Propeller Health</name>
+		<website>http://propellerhealth.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Madison</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1381</id>
+		<name>ProPublica</name>
+		<website>http://www.propublica.org/</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Media</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1382</id>
+		<name>PublicEngines</name>
+		<website>http://www.publicengines.com/</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Draper</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1383</id>
+		<name>PYA Analytics</name>
+		<website>www.pyaanalytics.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Knoxville</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Consulting, Data analysis for clients, Government contract</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1384</id>
+		<name>Qado Energy, Inc.</name>
+		<website>www.qadoenergy.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Summit</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1385</id>
+		<name>Quandl</name>
+		<website>http://www.quandl.com</website>
+		<foundingdate>2011</foundingdate>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1386</id>
+		<name>Quertle</name>
+		<website>quertle.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Henderson</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1387</id>
+		<name>Quid</name>
+		<website>http://quid.com</website>
+		<foundingdate>1999</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1388</id>
+		<name>R R Donnelley</name>
+		<website>http://www.rrdonnelley.com</website>
+		<foundingdate>1864</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1389</id>
+		<name>RAND Corporation</name>
+		<website>http://www.rand.org</website>
+		<foundingdate>1946</foundingdate>
+		<hqcity>Santa Monica</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1390</id>
+		<name>Rand McNally</name>
+		<website>http://www.randmcnally.com/</website>
+		<foundingdate>1856</foundingdate>
+		<hqcity>Skokie</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1391</id>
+		<name>Rank and Filed</name>
+		<website>http://rankandfiled.com/</website>
+		<foundingdate>2013</foundingdate>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1392</id>
+		<name>Ranku</name>
+		<website>http://goranku.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1393</id>
+		<name>Rapid Cycle Solutions</name>
+		<website>www.rapidcyclesolutions.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Nokesville</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>IT related consulting services</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1394</id>
+		<name>realtor.com</name>
+		<website>http://www.realtor.com/</website>
+		<foundingdate>1996</foundingdate>
+		<hqcity>San Jose</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1395</id>
+		<name>Recargo</name>
+		<website>http://www.recargo.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Venice</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1396</id>
+		<name>ReciPal</name>
+		<website>https://www.recipal.com/</website>
+		<foundingdate>2011</foundingdate>
+		<industry>Food &amp; Agriculture</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1397</id>
+		<name>Redfin</name>
+		<website>http://www.redfin.com</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Brokerage Fees</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1398</id>
+		<name>RedLaser</name>
+		<website>http://redlaser.com</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>San Jose</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1399</id>
+		<name>Reed Elsevier</name>
+		<website>http://www.reedelsevier.com/Pages/Home.aspx</website>
+		<foundingdate>1880</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1400</id>
+		<name>REI Systems</name>
+		<website>www.reisystems.com</website>
+		<foundingdate>1989</foundingdate>
+		<hqcity>Sterling</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1401</id>
+		<name>Relationship Science</name>
+		<website>https://www.relsci.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1402</id>
+		<name>Remi</name>
+		<website>www.remi.com</website>
+		<foundingdate>1980</foundingdate>
+		<hqcity>Amherst</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1403</id>
+		<name>Retroficiency</name>
+		<website>http://www.retroficiency.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1404</id>
+		<name>Revaluate</name>
+		<website>https://revaluate.com/</website>
+		<foundingdate>2014</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Housing/Real Estate,</industry>
+		<revenuesource>Lead generation to other businesses, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1405</id>
+		<name>Revelstone</name>
+		<website>http://www.revelstonelabs.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Parsippany</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1406</id>
+		<name>Rezolve Group</name>
+		<website>http://www.rezolvegroup.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Sacramento</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1407</id>
+		<name>Rivet Software</name>
+		<website>http://rivetsoftware.com</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>Denver</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1408</id>
+		<name>Roadify Transit</name>
+		<website>www.roadify.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>New York City</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Lead generation to other businesses, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1409</id>
+		<name>Robinson + Yu</name>
+		<website>http://www.robinsonyu.com</website>
+		<foundingdate>2011</foundingdate>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1410</id>
+		<name>Russell Investments</name>
+		<website>http://www.russell.com/indexes/</website>
+		<foundingdate>1936</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1411</id>
+		<name>Sage Bionetworks</name>
+		<website>http://sagebase.org</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Storage, provenance, version control, and collaboration on open biological data.</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1412</id>
+		<name>SAP</name>
+		<website>http://www.sap.com/</website>
+		<foundingdate>1972</foundingdate>
+		<hqcity>Newtown Square</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1413</id>
+		<name>SAS</name>
+		<website>http://www.sas.com/</website>
+		<foundingdate>1976</foundingdate>
+		<hqcity>Cary</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1414</id>
+		<name>Scale Unlimited</name>
+		<website>http://www.scaleunlimited.com/</website>
+		<foundingdate>2006</foundingdate>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1415</id>
+		<name>Science Exchange</name>
+		<website>scienceexchange.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Palo Alto</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1416</id>
+		<name>Seabourne</name>
+		<website>www.seabourneinc.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Washington DC</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1417</id>
+		<name>SeeClickFix</name>
+		<website>en.seeclickfix.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>New Haven</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Advertising, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1418</id>
+		<name>SigFig</name>
+		<website>https://www.sigfig.com/</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1419</id>
+		<name>Simple Energy</name>
+		<website>http://simpleenergy.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Boulder</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1420</id>
+		<name>SimpleTuition</name>
+		<website>http://www.simpletuition.com/</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1421</id>
+		<name>SlashDB</name>
+		<website>http://www.slashdb.com/</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Jersey City</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Consulting, Data analysis for clients, Database licensing, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1422</id>
+		<name>Smart Utility Systems</name>
+		<website>http://smartusys.com/</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Chino Hills</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1423</id>
+		<name>SmartAsset</name>
+		<website>smartasset.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>New York City</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Advertising, Lead generation to other businesses, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1424</id>
+		<name>SmartProcure</name>
+		<website>http://smartprocure.us/</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Deerfield Beach</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1425</id>
+		<name>Smartronix</name>
+		<website>http://smartronix.com/</website>
+		<foundingdate>1995</foundingdate>
+		<hqcity>Hollywood</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1426</id>
+		<name>SnapSense</name>
+		<website>www.snapsense.co</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1427</id>
+		<name>Social Explorer</name>
+		<website>http://www.socialexplorer.com/</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing, Subscriptions, partnerships</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1428</id>
+		<name>Social Health Insights</name>
+		<website>http://socialhealthinsights.com/</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Fishers</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Custom Development and Strategic Consulting</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1429</id>
+		<name>SocialEffort Inc</name>
+		<website>http://socialeffort.co/</website>
+		<foundingdate>2013</foundingdate>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1430</id>
+		<name>Socrata</name>
+		<website>www.socrata.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1431</id>
+		<name>Solar Census</name>
+		<website>http://www.solarcensus.com</website>
+		<foundingdate>2006</foundingdate>
+		<industry>Energy</industry>
+	</company>
+	<company>
+		<id>us_companies_id_1432</id>
+		<name>SolarList</name>
+		<website>solarlist.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Brooklyn</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Lead generation to other businesses</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1433</id>
+		<name>Sophic Systems Alliance</name>
+		<website>http://www.sophicalliance.com</website>
+		<foundingdate>1993</foundingdate>
+		<hqcity>East Falmouth</hqcity>
+		<industry>Scientific Research</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1434</id>
+		<name>S&amp;P Capital IQ</name>
+		<website>https://www.capitaliq.com</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1435</id>
+		<name>SpaceCurve</name>
+		<website>www.spacecurve.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1436</id>
+		<name>SpeSo Health</name>
+		<website>http://www.spesohealth.com/</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Philadelphia</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1437</id>
+		<name>Spikes Cavell Analytic Inc</name>
+		<website>http://www.spikescavell.com/</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>Herndon</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1438</id>
+		<name>Splunk</name>
+		<website>http://www.splunk.com/</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1439</id>
+		<name>Spokeo</name>
+		<website>http://www.spokeo.com/</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Pasadena</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1440</id>
+		<name>SpotCrime</name>
+		<website>www.spotcrime.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Baltimore</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Advertising</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1441</id>
+		<name>SpotHero.com</name>
+		<website>http://spothero.com/</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1442</id>
+		<name>Stamen Design</name>
+		<website>http://stamen.com/</website>
+		<foundingdate>2001</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1443</id>
+		<name>Standard and Poor's</name>
+		<website>http://www.standardandpoors.com/en_US/web/guest/home</website>
+		<foundingdate>1860</foundingdate>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1444</id>
+		<name>State Farm Insurance</name>
+		<website>http://www.statefarm.com/</website>
+		<foundingdate>1922</foundingdate>
+		<hqcity>Bloomington</hqcity>
+		<industry>Insurance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1445</id>
+		<name>Sterling Infosystems</name>
+		<website>http://www.sterlinginfosystems.com/</website>
+		<foundingdate>1976</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1446</id>
+		<name>Stevens Worldwide Van Lines</name>
+		<website>http://www.stevensworldwide.com/</website>
+		<foundingdate>1905</foundingdate>
+		<hqcity>Wyckoff</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1447</id>
+		<name>STILLWATER SUPERCOMPUTING INC</name>
+		<website>http://www.stillwater-sc.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>El Dorado Hills</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Consulting, Data analysis for clients, Database licensing, Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1448</id>
+		<name>StockSmart</name>
+		<website>http://www.stocksmart.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1449</id>
+		<name>Stormpulse</name>
+		<website>http://stormpulse.com/</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Austin</hqcity>
+		<industry>Environment &amp; Weather</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1450</id>
+		<name>StreamLink Software</name>
+		<website>http://www.streamlinksoftware.com/</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Cleveland</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Software licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1451</id>
+		<name>StreetCred Software, Inc</name>
+		<website>streetcredsoftware.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Southlake</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1452</id>
+		<name>StreetEasy</name>
+		<website>http://streeteasy.com/</website>
+		<foundingdate>2005</foundingdate>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1453</id>
+		<name>Suddath</name>
+		<website>http://www.suddath.com/</website>
+		<foundingdate>1919</foundingdate>
+		<hqcity>Wayne</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1454</id>
+		<name>Symcat</name>
+		<website>http://www.symcat.com/</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>Baltimore</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Philanthropic grants</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1455</id>
+		<name>Synthicity</name>
+		<website>http://www.synthicity.com/</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Berkely</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1456</id>
+		<name>T. Rowe Price</name>
+		<website>http://www.troweprice.com</website>
+		<foundingdate>1937</foundingdate>
+		<hqcity>Baltimore</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1457</id>
+		<name>Tableau Software</name>
+		<website>http://www.tableausoftware.com/</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1458</id>
+		<name>TagniFi</name>
+		<website>tagnifi.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Tampa</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1459</id>
+		<name>Telenav</name>
+		<website>http://www.telenav.com/</website>
+		<foundingdate>1999</foundingdate>
+		<hqcity>Sunnyvale</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1460</id>
+		<name>Tendril</name>
+		<website>http://www.tendrilinc.com/</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>Boulder</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1461</id>
+		<name>Teradata</name>
+		<website>http://www.teradata.com/</website>
+		<foundingdate>1979</foundingdate>
+		<hqcity>Dayton</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1462</id>
+		<name>The Advisory Board Company</name>
+		<website>http://www.advisory.com/</website>
+		<foundingdate>1979</foundingdate>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1463</id>
+		<name>The Bridgespan Group</name>
+		<website>http://www.bridgespan.org/</website>
+		<foundingdate>1973</foundingdate>
+		<hqcity>Boston</hqcity>
+		<industry>Research &amp; Consulting</industry>
+	</company>
+	<company>
+		<id>us_companies_id_1464</id>
+		<name>The DocGraph Journal</name>
+		<website>http://docgraph.org/</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Houston</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1465</id>
+		<name>The Govtech Fund</name>
+		<website>www.govtechfund.com</website>
+		<foundingdate>2014</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1466</id>
+		<name>The Schork Report</name>
+		<website>schorkreport.com</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Villanova</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1467</id>
+		<name>The Vanguard Group</name>
+		<website>http://www.vanguard.com/</website>
+		<foundingdate>1975</foundingdate>
+		<hqcity>Valley Forge</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1468</id>
+		<name>Think Computer Corporation</name>
+		<website>thinkcomputer.com</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>Mountain View</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1469</id>
+		<name>Thinknum</name>
+		<website>http://www.thinknum.com/</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1470</id>
+		<name>Thomson Reuters</name>
+		<website>http://thomsonreuters.com/</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1471</id>
+		<name>TopCoder</name>
+		<website>http://www.topcoder.com/</website>
+		<foundingdate>2001</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1472</id>
+		<name>TowerData</name>
+		<website>http://intelligence.towerdata.com/</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1473</id>
+		<name>TransparaGov</name>
+		<website>http://www.TransparaGov.com/</website>
+		<foundingdate>2011</foundingdate>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1474</id>
+		<name>TransUnion</name>
+		<website>http://www.transunion.com/</website>
+		<foundingdate>1968</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1475</id>
+		<name>TrialTrove</name>
+		<website>http://www.citeline.com/products/trialtrove/</website>
+		<foundingdate>2002</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1476</id>
+		<name>TrialX</name>
+		<website>http://trialx.com/</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1477</id>
+		<name>Trintech</name>
+		<website>http://www.trintech.com/</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>Addison</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1478</id>
+		<name>TrueCar</name>
+		<website>http://www.truecar.com/</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Santa Monica</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1479</id>
+		<name>Trulia</name>
+		<website>trulia.com</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Advertising</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1480</id>
+		<name>TrustedID</name>
+		<website>https://www.trustedid.com/</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Palo Alto</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1481</id>
+		<name>TuvaLabs</name>
+		<website>https://www.tuvalabs.com/</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Philanthropic grants, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1482</id>
+		<name>Uber</name>
+		<website>https://www.uber.com/</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1483</id>
+		<name>Unigo LLC</name>
+		<website>www.unigo.com</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Education</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1484</id>
+		<name>United Mayflower</name>
+		<website>http://www.unitedmayflower.com/</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>St. Louis</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1485</id>
+		<name>Urban Airship</name>
+		<website>http://urbanairship.com/</website>
+		<foundingdate>2009</foundingdate>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1486</id>
+		<name>Urban Mapping, Inc</name>
+		<website>http://www.urbanmapping.com/</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1487</id>
+		<name>US Green Data</name>
+		<website>http://www.usgreendata.com/</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Cambridge</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1488</id>
+		<name>U.S. News Schools</name>
+		<website>http://www.usnews.com/</website>
+		<foundingdate>1983</foundingdate>
+		<hqcity>Washington</hqcity>
+		<industry>Education</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1489</id>
+		<name>USAA Group</name>
+		<website>https://www.usaa.com</website>
+		<foundingdate>1922</foundingdate>
+		<hqcity>San Antonio</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1490</id>
+		<name>USSearch</name>
+		<website>http://www.ussearch.com/</website>
+		<foundingdate>1994</foundingdate>
+		<hqcity>Bellevue</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1491</id>
+		<name>Verdafero</name>
+		<website>www.verdafero.com</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Subscriptions, Data analysis for clients, Database licensing</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1492</id>
+		<name>Vimo</name>
+		<website>www.vimo.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Palo Alto</hqcity>
+		<industry>Insurance</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1493</id>
+		<name>VisualDoD, LLC</name>
+		<website>www.visualdod.com</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Reston</hqcity>
+		<industry>Aerospace and Defense</industry>
+		<revenuesource>Software licensing, Subscriptions, Advisory services</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1494</id>
+		<name>Vital Axiom | Niinja</name>
+		<website>niinja.co</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Subscriptions, User fees for web or mobile access</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1495</id>
+		<name>VitalChek</name>
+		<website>https://www.vitalchek.com/</website>
+		<foundingdate>1987</foundingdate>
+		<hqcity>Brentwood</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1496</id>
+		<name>Vitals</name>
+		<website>http://www.vitals.com/</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Lyndhurst</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1497</id>
+		<name>Vizzuality</name>
+		<website>vizzuality.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1498</id>
+		<name>Votizen</name>
+		<website>www.votizen.com</website>
+		<foundingdate>2010</foundingdate>
+		<industry>Governance</industry>
+		<revenuesource>not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1499</id>
+		<name>Walk Score</name>
+		<website>www.walkscore.com</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Advertising, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1500</id>
+		<name>WaterSmart Software</name>
+		<website>http://www.watersmartsoftware.com/</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Environment &amp; Weather</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Software licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1501</id>
+		<name>WattzOn</name>
+		<website>http://www.wattzon.com/</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Mountain View</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1502</id>
+		<name>Way Better Patents</name>
+		<website>http://waybetterpatents.com/</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>Oakton</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Subscriptions, Custom Reports and Analysis</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1503</id>
+		<name>Weather Channel</name>
+		<website>http://www.weather.com/</website>
+		<foundingdate>1982</foundingdate>
+		<hqcity>Atlanta</hqcity>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1504</id>
+		<name>Weather Decision Technologies</name>
+		<website>http://www.wdtinc.com/</website>
+		<foundingdate>1999</foundingdate>
+		<hqcity>Norman</hqcity>
+		<industry>Environment &amp; Weather</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1505</id>
+		<name>Weather Underground</name>
+		<website>http://www.wunderground.com/</website>
+		<foundingdate>1995</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Environment &amp; Weather</industry>
+		<revenuesource>Not provided by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1506</id>
+		<name>WebFilings</name>
+		<website>https://www.webfilings.com/</website>
+		<foundingdate>2008</foundingdate>
+		<hqcity>Ames</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1507</id>
+		<name>Webitects</name>
+		<website>webitects.com</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>Chicago</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Web Design, Development</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1508</id>
+		<name>WebMD</name>
+		<website>http://www.webmd.com/</website>
+		<foundingdate>1996</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1509</id>
+		<name>Weight Watchers</name>
+		<website>http://www.weightwatchers.com/</website>
+		<foundingdate>1960</foundingdate>
+		<hqcity>Jericho</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1510</id>
+		<name>WeMakeItSafer</name>
+		<website>http://wemakeitsafer.com/</website>
+		<foundingdate>2009</foundingdate>
+		<hqcity>Oakland</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1511</id>
+		<name>Wheaton World Wide Moving</name>
+		<website>http://www.wheatonworldwide.com/</website>
+		<foundingdate>1945</foundingdate>
+		<hqcity>Indianapolis</hqcity>
+		<industry>Transportation</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1512</id>
+		<name>Whitby Group</name>
+		<website>http://www.whitbygroup.com</website>
+		<foundingdate>2001</foundingdate>
+		<hqcity>Ithaca</hqcity>
+		<industry>Research &amp; Consulting</industry>
+		<revenuesource>Design consulting</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1513</id>
+		<name>Wolfram Research</name>
+		<website>http://www.wolfram.com/</website>
+		<foundingdate>1987</foundingdate>
+		<hqcity>Champaign</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1514</id>
+		<name>Wolters Kluwer</name>
+		<website>http://www.wolterskluwer.com/</website>
+		<foundingdate>1836</foundingdate>
+		<hqcity>Minneapolis</hqcity>
+		<industry>Business &amp; Legal Services</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1515</id>
+		<name>Workhands</name>
+		<website>https://www.workhands.us/</website>
+		<foundingdate>2012</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1516</id>
+		<name>Xatori</name>
+		<website>http://www.xatori.com/</website>
+		<foundingdate>2010</foundingdate>
+		<hqcity>Menlo Park</hqcity>
+		<industry>Energy</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1517</id>
+		<name>Xcential</name>
+		<website>xcential.com</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>Encinitas</hqcity>
+		<industry>Governance</industry>
+		<revenuesource>Other</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1518</id>
+		<name>xDayta</name>
+		<website>http://www.xdayta.com</website>
+		<foundingdate>2013</foundingdate>
+		<hqcity>Phoenix</hqcity>
+		<industry>Data/Technology</industry>
+		<revenuesource>Lead generation to other businesses, User fees for web or mobile access, Marketplace Broker Fees</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1519</id>
+		<name>Xignite</name>
+		<website>http://www.xignite.com/</website>
+		<foundingdate>2000</foundingdate>
+		<hqcity>San Mateo</hqcity>
+		<industry>Finance &amp; Investment</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1520</id>
+		<name>Yahoo</name>
+		<website>http://www.yahoo.com/</website>
+		<foundingdate>1994</foundingdate>
+		<hqcity>Sunnyvale</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1521</id>
+		<name>Zebu Compliance Solutions</name>
+		<website>www.zebucompliance.com</website>
+		<foundingdate>1999</foundingdate>
+		<hqcity>Portsmouth</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Data analysis for clients, Database licensing, Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1522</id>
+		<name>Yelp</name>
+		<website>http://www.yelp.com/</website>
+		<foundingdate>2004</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Lifestyle &amp; Consumer</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1523</id>
+		<name>YourMapper</name>
+		<website>http://www.yourmapper.com</website>
+		<foundingdate>2005</foundingdate>
+		<hqcity>Louisville</hqcity>
+		<industry>Geospatial/Mapping</industry>
+		<revenuesource>Advertising, Data analysis for clients, Database licensing, Software licensing, Subscriptions, API</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1524</id>
+		<name>Zillow</name>
+		<website>http://www.zillow.com/</website>
+		<foundingdate>2006</foundingdate>
+		<hqcity>Seattle</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1525</id>
+		<name>ZocDoc</name>
+		<website>http://www.zocdoc.com/</website>
+		<foundingdate>2007</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Healthcare</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1526</id>
+		<name>Zonability</name>
+		<website>http://www.zonability.com/</website>
+		<foundingdate>2003</foundingdate>
+		<hqcity>Austin</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1527</id>
+		<name>Zoner</name>
+		<website>www.Zonerapp.com</website>
+		<foundingdate>2011</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Housing/Real Estate</industry>
+		<revenuesource>Subscriptions</revenuesource>
+	</company>
+	<company>
+		<id>us_companies_id_1528</id>
+		<name>Zurich Insurance (Risk Room)</name>
+		<website>http://www.zurichna.com/</website>
+		<foundingdate>1912</foundingdate>
+		<hqcity>Schaumburg</hqcity>
+		<industry>Insurance</industry>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+</companies>
