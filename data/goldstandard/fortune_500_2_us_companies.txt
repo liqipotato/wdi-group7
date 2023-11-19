@@ -1,3 +1,8 @@
+- matching record pairs (randomly chosen, 20% of GS)
+- corner case matches and non-matches (40% of GS)
+- non-matching record pairs (randomly chosen, 40% of GS)
+
+Matching record pairs:
 fortune_500_id_1005,us_companies_id_1044,TRUE
 fortune_500_id_1218,us_companies_id_1050,TRUE
 fortune_500_id_1497,us_companies_id_1078,TRUE
@@ -6,6 +11,9 @@ fortune_500_id_1037,us_companies_id_1221,TRUE
 fortune_500_id_1047,us_companies_id_1298,TRUE
 fortune_500_id_1060,us_companies_id_1304,TRUE
 fortune_500_id_1035,us_companies_id_1444,TRUE
+
+
+Corner case matches and non-matches:
 fortune_500_id_1284,us_companies_id_1009,TRUE
 fortune_500_id_1071,us_companies_id_1014,TRUE
 fortune_500_id_1001,us_companies_id_1017,TRUE
@@ -48,6 +56,8 @@ fortune_500_id_1259,us_companies_id_1077,FALSE
 fortune_500_id_1077,us_companies_id_1132,FALSE
 fortune_500_id_1058,us_companies_id_1142,FALSE
 fortune_500_id_1058,us_companies_id_1143,FALSE
+
+Non-matching record pairs:
 fortune_500_id_1075,us_companies_id_1328,FALSE
 fortune_500_id_1082,us_companies_id_1422,FALSE
 fortune_500_id_1016,us_companies_id_1480,FALSE
