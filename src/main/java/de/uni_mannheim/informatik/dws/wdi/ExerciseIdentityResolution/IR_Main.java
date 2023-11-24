@@ -45,24 +45,23 @@ public class IR_Main {
 	public static void main(String[] args) throws Exception {
 		// loading data
 		logger.info("*\tLoading datasets\t*");
-		HashedDataSet<Company, Attribute> dataFortune500 = new HashedDataSet<>();
+		HashedDataSet<Company, Attribute> usCompanies = new HashedDataSet<>();
 		new CompanyXMLReader().loadFromXML(new File("data/input/us_companies_translated.xml"), "/companies/company",
+				usCompanies);
+		HashedDataSet<Company, Attribute> dataFortune500 = new HashedDataSet<>();
+		new CompanyXMLReader().loadFromXML(new File("data/input/fortune_500_translated.xml"), "/companies/company",
 				dataFortune500);
-		HashedDataSet<Company, Attribute> dataTop2000 = new HashedDataSet<>();
-		new CompanyXMLReader().loadFromXML(new File("data/input/top_2000_translated.xml"), "/companies/company",
-				dataTop2000);
 
 		// // load the gold standard (test set)
-		// logger.info("*\tLoading gold standard\t*");
-		// MatchingGoldStandard gsTest = new MatchingGoldStandard();
-		// gsTest.loadFromCSVFile(new File(
-		// "data/goldstandard/gs_academy_awards_2_actors_test.csv"));
+		logger.info("*\tLoading gold standard\t*");
+		MatchingGoldStandard gsTest = new MatchingGoldStandard();
+		gsTest.loadFromCSVFile(new File(
+		"data/goldstandard/fortune_500_2_us_companies.csv"));
 
 		// create a matching rule
 		LinearCombinationMatchingRule<Company, Attribute> matchingRule = new LinearCombinationMatchingRule<>(
 				0.7);
-		// matchingRule.activateDebugReport("data/output/debugResultsMatchingRule.csv",
-		// 1000, gsTest);
+		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule.csv", 1000, gsTest);
 
 		// add comparators
 		matchingRule.addComparator(new CompanyNameComparatorEqual(), 1.0);
@@ -85,12 +84,11 @@ public class IR_Main {
 		// Execute the matching
 		logger.info("*\tRunning identity resolution\t*");
 		Processable<Correspondence<Company, Attribute>> correspondences = engine.runIdentityResolution(
-				dataFortune500, dataTop2000, null, matchingRule,
+				usCompanies, dataFortune500, null, matchingRule,
 				blocker);
 
 		// Create a top-1 global matching
-		// correspondences = engine.getTopKInstanceCorrespondences(correspondences, 1,
-		// 0.0);
+		correspondences = engine.getTopKInstanceCorrespondences(correspondences, 1, 0.0);
 
 		// Alternative: Create a maximum-weight, bipartite matching
 		// MaximumBipartiteMatchingAlgorithm<Movie,Attribute> maxWeight = new
@@ -99,23 +97,22 @@ public class IR_Main {
 		// correspondences = maxWeight.getResult();
 
 		// write the correspondences to the output file
-		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/fortune_500_2_top_2000_correspondences.csv"),
+		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/fortune_500_2_us_companies_correspondences.csv"),
 				correspondences);
-	}
-	// logger.info("*\tEvaluating result\t*");
-	// // evaluate your result
-	// MatchingEvaluator<Movie, Attribute> evaluator = new MatchingEvaluator<Movie,
-	// Attribute>();
-	// Performance perfTest = evaluator.evaluateMatching(correspondences,
-	// gsTest);
+	
+		// logger.info("*\tEvaluating result\t*");
+		// // evaluate your result
+		MatchingEvaluator<Company, Attribute> evaluator = new MatchingEvaluator<Company,
+		Attribute>();
+		Performance perfTest = evaluator.evaluateMatching(correspondences, gsTest);
 
-	// // print the evaluation result
-	// logger.info("Academy Awards <-> Actors");
-	// logger.info(String.format(
-	// "Precision: %.4f", perfTest.getPrecision()));
-	// logger.info(String.format(
-	// "Recall: %.4f", perfTest.getRecall()));
-	// logger.info(String.format(
-	// "F1: %.4f", perfTest.getF1()));
-	// }
+		// // print the evaluation result
+		logger.info("Fortune 500 Companies <-> US Companies");
+		logger.info(String.format(
+		"Precision: %.4f", perfTest.getPrecision()));
+		logger.info(String.format(
+		"Recall: %.4f", perfTest.getRecall()));
+		logger.info(String.format(
+		"F1: %.4f", perfTest.getF1()));
+	}
 }
