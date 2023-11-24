@@ -51,12 +51,15 @@ public class IR_Main {
 		HashedDataSet<Company, Attribute> dataFortune500 = new HashedDataSet<>();
 		new CompanyXMLReader().loadFromXML(new File("data/input/fortune_500_translated.xml"), "/companies/company",
 				dataFortune500);
+		HashedDataSet<Company, Attribute> dataTop2000 = new HashedDataSet<>();
+		new CompanyXMLReader().loadFromXML(new File("data/input/top_2000_translated.xml"), "/companies/company",
+				dataTop2000);
 
 		// // load the gold standard (test set)
 		logger.info("*\tLoading gold standard\t*");
 		MatchingGoldStandard gsTest = new MatchingGoldStandard();
 		gsTest.loadFromCSVFile(new File(
-		"data/goldstandard/fortune_500_2_us_companies.csv"));
+		"data/goldstandard/top_2000_2_us_companies.csv"));
 
 		// create a matching rule
 		LinearCombinationMatchingRule<Company, Attribute> matchingRule = new LinearCombinationMatchingRule<>(
@@ -84,7 +87,7 @@ public class IR_Main {
 		// Execute the matching
 		logger.info("*\tRunning identity resolution\t*");
 		Processable<Correspondence<Company, Attribute>> correspondences = engine.runIdentityResolution(
-				usCompanies, dataFortune500, null, matchingRule,
+				usCompanies, dataTop2000, null, matchingRule,
 				blocker);
 
 		// Create a top-1 global matching
@@ -107,7 +110,7 @@ public class IR_Main {
 		Performance perfTest = evaluator.evaluateMatching(correspondences, gsTest);
 
 		// // print the evaluation result
-		logger.info("Fortune 500 Companies <-> US Companies");
+		logger.info("Top 2000 Companies <-> US Companies");
 		logger.info(String.format(
 		"Precision: %.4f", perfTest.getPrecision()));
 		logger.info(String.format(
