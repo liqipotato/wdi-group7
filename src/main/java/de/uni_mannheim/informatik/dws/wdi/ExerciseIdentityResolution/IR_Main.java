@@ -50,20 +50,20 @@ public class IR_Main {
 		HashedDataSet<Company, Attribute> usCompanies = new HashedDataSet<>();
 		new CompanyXMLReader().loadFromXML(new File("data/input/us_companies_translated.xml"), "/companies/company",
 				usCompanies);
-		HashedDataSet<Company, Attribute> dataFortune500 = new HashedDataSet<>();
-		new CompanyXMLReader().loadFromXML(new File("data/input/fortune_500_translated.xml"), "/companies/company",
-				dataFortune500);
-		// HashedDataSet<Company, Attribute> dataTop2000 = new HashedDataSet<>();
-		// new CompanyXMLReader().loadFromXML(new File("data/input/top_2000_translated.xml"), "/companies/company",
-		// 		dataTop2000);
+		// HashedDataSet<Company, Attribute> dataFortune500 = new HashedDataSet<>();
+		// new CompanyXMLReader().loadFromXML(new File("data/input/fortune_500_translated.xml"), "/companies/company",
+		// 		dataFortune500);
+		HashedDataSet<Company, Attribute> dataTop2000 = new HashedDataSet<>();
+		new CompanyXMLReader().loadFromXML(new File("data/input/top_2000_translated.xml"), "/companies/company",
+				dataTop2000);
 
 		// // load the gold standard
 		logger.info("*\tLoading gold standard\t*");
 		MatchingGoldStandard gsTest = new MatchingGoldStandard();
-		gsTest.loadFromCSVFile(new File(
-		"data/goldstandard/fortune_500_2_us_companies.csv")); // fortune 500 against us companies
 		// gsTest.loadFromCSVFile(new File(
-		// "data/goldstandard/top_2000_2_us_companies.csv")); // top 2000 against us companies
+		// "data/goldstandard/fortune_500_2_us_companies.csv")); // fortune 500 against us companies
+		gsTest.loadFromCSVFile(new File(
+		"data/goldstandard/top_2000_2_us_companies.csv")); // top 2000 against us companies
 
 		// create a matching rule
 		LinearCombinationMatchingRule<Company, Attribute> matchingRule = new LinearCombinationMatchingRule<>(
@@ -71,9 +71,9 @@ public class IR_Main {
 		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule.csv", 1000, gsTest);
 
 		// add comparators
-		matchingRule.addComparator(new CompanyNameComparatorEqual(), 1.0);
+		// matchingRule.addComparator(new CompanyNameComparatorEqual(), 1.0);
 		// matchingRule.addComparator(new CompanyNameComparatorJaccard(), 1.0);
-		//matchingRule.addComparator(new CompanyNameComparatorLevenshtein(), 1.0);
+		matchingRule.addComparator(new CompanyNameComparatorLevenshtein(), 1.0);
 
 		// create a blocker (blocking strategy)
 		// StandardRecordBlocker<Movie, Attribute> blocker = new
@@ -91,12 +91,12 @@ public class IR_Main {
 
 		// Execute the matching
 		logger.info("*\tRunning identity resolution\t*");
-		Processable<Correspondence<Company, Attribute>> correspondences = engine.runIdentityResolution(
-				usCompanies, dataFortune500, null, matchingRule,
-				blocker); // fortune 500 against us companies
 		// Processable<Correspondence<Company, Attribute>> correspondences = engine.runIdentityResolution(
-		// 		usCompanies, dataTop2000, null, matchingRule,
+		// 		usCompanies, dataFortune500, null, matchingRule,
 		// 		blocker); // fortune 500 against us companies
+		Processable<Correspondence<Company, Attribute>> correspondences = engine.runIdentityResolution(
+				usCompanies, dataTop2000, null, matchingRule,
+				blocker); // fortune 500 against us companies
 
 		// Create a top-1 global matching
 		correspondences = engine.getTopKInstanceCorrespondences(correspondences, 1, 0.0);
@@ -108,8 +108,8 @@ public class IR_Main {
 		// correspondences = maxWeight.getResult();
 
 		// write the correspondences to the output file
-		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/fortune_500_2_us_companies_correspondences.csv"), correspondences); // fortune 500 against us companies
-		// new CSVCorrespondenceFormatter().writeCSV(new File("data/output/top_2000_2_us_companies_correspondences.csv"), correspondences); // top 2000 against us companies
+		// new CSVCorrespondenceFormatter().writeCSV(new File("data/output/fortune_500_2_us_companies_correspondences.csv"), correspondences); // fortune 500 against us companies
+		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/top_2000_2_us_companies_correspondences.csv"), correspondences); // top 2000 against us companies
 	
 		// logger.info("*\tEvaluating result\t*");
 		// // evaluate your result
@@ -118,7 +118,7 @@ public class IR_Main {
 		Performance perfTest = evaluator.evaluateMatching(correspondences, gsTest);
 
 		// // print the evaluation result
-		logger.info("Fortune 500 Companies <-> US Companies");
+		logger.info("Forbes Top 2000 Companies <-> US Companies");
 		logger.info(String.format(
 		"Precision: %.4f", perfTest.getPrecision()));
 		logger.info(String.format(
