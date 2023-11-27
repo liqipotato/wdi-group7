@@ -54,7 +54,8 @@ public class CompanyXMLReader extends XMLMatchableReader<Company, Attribute> {
 
 		// fill the attributes
 		company.setName(getValueFromChildElement(node, "name"));
-		// company.setDirector(getValueFromChildElement(node, "director"));
+		company.setHqcity(getValueFromChildElement(node, "hqcity"));
+		company.setIndustry(getValueFromChildElement(node, "industry")); 
 
 		// convert the date string into a DateTime object
 		// try {

@@ -4,8 +4,12 @@ import java.io.File;
 
 import org.slf4j.Logger;
 
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.CompanyBlockingKeyByHqCityGenerator;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.CompanyBlockingKeyByIndustryGenerator;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.MovieBlockingKeyByTitleGenerator;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.CompanyNameComparatorEqual;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.CompanyNameComparatorJaccard;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.CompanyNameComparatorLevenshtein;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.MovieTitleComparatorJaccard;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Company;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.CompanyXMLReader;
@@ -40,57 +44,62 @@ public class IR_Main {
 	 *
 	 */
 
-	private static final Logger logger = WinterLogManager.activateLogger("default");
+	private static final Logger logger = WinterLogManager.activateLogger("trace");
 
 	public static void main(String[] args) throws Exception {
 		// loading data
 		logger.info("*\tLoading datasets\t*");
-		HashedDataSet<Company, Attribute> dataFortune500 = new HashedDataSet<>();
+		HashedDataSet<Company, Attribute> usCompanies = new HashedDataSet<>();
 		new CompanyXMLReader().loadFromXML(new File("data/input/us_companies_translated.xml"), "/companies/company",
-				dataFortune500);
+				usCompanies);
+		// HashedDataSet<Company, Attribute> dataFortune500 = new HashedDataSet<>();
+		// new CompanyXMLReader().loadFromXML(new File("data/input/fortune_500_translated.xml"), "/companies/company",
+		// 		dataFortune500);
 		HashedDataSet<Company, Attribute> dataTop2000 = new HashedDataSet<>();
 		new CompanyXMLReader().loadFromXML(new File("data/input/top_2000_translated.xml"), "/companies/company",
 				dataTop2000);
 
-		// // load the gold standard (test set)
-		// logger.info("*\tLoading gold standard\t*");
-		// MatchingGoldStandard gsTest = new MatchingGoldStandard();
+		// // load the gold standard
+		logger.info("*\tLoading gold standard\t*");
+		MatchingGoldStandard gsTest = new MatchingGoldStandard();
+		gsTest.loadFromCSVFile(new File(
+		"data/goldstandard/fortune_500_2_us_companies.csv")); // fortune 500 against us companies
 		// gsTest.loadFromCSVFile(new File(
-		// "data/goldstandard/gs_academy_awards_2_actors_test.csv"));
+		// "data/goldstandard/top_2000_2_us_companies.csv")); // top 2000 against us companies
 
 		// create a matching rule
 		LinearCombinationMatchingRule<Company, Attribute> matchingRule = new LinearCombinationMatchingRule<>(
 				0.7);
-		// matchingRule.activateDebugReport("data/output/debugResultsMatchingRule.csv",
-		// 1000, gsTest);
+		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule.csv", 1000, gsTest);
 
 		// add comparators
-		matchingRule.addComparator(new CompanyNameComparatorEqual(), 1.0);
-		// matchingRule.addComparator(new MovieTitleComparatorJaccard(), 0.7);
+		// matchingRule.addComparator(new CompanyNameComparatorEqual(), 1.0);
+		// matchingRule.addComparator(new CompanyNameComparatorJaccard(), 1.0);
+		matchingRule.addComparator(new CompanyNameComparatorLevenshtein(), 1.0);
 
 		// create a blocker (blocking strategy)
-		// StandardRecordBlocker<Movie, Attribute> blocker = new
-		// StandardRecordBlocker<Movie, Attribute>(
-		// new MovieBlockingKeyByTitleGenerator());
+		// StandardRecordBlocker<Company, Attribute> blocker = new StandardRecordBlocker<Company, Attribute>(new CompanyBlockingKeyByHqCityGenerator());
 		NoBlocker<Company, Attribute> blocker = new NoBlocker<>();
-		// SortedNeighbourhoodBlocker<Movie, Attribute, Attribute> blocker = new
-		// SortedNeighbourhoodBlocker<>(new MovieBlockingKeyByTitleGenerator(), 1);
-		// blocker.setMeasureBlockSizes(true);
+		// SortedNeighbourhoodBlocker<Company, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new CompanyBlockingKeyByHqCityGenerator(), 30);
+		blocker.setMeasureBlockSizes(true);
+		
 		// Write debug results to file:
-		// blocker.collectBlockSizeData("data/output/debugResultsBlocking.csv", 100);
+		blocker.collectBlockSizeData("data/output/debugResultsBlocking.csv", 100);
 
 		// Initialize Matching Engine
 		MatchingEngine<Company, Attribute> engine = new MatchingEngine<>();
 
 		// Execute the matching
 		logger.info("*\tRunning identity resolution\t*");
+		// Processable<Correspondence<Company, Attribute>> correspondences = engine.runIdentityResolution(
+		// 		usCompanies, dataFortune500, null, matchingRule,
+		// 		blocker); // fortune 500 against us companies
 		Processable<Correspondence<Company, Attribute>> correspondences = engine.runIdentityResolution(
-				dataFortune500, dataTop2000, null, matchingRule,
-				blocker);
+				usCompanies, dataTop2000, null, matchingRule,
+				blocker); // Forbes 2000 against us companies
 
 		// Create a top-1 global matching
-		// correspondences = engine.getTopKInstanceCorrespondences(correspondences, 1,
-		// 0.0);
+		correspondences = engine.getTopKInstanceCorrespondences(correspondences, 1, 0.0);
 
 		// Alternative: Create a maximum-weight, bipartite matching
 		// MaximumBipartiteMatchingAlgorithm<Movie,Attribute> maxWeight = new
@@ -99,23 +108,22 @@ public class IR_Main {
 		// correspondences = maxWeight.getResult();
 
 		// write the correspondences to the output file
-		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/fortune_500_2_top_2000_correspondences.csv"),
-				correspondences);
-	}
-	// logger.info("*\tEvaluating result\t*");
-	// // evaluate your result
-	// MatchingEvaluator<Movie, Attribute> evaluator = new MatchingEvaluator<Movie,
-	// Attribute>();
-	// Performance perfTest = evaluator.evaluateMatching(correspondences,
-	// gsTest);
+		// new CSVCorrespondenceFormatter().writeCSV(new File("data/output/equal_fortune_500_2_us_companies_correspondences.csv"), correspondences); // fortune 500 against us companies
+		new CSVCorrespondenceFormatter().writeCSV(new File("data/output/levenshtein_top_2000_2_us_companies_correspondences.csv"), correspondences); // top 2000 against us companies
+	
+		// logger.info("*\tEvaluating result\t*");
+		// // evaluate your result
+		MatchingEvaluator<Company, Attribute> evaluator = new MatchingEvaluator<Company,
+		Attribute>();
+		Performance perfTest = evaluator.evaluateMatching(correspondences, gsTest);
 
-	// // print the evaluation result
-	// logger.info("Academy Awards <-> Actors");
-	// logger.info(String.format(
-	// "Precision: %.4f", perfTest.getPrecision()));
-	// logger.info(String.format(
-	// "Recall: %.4f", perfTest.getRecall()));
-	// logger.info(String.format(
-	// "F1: %.4f", perfTest.getF1()));
-	// }
+		// // print the evaluation result
+		logger.info("Forbes Top 2000 Companies <-> US Companies");
+		logger.info(String.format(
+		"Precision: %.4f", perfTest.getPrecision()));
+		logger.info(String.format(
+		"Recall: %.4f", perfTest.getRecall()));
+		logger.info(String.format(
+		"F1: %.4f", perfTest.getF1()));
+	}
 }
