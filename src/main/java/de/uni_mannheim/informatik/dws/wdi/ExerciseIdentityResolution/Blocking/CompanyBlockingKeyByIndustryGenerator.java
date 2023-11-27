@@ -26,7 +26,6 @@ public class CompanyBlockingKeyByIndustryGenerator extends RecordBlockingKeyGene
         }
         
         String blockingKeyValue = "";
-        System.out.println(Arrays.toString(tokens));
         for (int i = 0; i <= 2 && i < tokens.length; i++) {
             if (tokens[i] != null) {
                 blockingKeyValue += tokens[i].substring(0, Math.min(2, tokens[i].length())).toUpperCase();
