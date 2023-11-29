@@ -11,6 +11,12 @@
  */
 package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model;
 
+import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
+
+import org.apache.commons.lang3.StringUtils;
+
 // import java.time.LocalDateTime;
 // import java.time.format.DateTimeFormatter;
 // import java.time.format.DateTimeFormatterBuilder;
@@ -21,6 +27,8 @@ package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model;
 import org.w3c.dom.Node;
 
 import de.uni_mannheim.informatik.dws.winter.model.DataSet;
+import de.uni_mannheim.informatik.dws.winter.model.FusibleFactory;
+import de.uni_mannheim.informatik.dws.winter.model.RecordGroup;
 import de.uni_mannheim.informatik.dws.winter.model.defaultmodel.Attribute;
 import de.uni_mannheim.informatik.dws.winter.model.io.XMLMatchableReader;
 
@@ -30,7 +38,8 @@ import de.uni_mannheim.informatik.dws.winter.model.io.XMLMatchableReader;
  * @author Oliver Lehmberg (oli@dwslab.de)
  * 
  */
-public class CompanyXMLReader extends XMLMatchableReader<Company, Attribute> {
+public class CompanyXMLReader extends XMLMatchableReader<Company, Attribute> implements
+FusibleFactory<Company, Attribute> {
 
 	/*
 	 * (non-Javadoc)
@@ -42,6 +51,8 @@ public class CompanyXMLReader extends XMLMatchableReader<Company, Attribute> {
 	@Override
 	protected void initialiseDataset(DataSet<Company, Attribute> dataset) {
 		super.initialiseDataset(dataset);
+
+		dataset.addAttribute(Company.NAME);
 
 	}
 
@@ -80,5 +91,22 @@ public class CompanyXMLReader extends XMLMatchableReader<Company, Attribute> {
 
 		return company;
 	}
+
+	@Override
+	public Company createInstanceForFusion(RecordGroup<Company, Attribute> cluster) {
+	
+		List<String> ids = new LinkedList<>();
+		
+		for (Company c : cluster.getRecords()) {
+			ids.add(c.getIdentifier());
+		}
+		
+		Collections.sort(ids);
+		
+		String mergedId = StringUtils.join(ids, '+');
+		
+		return new Company(mergedId, "fused");
+	}
+
 
 }

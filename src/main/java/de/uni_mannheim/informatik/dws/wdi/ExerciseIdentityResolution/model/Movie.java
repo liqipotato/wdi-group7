@@ -11,11 +11,18 @@
  */
 package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model;
 
+import java.io.Serializable;
 import java.time.LocalDateTime;
+import java.util.Collection;
+import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
+
+import org.apache.commons.lang3.StringUtils;
+
 import de.uni_mannheim.informatik.dws.winter.model.AbstractRecord;
-import de.uni_mannheim.informatik.dws.winter.model.Matchable;
+import de.uni_mannheim.informatik.dws.winter.model.defaultmodel.Attribute;
 
 /**
  * A {@link AbstractRecord} representing a movie.
@@ -23,7 +30,7 @@ import de.uni_mannheim.informatik.dws.winter.model.Matchable;
  * @author Oliver Lehmberg (oli@dwslab.de)
  * 
  */
-public class Movie implements Matchable {
+public class Movie extends AbstractRecord<Attribute> implements Serializable {
 
 	/*
 	 * example entry <movie> <id>academy_awards_2</id> <title>True Grit</title>
@@ -32,8 +39,13 @@ public class Movie implements Matchable {
 	 * Steinfeld</name> </actor> </actors> <date>2010-01-01</date> </movie>
 	 */
 
-	protected String id;
-	protected String provenance;
+	private static final long serialVersionUID = 1L;
+
+	public Movie(String identifier, String provenance) {
+		super(identifier, provenance);
+		actors = new LinkedList<>();
+	}
+
 	private String title;
 	private String director;
 	private LocalDateTime date;
@@ -42,22 +54,6 @@ public class Movie implements Matchable {
 	private String genre;
 	private double budget;
 	private double gross;
-
-	public Movie(String identifier, String provenance) {
-		id = identifier;
-		this.provenance = provenance;
-		actors = new LinkedList<>();
-	}
-
-	@Override
-	public String getIdentifier() {
-		return id;
-	}
-
-	@Override
-	public String getProvenance() {
-		return provenance;
-	}
 
 	public String getTitle() {
 		return title;
@@ -72,7 +68,12 @@ public class Movie implements Matchable {
 	}
 
 	public void setDirector(String director) {
-		this.director = director;
+		if(director!=null && director.isEmpty()) {
+			//  replace empty string with 'null'
+			director = null;
+		} else {
+			this.director = director;
+		}
 	}
 
 	public LocalDateTime getDate() {
@@ -121,6 +122,55 @@ public class Movie implements Matchable {
 
 	public void setGross(double gross) {
 		this.gross = gross;
+	}
+
+	private Map<Attribute, Collection<String>> provenance = new HashMap<>();
+	private Collection<String> recordProvenance;
+
+	public void setRecordProvenance(Collection<String> provenance) {
+		recordProvenance = provenance;
+	}
+
+	public Collection<String> getRecordProvenance() {
+		return recordProvenance;
+	}
+
+	public void setAttributeProvenance(Attribute attribute,
+			Collection<String> provenance) {
+		this.provenance.put(attribute, provenance);
+	}
+
+	public Collection<String> getAttributeProvenance(String attribute) {
+		return provenance.get(attribute);
+	}
+
+	public String getMergedAttributeProvenance(Attribute attribute) {
+		Collection<String> prov = provenance.get(attribute);
+
+		if (prov != null) {
+			return StringUtils.join(prov, "+");
+		} else {
+			return "";
+		}
+	}
+
+	public static final Attribute TITLE = new Attribute("Title");
+	public static final Attribute DIRECTOR = new Attribute("Director");
+	public static final Attribute DATE = new Attribute("Date");
+	public static final Attribute ACTORS = new Attribute("Actors");
+	
+	@Override
+	public boolean hasValue(Attribute attribute) {
+		if(attribute==TITLE)
+			return getTitle() != null && !getTitle().isEmpty();
+		else if(attribute==DIRECTOR)
+			return getDirector() != null && !getDirector().isEmpty();
+		else if(attribute==DATE)
+			return getDate() != null;
+		else if(attribute==ACTORS)
+			return getActors() != null && getActors().size() > 0;
+		else
+			return false;
 	}
 
 	@Override
