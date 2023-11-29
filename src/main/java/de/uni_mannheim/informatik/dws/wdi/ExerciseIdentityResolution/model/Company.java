@@ -11,11 +11,19 @@
  */
 package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model;
 
-// import java.time.LocalDateTime;
-// import java.util.LinkedList;
-// import java.util.List;
+import java.io.Serializable;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
+import java.time.LocalDateTime;
+import java.util.LinkedList;
+import java.util.List;
+
+import org.apache.commons.lang3.StringUtils;
+
 import de.uni_mannheim.informatik.dws.winter.model.AbstractRecord;
-import de.uni_mannheim.informatik.dws.winter.model.Matchable;
+// import de.uni_mannheim.informatik.dws.winter.model.Matchable;
+import de.uni_mannheim.informatik.dws.winter.model.defaultmodel.Attribute;
 
 /**
  * A {@link AbstractRecord} representing a company.
@@ -23,7 +31,7 @@ import de.uni_mannheim.informatik.dws.winter.model.Matchable;
  * @author Oliver Lehmberg (oli@dwslab.de)
  * 
  */
-public class Company implements Matchable {
+public class Company extends AbstractRecord<Attribute> implements Serializable {
 
 	/*
 	 * example entry <movie> <id>academy_awards_2</id> <title>True Grit</title>
@@ -32,8 +40,10 @@ public class Company implements Matchable {
 	 * Steinfeld</name> </actor> </actors> <date>2010-01-01</date> </movie>
 	 */
 
+	private static final long serialVersionUID = 1L;
+
 	protected String id;
-	protected String provenance;
+	// protected String provenance;
 	private String name;
 	private String website;
 	private String foundingdate;
@@ -45,9 +55,10 @@ public class Company implements Matchable {
 	private String revenuesource;
 
 	public Company(String identifier, String provenance) {
-		id = identifier;
-		this.provenance = provenance;
-		// actors = new LinkedList<>();
+		// id = identifier;
+		// this.provenance = provenance;
+		// // actors = new LinkedList<>();
+		super(identifier, provenance);
 	}
 
 	@Override
@@ -55,10 +66,10 @@ public class Company implements Matchable {
 		return id;
 	}
 
-	@Override
-	public String getProvenance() {
-		return provenance;
-	}
+	// @Override
+	// public String getProvenance() {
+	// 	return provenance;
+	// }
 
 	public String getName() {
 		return name;
@@ -134,7 +145,7 @@ public class Company implements Matchable {
 
 	@Override
 	public String toString() {
-		return String.format("[Company %s: %s / %s / %s]", getIdentifier(), getName().toString());
+		return String.format("[Company %s: %s]", getIdentifier(), getName().toString());
 	}
 
 	@Override
@@ -149,5 +160,55 @@ public class Company implements Matchable {
 		} else
 			return false;
 	}
+
+	private Map<Attribute, Collection<String>> provenance = new HashMap<>();
+	private Collection<String> recordProvenance;
+
+	public void setRecordProvenance(Collection<String> provenance) {
+		recordProvenance = provenance;
+	}
+
+	public Collection<String> getRecordProvenance() {
+		return recordProvenance;
+	}
+
+	public void setAttributeProvenance(Attribute attribute,
+			Collection<String> provenance) {
+		this.provenance.put(attribute, provenance);
+	}
+
+	public Collection<String> getAttributeProvenance(String attribute) {
+		return provenance.get(attribute);
+	}
+
+	public String getMergedAttributeProvenance(Attribute attribute) {
+		Collection<String> prov = provenance.get(attribute);
+
+		if (prov != null) {
+			return StringUtils.join(prov, "+");
+		} else {
+			return "";
+		}
+	}
+
+	public static final Attribute NAME = new Attribute("Name");
+	// public static final Attribute DIRECTOR = new Attribute("Director");
+	// public static final Attribute DATE = new Attribute("Date");
+	// public static final Attribute ACTORS = new Attribute("Actors");
+	
+	@Override
+	public boolean hasValue(Attribute attribute) {
+		if(attribute==NAME)
+			return getName() != null && !getName().isEmpty();
+		// else if(attribute==DIRECTOR)
+		// 	return getDirector() != null && !getDirector().isEmpty();
+		// else if(attribute==DATE)
+		// 	return getDate() != null;
+		// else if(attribute==ACTORS)
+		// 	return getActors() != null && getActors().size() > 0;
+		else
+			return false;
+	}
+
 
 }
