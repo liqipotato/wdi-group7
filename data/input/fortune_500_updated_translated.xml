@@ -1,0 +1,4475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies xsi:noNamespaceSchemaLocation="file:///C:/Users/Marcus%20Kok/OneDrive/Y3S1/Web%20Data%20Integration/target_schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<company>
+		<id>fortune_500_id_1000</id>
+		<name>Walmart</name>
+		<hqcity>Bentonville</hqcity>
+		<industry>General Merchandisers</industry>
+		<marketvalue>321.803</marketvalue>
+		<assets>236.495</assets>
+		<revenue>523.964</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1001</id>
+		<name>Amazon</name>
+		<hqcity>Seattle</hqcity>
+		<industry>Internet Services and Retailing</industry>
+		<marketvalue>970.68</marketvalue>
+		<assets>225.248</assets>
+		<revenue>280.522</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1002</id>
+		<name>Exxon Mobil</name>
+		<hqcity>Irving</hqcity>
+		<industry>Petroleum Refining</industry>
+		<marketvalue>160.696</marketvalue>
+		<assets>362.597</assets>
+		<revenue>264.938</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1003</id>
+		<name>Apple</name>
+		<hqcity>Cupertino</hqcity>
+		<industry>Computers, Office Equipment</industry>
+		<marketvalue>1112.641</marketvalue>
+		<assets>338.516</assets>
+		<revenue>260.174</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1004</id>
+		<name>CVS Health</name>
+		<hqcity>Woonsocket</hqcity>
+		<industry>Health Care: Pharmacy and Other Services</industry>
+		<marketvalue>77.376</marketvalue>
+		<assets>222.449</assets>
+		<revenue>256.776</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1005</id>
+		<name>Berkshire Hathaway</name>
+		<hqcity>Omaha</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>442.897</marketvalue>
+		<assets>817.729</assets>
+		<revenue>254.616</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1006</id>
+		<name>UnitedHealth Group</name>
+		<hqcity>Minnetonka</hqcity>
+		<industry>Health Care: Insurance and Managed Care</industry>
+		<marketvalue>236.555</marketvalue>
+		<assets>173.889</assets>
+		<revenue>242.155</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1007</id>
+		<name>McKesson</name>
+		<hqcity>Irving</hqcity>
+		<industry>Wholesalers: Health Care</industry>
+		<marketvalue>21.845</marketvalue>
+		<assets>59.672</assets>
+		<revenue>214.319</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1008</id>
+		<name>AT&amp;T</name>
+		<hqcity>Dallas</hqcity>
+		<industry>Telecommunications</industry>
+		<marketvalue>209.388</marketvalue>
+		<assets>551.669</assets>
+		<revenue>181.193</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1009</id>
+		<name>AmerisourceBergen</name>
+		<hqcity>Chesterbrook</hqcity>
+		<industry>Wholesalers: Health Care</industry>
+		<marketvalue>18.221</marketvalue>
+		<assets>39.172</assets>
+		<revenue>179.589</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1010</id>
+		<name>Alphabet</name>
+		<hqcity>Mountain View</hqcity>
+		<industry>Internet Services and Retailing</industry>
+		<marketvalue>798.905</marketvalue>
+		<assets>275.909</assets>
+		<revenue>161.857</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1011</id>
+		<name>Ford Motor</name>
+		<hqcity>Dearborn</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>19.151</marketvalue>
+		<assets>258.537</assets>
+		<revenue>155.9</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1012</id>
+		<name>Cigna</name>
+		<hqcity>Bloomfield</hqcity>
+		<industry>Health Care: Pharmacy and Other Services</industry>
+		<marketvalue>65.897</marketvalue>
+		<assets>155.774</assets>
+		<revenue>153.566</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1013</id>
+		<name>Costco Wholesale</name>
+		<hqcity>Issaquah</hqcity>
+		<industry>General Merchandisers</industry>
+		<marketvalue>125.908</marketvalue>
+		<assets>45.4</assets>
+		<revenue>152.703</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1014</id>
+		<name>Chevron</name>
+		<hqcity>San Ramon</hqcity>
+		<industry>Petroleum Refining</industry>
+		<marketvalue>136.176</marketvalue>
+		<assets>237.428</assets>
+		<revenue>146.516</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1015</id>
+		<name>Cardinal Health</name>
+		<hqcity>Dublin</hqcity>
+		<industry>Wholesalers: Health Care</industry>
+		<marketvalue>13.988</marketvalue>
+		<assets>40.963</assets>
+		<revenue>145.534</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1016</id>
+		<name>JPMorgan Chase</name>
+		<hqcity>New York</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>276.75</marketvalue>
+		<assets>2687.379</assets>
+		<revenue>142.422</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1017</id>
+		<name>General Motors</name>
+		<hqcity>Detroit</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>29.695</marketvalue>
+		<assets>228.037</assets>
+		<revenue>137.237</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1018</id>
+		<name>Walgreens Boots Alliance</name>
+		<hqcity>Deerfield</hqcity>
+		<industry>Food &amp; Drug Stores</industry>
+		<marketvalue>40.528</marketvalue>
+		<assets>67.598</assets>
+		<revenue>136.866</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1019</id>
+		<name>Verizon Communications</name>
+		<hqcity>New York</hqcity>
+		<industry>Telecommunications</industry>
+		<marketvalue>222.22</marketvalue>
+		<assets>291.727</assets>
+		<revenue>131.868</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1020</id>
+		<name>Microsoft</name>
+		<hqcity>Redmond</hqcity>
+		<industry>Computer Software</industry>
+		<marketvalue>1199.55</marketvalue>
+		<assets>286.556</assets>
+		<revenue>125.843</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1021</id>
+		<name>Marathon Petroleum</name>
+		<hqcity>Findlay</hqcity>
+		<industry>Petroleum Refining</industry>
+		<marketvalue>15.353</marketvalue>
+		<assets>98.556</assets>
+		<revenue>124.813</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1022</id>
+		<name>Kroger</name>
+		<hqcity>Cincinnati</hqcity>
+		<industry>Food &amp; Drug Stores</industry>
+		<marketvalue>24.114</marketvalue>
+		<assets>45.256</assets>
+		<revenue>122.286</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1023</id>
+		<name>Fannie Mae</name>
+		<hqcity>Washington</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>1.841</marketvalue>
+		<assets>3503.319</assets>
+		<revenue>120.304</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1024</id>
+		<name>Bank of America</name>
+		<hqcity>Charlotte</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>185.227</marketvalue>
+		<assets>2434.079</assets>
+		<revenue>113.589</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1025</id>
+		<name>Home Depot</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>200.665</marketvalue>
+		<assets>51.236</assets>
+		<revenue>110.225</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1026</id>
+		<name>Phillips 66</name>
+		<hqcity>Houston</hqcity>
+		<industry>Petroleum Refining</industry>
+		<marketvalue>23.49</marketvalue>
+		<assets>58.72</assets>
+		<revenue>109.559</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1027</id>
+		<name>Comcast</name>
+		<hqcity>Philadelphia</hqcity>
+		<industry>Telecommunications</industry>
+		<marketvalue>156.533</marketvalue>
+		<assets>263.414</assets>
+		<revenue>108.942</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1028</id>
+		<name>Elevance Health</name>
+		<hqcity>Indianapolis</hqcity>
+		<industry>Health Care: Insurance and Managed Care</industry>
+		<marketvalue>57.245</marketvalue>
+		<assets>77.453</assets>
+		<revenue>104.213</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1029</id>
+		<name>Wells Fargo</name>
+		<hqcity>San Francisco</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>117.366</marketvalue>
+		<assets>1927.555</assets>
+		<revenue>103.915</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1030</id>
+		<name>Citigroup</name>
+		<hqcity>New York</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>88.377</marketvalue>
+		<assets>1951.158</assets>
+		<revenue>103.449</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1031</id>
+		<name>Valero Energy</name>
+		<hqcity>San Antonio</hqcity>
+		<industry>Petroleum Refining</industry>
+		<marketvalue>18.532</marketvalue>
+		<assets>53.864</assets>
+		<revenue>102.729</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1032</id>
+		<name>General Electric</name>
+		<hqcity>Boston</hqcity>
+		<industry>Industrial Machinery</industry>
+		<marketvalue>69.406</marketvalue>
+		<assets>266.048</assets>
+		<revenue>95.214</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1033</id>
+		<name>Dell Technologies</name>
+		<hqcity>Round Rock</hqcity>
+		<industry>Computers, Office Equipment</industry>
+		<marketvalue>29.246</marketvalue>
+		<assets>118.861</assets>
+		<revenue>92.154</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1034</id>
+		<name>Johnson &amp; Johnson</name>
+		<hqcity>New Brunswick</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>345.705</marketvalue>
+		<assets>157.728</assets>
+		<revenue>82.059</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1035</id>
+		<name>State Farm Insurance</name>
+		<hqcity>Bloomington</hqcity>
+		<industry>Insurance: Property and Casualty (Mutual)</industry>
+		<assets>294.823</assets>
+		<revenue>79.395</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1036</id>
+		<name>Target</name>
+		<hqcity>Minneapolis</hqcity>
+		<industry>General Merchandisers</industry>
+		<marketvalue>46.574</marketvalue>
+		<assets>42.779</assets>
+		<revenue>78.112</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1037</id>
+		<name>IBM</name>
+		<hqcity>Armonk</hqcity>
+		<industry>Information Technology Services</industry>
+		<marketvalue>98.551</marketvalue>
+		<assets>152.186</assets>
+		<revenue>77.147</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1038</id>
+		<name>Raytheon Technologies</name>
+		<hqcity>Waltham</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>81.705</marketvalue>
+		<assets>139.716</assets>
+		<revenue>77.046</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1039</id>
+		<name>Boeing</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>84.149</marketvalue>
+		<assets>133.625</assets>
+		<revenue>76.559</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1040</id>
+		<name>Freddie Mac</name>
+		<hqcity>McLean</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>0.909</marketvalue>
+		<assets>2203.623</assets>
+		<revenue>75.125</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1041</id>
+		<name>Centene</name>
+		<hqcity>St. Louis</hqcity>
+		<industry>Health Care: Insurance and Managed Care</industry>
+		<marketvalue>34.862</marketvalue>
+		<assets>40.994</assets>
+		<revenue>74.639</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1042</id>
+		<name>UPS</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Mail, Package, and Freight Delivery</industry>
+		<marketvalue>80.196</marketvalue>
+		<assets>57.857</assets>
+		<revenue>74.094</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1043</id>
+		<name>Lowe's</name>
+		<hqcity>Mooresville</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>64.963</marketvalue>
+		<assets>39.471</assets>
+		<revenue>72.148</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1044</id>
+		<name>Intel</name>
+		<hqcity>Santa Clara</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>231.662</marketvalue>
+		<assets>136.524</assets>
+		<revenue>71.965</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1045</id>
+		<name>Meta Platforms</name>
+		<hqcity>Menlo Park</hqcity>
+		<industry>Internet Services and Retailing</industry>
+		<marketvalue>475.455</marketvalue>
+		<assets>133.376</assets>
+		<revenue>70.697</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1046</id>
+		<name>FedEx</name>
+		<hqcity>Memphis</hqcity>
+		<industry>Mail, Package, and Freight Delivery</industry>
+		<marketvalue>31.679</marketvalue>
+		<assets>54.403</assets>
+		<revenue>69.693</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1047</id>
+		<name>MetLife</name>
+		<hqcity>New York</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<marketvalue>27.997</marketvalue>
+		<assets>740.463</assets>
+		<revenue>69.62</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1048</id>
+		<name>Walt Disney</name>
+		<hqcity>Burbank</hqcity>
+		<industry>Entertainment</industry>
+		<marketvalue>174.405</marketvalue>
+		<assets>193.984</assets>
+		<revenue>69.57</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1049</id>
+		<name>Procter &amp; Gamble</name>
+		<hqcity>Cincinnati</hqcity>
+		<industry>Household and Personal Products</industry>
+		<marketvalue>271.64</marketvalue>
+		<assets>115.095</assets>
+		<revenue>67.684</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1050</id>
+		<name>PepsiCo</name>
+		<hqcity>Purchase</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>166.848</marketvalue>
+		<assets>78.547</assets>
+		<revenue>67.161</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1051</id>
+		<name>Humana</name>
+		<hqcity>Louisville</hqcity>
+		<industry>Health Care: Insurance and Managed Care</industry>
+		<marketvalue>41.49</marketvalue>
+		<assets>29.074</assets>
+		<revenue>64.888</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1052</id>
+		<name>Prudential Financial</name>
+		<hqcity>Newark</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<marketvalue>20.65</marketvalue>
+		<assets>896.552</assets>
+		<revenue>64.807</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1053</id>
+		<name>Archer Daniels Midland</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Food Production</industry>
+		<marketvalue>19.603</marketvalue>
+		<assets>43.997</assets>
+		<revenue>64.656</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1054</id>
+		<name>Albertsons</name>
+		<hqcity>Boise</hqcity>
+		<industry>Food &amp; Drug Stores</industry>
+		<assets>20.777</assets>
+		<revenue>60.535</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1055</id>
+		<name>Sysco</name>
+		<hqcity>Houston</hqcity>
+		<industry>Wholesalers: Food and Grocery</industry>
+		<marketvalue>23.203</marketvalue>
+		<assets>17.967</assets>
+		<revenue>60.114</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1056</id>
+		<name>Lockheed Martin</name>
+		<hqcity>Bethesda</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>95.539</marketvalue>
+		<assets>47.528</assets>
+		<revenue>59.812</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1057</id>
+		<name>HP</name>
+		<hqcity>Palo Alto</hqcity>
+		<industry>Computers, Office Equipment</industry>
+		<marketvalue>24.821</marketvalue>
+		<assets>33.467</assets>
+		<revenue>58.756</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1058</id>
+		<name>Energy Transfer</name>
+		<hqcity>Dallas</hqcity>
+		<industry>Pipelines</industry>
+		<marketvalue>12.374</marketvalue>
+		<assets>98.88</assets>
+		<revenue>54.213</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1059</id>
+		<name>Goldman Sachs Group</name>
+		<hqcity>New York</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>55.417</marketvalue>
+		<assets>992.968</assets>
+		<revenue>53.922</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1060</id>
+		<name>Morgan Stanley</name>
+		<hqcity>New York</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>52.102</marketvalue>
+		<assets>895.429</assets>
+		<revenue>53.823</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1061</id>
+		<name>Caterpillar</name>
+		<hqcity>Deerfield</hqcity>
+		<industry>Construction and Farm Machinery</industry>
+		<marketvalue>63.832</marketvalue>
+		<assets>78.453</assets>
+		<revenue>53.8</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1062</id>
+		<name>Cisco Systems</name>
+		<hqcity>San Jose</hqcity>
+		<industry>Network and Other Communications Equipment</industry>
+		<marketvalue>166.709</marketvalue>
+		<assets>97.793</assets>
+		<revenue>51.904</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1063</id>
+		<name>Pfizer</name>
+		<hqcity>New York</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>181.075</marketvalue>
+		<assets>167.489</assets>
+		<revenue>51.75</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1064</id>
+		<name>HCA Healthcare</name>
+		<hqcity>Nashville</hqcity>
+		<industry>Health Care: Medical Facilities</industry>
+		<marketvalue>30.411</marketvalue>
+		<assets>45.058</assets>
+		<revenue>51.336</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1065</id>
+		<name>AIG</name>
+		<hqcity>New York</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>20.886</marketvalue>
+		<assets>525.064</assets>
+		<revenue>49.746</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1066</id>
+		<name>American Express</name>
+		<hqcity>New York</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>68.983</marketvalue>
+		<assets>198.321</assets>
+		<revenue>47.02</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1067</id>
+		<name>Delta Air Lines</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Airlines</industry>
+		<marketvalue>18.262</marketvalue>
+		<assets>64.532</assets>
+		<revenue>47.007</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1068</id>
+		<name>Merck</name>
+		<hqcity>Kenilworth</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>195.141</marketvalue>
+		<assets>84.397</assets>
+		<revenue>46.84</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1069</id>
+		<name>American Airlines Group</name>
+		<hqcity>Fort Worth</hqcity>
+		<industry>Airlines</industry>
+		<marketvalue>5.194</marketvalue>
+		<assets>59.995</assets>
+		<revenue>45.768</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1070</id>
+		<name>Charter Communications</name>
+		<hqcity>Stamford</hqcity>
+		<industry>Telecommunications</industry>
+		<marketvalue>111.924</marketvalue>
+		<assets>148.188</assets>
+		<revenue>45.764</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1071</id>
+		<name>Allstate</name>
+		<hqcity>Northbrook</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>29.071</marketvalue>
+		<assets>119.95</assets>
+		<revenue>44.675</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1072</id>
+		<name>New York Life Insurance</name>
+		<hqcity>New York</hqcity>
+		<industry>Insurance: Life, Health (Mutual)</industry>
+		<assets>330.806</assets>
+		<revenue>44.117</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1073</id>
+		<name>Nationwide</name>
+		<hqcity>Columbus</hqcity>
+		<industry>Insurance: Property and Casualty (Mutual)</industry>
+		<assets>239.54</assets>
+		<revenue>43.982</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1074</id>
+		<name>Best Buy</name>
+		<hqcity>Richfield</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>14.647</marketvalue>
+		<assets>15.591</assets>
+		<revenue>43.638</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1075</id>
+		<name>United Airlines Holdings</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Airlines</industry>
+		<marketvalue>7.823</marketvalue>
+		<assets>52.611</assets>
+		<revenue>43.259</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1076</id>
+		<name>Liberty Mutual Insurance Group</name>
+		<hqcity>Boston</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<assets>133.644</assets>
+		<revenue>43.228</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1077</id>
+		<name>Dow</name>
+		<hqcity>Midland</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>21.716</marketvalue>
+		<assets>60.524</assets>
+		<revenue>42.951</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1078</id>
+		<name>Tyson Foods</name>
+		<hqcity>Springdale</hqcity>
+		<industry>Food Production</industry>
+		<marketvalue>21.125</marketvalue>
+		<assets>33.097</assets>
+		<revenue>42.405</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1079</id>
+		<name>TJX</name>
+		<hqcity>Framingham</hqcity>
+		<industry>Specialty Retailers: Apparel</industry>
+		<marketvalue>57.262</marketvalue>
+		<assets>24.145</assets>
+		<revenue>41.717</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1080</id>
+		<name>TIAA</name>
+		<hqcity>New York</hqcity>
+		<industry>Insurance: Life, Health (Mutual)</industry>
+		<assets>615.042</assets>
+		<revenue>40.454</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1081</id>
+		<name>Oracle</name>
+		<hqcity>Redwood City</hqcity>
+		<industry>Computer Software</industry>
+		<marketvalue>152.413</marketvalue>
+		<assets>108.709</assets>
+		<revenue>39.506</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1082</id>
+		<name>General Dynamics</name>
+		<hqcity>Reston</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>38.398</marketvalue>
+		<assets>48.841</assets>
+		<revenue>39.35</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1083</id>
+		<name>Deere</name>
+		<hqcity>Moline</hqcity>
+		<industry>Construction and Farm Machinery</industry>
+		<marketvalue>43.33</marketvalue>
+		<assets>73.011</assets>
+		<revenue>39.258</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1084</id>
+		<name>Nike</name>
+		<hqcity>Beaverton</hqcity>
+		<industry>Apparel</industry>
+		<marketvalue>128.857</marketvalue>
+		<assets>23.717</assets>
+		<revenue>39.117</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1085</id>
+		<name>Progressive</name>
+		<hqcity>Mayfield Village</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>43.218</marketvalue>
+		<assets>54.895</assets>
+		<revenue>39.022</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1086</id>
+		<name>Publix Super Markets</name>
+		<hqcity>Lakeland</hqcity>
+		<industry>Food &amp; Drug Stores</industry>
+		<assets>24.507</assets>
+		<revenue>38.463</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1087</id>
+		<name>Coca-Cola</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Beverages</industry>
+		<marketvalue>189.983</marketvalue>
+		<assets>86.381</assets>
+		<revenue>37.266</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1088</id>
+		<name>Massachusetts Mutual Life Insurance</name>
+		<hqcity>Springfield</hqcity>
+		<industry>Insurance: Life, Health (Mutual)</industry>
+		<assets>290.731</assets>
+		<revenue>37.253</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1089</id>
+		<name>Tech Data</name>
+		<hqcity>Clearwater</hqcity>
+		<industry>Wholesalers: Electronics and Office Equipment</industry>
+		<marketvalue>4.645</marketvalue>
+		<assets>13.269</assets>
+		<revenue>36.998</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1090</id>
+		<name>World Fuel Services</name>
+		<hqcity>Miami</hqcity>
+		<industry>Energy</industry>
+		<marketvalue>1.647</marketvalue>
+		<assets>5.992</assets>
+		<revenue>36.819</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1091</id>
+		<name>Honeywell International</name>
+		<hqcity>Charlotte</hqcity>
+		<industry>Electronics, Electrical Equipment</industry>
+		<marketvalue>94.628</marketvalue>
+		<assets>58.679</assets>
+		<revenue>36.709</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1092</id>
+		<name>ConocoPhillips</name>
+		<hqcity>Houston</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>33.167</marketvalue>
+		<assets>70.514</assets>
+		<revenue>36.67</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1093</id>
+		<name>USAA</name>
+		<hqcity>San Antonio</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<assets>173.733</assets>
+		<revenue>35.617</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1094</id>
+		<name>Exelon</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>35.85</marketvalue>
+		<assets>124.977</assets>
+		<revenue>34.438</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1095</id>
+		<name>Northrop Grumman</name>
+		<hqcity>Falls Church</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>50.719</marketvalue>
+		<assets>41.089</assets>
+		<revenue>33.841</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1096</id>
+		<name>Capital One Financial</name>
+		<hqcity>McLean</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>23.063</marketvalue>
+		<assets>390.365</assets>
+		<revenue>33.766</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1097</id>
+		<name>Plains GP Holdings</name>
+		<hqcity>Houston</hqcity>
+		<industry>Pipelines</industry>
+		<marketvalue>1.022</marketvalue>
+		<assets>29.969</assets>
+		<revenue>33.669</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1098</id>
+		<name>AbbVie</name>
+		<hqcity>North Chicago</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>112.508</marketvalue>
+		<assets>89.115</assets>
+		<revenue>33.266</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1099</id>
+		<name>StoneX Group</name>
+		<hqcity>New York</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>0.7</marketvalue>
+		<assets>9.936</assets>
+		<revenue>32.897</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1100</id>
+		<name>Enterprise Products Partners</name>
+		<hqcity>Houston</hqcity>
+		<industry>Pipelines</industry>
+		<marketvalue>31.306</marketvalue>
+		<assets>61.733</assets>
+		<revenue>32.789</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1101</id>
+		<name>Northwestern Mutual</name>
+		<hqcity>Milwaukee</hqcity>
+		<industry>Insurance: Life, Health (Mutual)</industry>
+		<assets>290.318</assets>
+		<revenue>32.294</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1102</id>
+		<name>3M</name>
+		<hqcity>St. Paul</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>78.529</marketvalue>
+		<assets>44.659</assets>
+		<revenue>32.136</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1103</id>
+		<name>Abbott Laboratories</name>
+		<hqcity>Abbott Park</hqcity>
+		<industry>Medical Products and Equipment</industry>
+		<marketvalue>139.153</marketvalue>
+		<assets>67.887</assets>
+		<revenue>31.904</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1104</id>
+		<name>CHS</name>
+		<hqcity>Inver Grove Heights</hqcity>
+		<industry>Food Production</industry>
+		<assets>16.448</assets>
+		<revenue>31.901</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1105</id>
+		<name>Travelers</name>
+		<hqcity>New York</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>25.337</marketvalue>
+		<assets>110.122</assets>
+		<revenue>31.581</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1106</id>
+		<name>Philip Morris International</name>
+		<hqcity>New York</hqcity>
+		<industry>Tobacco</industry>
+		<marketvalue>113.606</marketvalue>
+		<assets>42.875</assets>
+		<revenue>29.805</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1107</id>
+		<name>Raytheon</name>
+		<hqcity>Waltham</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>36.518</marketvalue>
+		<assets>34.566</assets>
+		<revenue>29.176</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1108</id>
+		<name>Hewlett Packard Enterprise</name>
+		<hqcity>San Jose</hqcity>
+		<industry>Computers, Office Equipment</industry>
+		<marketvalue>12.51</marketvalue>
+		<assets>51.803</assets>
+		<revenue>29.135</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1109</id>
+		<name>Arrow Electronics</name>
+		<hqcity>Centennial</hqcity>
+		<industry>Wholesalers: Electronics and Office Equipment</industry>
+		<marketvalue>4.183</marketvalue>
+		<assets>16.401</assets>
+		<revenue>28.917</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1110</id>
+		<name>Paramount Global</name>
+		<hqcity>New York</hqcity>
+		<industry>Entertainment</industry>
+		<marketvalue>8.798</marketvalue>
+		<assets>49.519</assets>
+		<revenue>27.812</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1111</id>
+		<name>Dollar General</name>
+		<hqcity>Goodlettsville</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>38.046</marketvalue>
+		<assets>22.825</assets>
+		<revenue>27.754</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1112</id>
+		<name>U.S. Bancorp</name>
+		<hqcity>Minneapolis</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>52.408</marketvalue>
+		<assets>495.426</assets>
+		<revenue>27.325</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1113</id>
+		<name>Starbucks</name>
+		<hqcity>Seattle</hqcity>
+		<industry>Food Services</industry>
+		<marketvalue>77.179</marketvalue>
+		<assets>19.22</assets>
+		<revenue>26.509</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1114</id>
+		<name>Bristol-Myers Squibb</name>
+		<hqcity>New York</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>126.11</marketvalue>
+		<assets>129.944</assets>
+		<revenue>26.145</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1115</id>
+		<name>US Foods Holding</name>
+		<hqcity>Rosemont</hqcity>
+		<industry>Wholesalers: Food and Grocery</industry>
+		<marketvalue>3.898</marketvalue>
+		<assets>11.288</assets>
+		<revenue>25.939</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1116</id>
+		<name>Mondelez International</name>
+		<hqcity>Deerfield</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>71.762</marketvalue>
+		<assets>64.549</assets>
+		<revenue>25.868</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1117</id>
+		<name>Paccar</name>
+		<hqcity>Bellevue</hqcity>
+		<industry>Construction and Farm Machinery</industry>
+		<marketvalue>21.175</marketvalue>
+		<assets>28.361</assets>
+		<revenue>25.6</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1118</id>
+		<name>Thermo Fisher Scientific</name>
+		<hqcity>Waltham</hqcity>
+		<industry>Scientific, Photographic and Control Equipment</industry>
+		<marketvalue>113.108</marketvalue>
+		<assets>58.381</assets>
+		<revenue>25.542</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1119</id>
+		<name>Macy's</name>
+		<hqcity>New York</hqcity>
+		<industry>General Merchandisers</industry>
+		<marketvalue>1.52</marketvalue>
+		<assets>21.172</assets>
+		<revenue>25.331</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1120</id>
+		<name>Jabil</name>
+		<hqcity>St. Petersburg</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>3.738</marketvalue>
+		<assets>12.971</assets>
+		<revenue>25.282</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1121</id>
+		<name>Kraft Heinz</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>30.226</marketvalue>
+		<assets>101.45</assets>
+		<revenue>24.977</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1122</id>
+		<name>Duke Energy</name>
+		<hqcity>Charlotte</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>59.368</marketvalue>
+		<assets>158.838</assets>
+		<revenue>24.658</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1123</id>
+		<name>Tesla</name>
+		<hqcity>Palo Alto</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>96.473</marketvalue>
+		<assets>34.309</assets>
+		<revenue>24.578</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1124</id>
+		<name>PBF Energy</name>
+		<hqcity>Parsippany</hqcity>
+		<industry>Petroleum Refining</industry>
+		<marketvalue>0.848</marketvalue>
+		<assets>9.132</assets>
+		<revenue>24.508</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1125</id>
+		<name>Qualcomm</name>
+		<hqcity>San Diego</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>77.327</marketvalue>
+		<assets>32.957</assets>
+		<revenue>24.273</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1126</id>
+		<name>NGL Energy Partners</name>
+		<hqcity>Tulsa</hqcity>
+		<industry>Pipelines</industry>
+		<marketvalue>0.334</marketvalue>
+		<assets>5.903</assets>
+		<revenue>24.088</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1127</id>
+		<name>CBRE Group</name>
+		<hqcity>Los Angeles</hqcity>
+		<industry>Real Estate</industry>
+		<marketvalue>12.625</marketvalue>
+		<assets>16.197</assets>
+		<revenue>23.894</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1128</id>
+		<name>Baker Hughes</name>
+		<hqcity>Houston</hqcity>
+		<industry>Oil and Gas Equipment, Services</industry>
+		<marketvalue>10.827</marketvalue>
+		<assets>53.369</assets>
+		<revenue>23.838</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1129</id>
+		<name>TD Synnex</name>
+		<hqcity>Fremont</hqcity>
+		<industry>Wholesalers: Electronics and Office Equipment</industry>
+		<marketvalue>3.719</marketvalue>
+		<assets>11.698</assets>
+		<revenue>23.757</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1130</id>
+		<name>Dollar Tree</name>
+		<hqcity>Chesapeake</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>17.399</marketvalue>
+		<assets>19.575</assets>
+		<revenue>23.611</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1131</id>
+		<name>Cummins</name>
+		<hqcity>Columbus</hqcity>
+		<industry>Industrial Machinery</industry>
+		<marketvalue>20.044</marketvalue>
+		<assets>19.737</assets>
+		<revenue>23.571</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1132</id>
+		<name>United Natural Foods</name>
+		<hqcity>Providence</hqcity>
+		<industry>Wholesalers: Food and Grocery</industry>
+		<marketvalue>0.492</marketvalue>
+		<assets>7.181</assets>
+		<revenue>23.481</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1133</id>
+		<name>Micron Technology</name>
+		<hqcity>Boise</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>46.779</marketvalue>
+		<assets>48.887</assets>
+		<revenue>23.406</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1134</id>
+		<name>Amgen</name>
+		<hqcity>Thousand Oaks</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>119.572</marketvalue>
+		<assets>59.707</assets>
+		<revenue>23.362</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1135</id>
+		<name>Penske Automotive Group</name>
+		<hqcity>Bloomfield Hills</hqcity>
+		<industry>Automotive Retailing, Services</industry>
+		<marketvalue>2.265</marketvalue>
+		<assets>13.943</assets>
+		<revenue>23.179</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1136</id>
+		<name>Visa</name>
+		<hqcity>San Francisco</hqcity>
+		<industry>Financial Data Services</industry>
+		<marketvalue>316.199</marketvalue>
+		<assets>72.574</assets>
+		<revenue>22.977</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1137</id>
+		<name>Broadcom</name>
+		<hqcity>San Jose</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>94.791</marketvalue>
+		<assets>67.493</assets>
+		<revenue>22.597</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1138</id>
+		<name>Nucor</name>
+		<hqcity>Charlotte</hqcity>
+		<industry>Metals</industry>
+		<marketvalue>10.847</marketvalue>
+		<assets>18.345</assets>
+		<revenue>22.589</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1139</id>
+		<name>Gilead Sciences</name>
+		<hqcity>Foster City</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>94.124</marketvalue>
+		<assets>61.627</assets>
+		<revenue>22.449</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1140</id>
+		<name>Southwest Airlines</name>
+		<hqcity>Dallas</hqcity>
+		<industry>Airlines</industry>
+		<marketvalue>18.421</marketvalue>
+		<assets>25.895</assets>
+		<revenue>22.428</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1141</id>
+		<name>Halliburton</name>
+		<hqcity>Houston</hqcity>
+		<industry>Oil and Gas Equipment, Services</industry>
+		<marketvalue>6.027</marketvalue>
+		<assets>25.377</assets>
+		<revenue>22.408</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1142</id>
+		<name>Lumen Technologies</name>
+		<hqcity>Monroe</hqcity>
+		<industry>Telecommunications</industry>
+		<marketvalue>10.307</marketvalue>
+		<assets>64.742</assets>
+		<revenue>22.401</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1143</id>
+		<name>International Paper</name>
+		<hqcity>Memphis</hqcity>
+		<industry>Packaging, Containers</industry>
+		<marketvalue>12.207</marketvalue>
+		<assets>33.471</assets>
+		<revenue>22.376</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1144</id>
+		<name>Eli Lilly</name>
+		<hqcity>Indianapolis</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>132.76</marketvalue>
+		<assets>39.286</assets>
+		<revenue>22.32</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1145</id>
+		<name>Aflac</name>
+		<hqcity>Columbus</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<marketvalue>24.739</marketvalue>
+		<assets>152.768</assets>
+		<revenue>22.307</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1146</id>
+		<name>Lennar</name>
+		<hqcity>Miami</hqcity>
+		<industry>Homebuilders</industry>
+		<marketvalue>11.591</marketvalue>
+		<assets>29.36</assets>
+		<revenue>22.26</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1147</id>
+		<name>Occidental Petroleum</name>
+		<hqcity>Houston</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>10.367</marketvalue>
+		<assets>109.33</assets>
+		<revenue>21.971</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1148</id>
+		<name>Union Pacific</name>
+		<hqcity>Omaha</hqcity>
+		<industry>Railroads</industry>
+		<marketvalue>97.355</marketvalue>
+		<assets>61.673</assets>
+		<revenue>21.708</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1149</id>
+		<name>Rite Aid</name>
+		<hqcity>Camp Hill</hqcity>
+		<industry>Food &amp; Drug Stores</industry>
+		<marketvalue>0.822</marketvalue>
+		<assets>7.591</assets>
+		<revenue>21.674</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1150</id>
+		<name>PNC Financial Services Group</name>
+		<hqcity>Pittsburgh</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>41.038</marketvalue>
+		<assets>410.295</assets>
+		<revenue>21.624</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1151</id>
+		<name>DuPont</name>
+		<hqcity>Wilmington</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>25.213</marketvalue>
+		<assets>69.396</assets>
+		<revenue>21.512</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1152</id>
+		<name>Southern</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>57.076</marketvalue>
+		<assets>118.7</assets>
+		<revenue>21.419</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1153</id>
+		<name>AutoNation</name>
+		<hqcity>Fort Lauderdale</hqcity>
+		<industry>Automotive Retailing, Services</industry>
+		<marketvalue>2.511</marketvalue>
+		<assets>10.543</assets>
+		<revenue>21.336</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1154</id>
+		<name>DXC Technology</name>
+		<hqcity>Tysons</hqcity>
+		<industry>Information Technology Services</industry>
+		<marketvalue>3.311</marketvalue>
+		<assets>29.574</assets>
+		<revenue>21.184</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1155</id>
+		<name>McDonald's</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Food Services</industry>
+		<marketvalue>123.26</marketvalue>
+		<assets>47.511</assets>
+		<revenue>21.077</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1156</id>
+		<name>Marriott International</name>
+		<hqcity>Bethesda</hqcity>
+		<industry>Hotels, Casinos, Resorts</industry>
+		<marketvalue>24.255</marketvalue>
+		<assets>25.051</assets>
+		<revenue>20.972</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1157</id>
+		<name>ManpowerGroup</name>
+		<hqcity>Milwaukee</hqcity>
+		<industry>Temporary Help</industry>
+		<marketvalue>3.109</marketvalue>
+		<assets>9.224</assets>
+		<revenue>20.864</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1158</id>
+		<name>Bank of New York Mellon</name>
+		<hqcity>New York</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>29.809</marketvalue>
+		<assets>381.508</assets>
+		<revenue>20.822</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1159</id>
+		<name>Hartford Financial Services Group</name>
+		<hqcity>Hartford</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>12.625</marketvalue>
+		<assets>70.817</assets>
+		<revenue>20.74</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1160</id>
+		<name>Danaher</name>
+		<hqcity>Washington</hqcity>
+		<industry>Medical Products and Equipment</industry>
+		<marketvalue>96.457</marketvalue>
+		<assets>62.082</assets>
+		<revenue>20.521</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1161</id>
+		<name>Whirlpool</name>
+		<hqcity>Benton Harbor</hqcity>
+		<industry>Electronics, Electrical Equipment</industry>
+		<marketvalue>5.378</marketvalue>
+		<assets>18.881</assets>
+		<revenue>20.419</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1162</id>
+		<name>AECOM</name>
+		<hqcity>Los Angeles</hqcity>
+		<industry>Engineering &amp; Construction</industry>
+		<marketvalue>4.735</marketvalue>
+		<assets>14.462</assets>
+		<revenue>20.173</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1163</id>
+		<name>Netflix</name>
+		<hqcity>Los Gatos</hqcity>
+		<industry>Entertainment</industry>
+		<marketvalue>164.772</marketvalue>
+		<assets>33.976</assets>
+		<revenue>20.156</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1164</id>
+		<name>Kohl's</name>
+		<hqcity>Menomonee Falls</hqcity>
+		<industry>General Merchandisers</industry>
+		<marketvalue>2.265</marketvalue>
+		<assets>14.555</assets>
+		<revenue>19.974</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1165</id>
+		<name>Lear</name>
+		<hqcity>Southfield</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>4.913</marketvalue>
+		<assets>12.681</assets>
+		<revenue>19.81</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1166</id>
+		<name>Altria Group</name>
+		<hqcity>Richmond</hqcity>
+		<industry>Tobacco</industry>
+		<marketvalue>71.863</marketvalue>
+		<assets>49.271</assets>
+		<revenue>19.796</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1167</id>
+		<name>Performance Food Group</name>
+		<hqcity>Richmond</hqcity>
+		<industry>Wholesalers: Food and Grocery</industry>
+		<marketvalue>2.897</marketvalue>
+		<assets>4.654</assets>
+		<revenue>19.744</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1168</id>
+		<name>Avnet</name>
+		<hqcity>Phoenix</hqcity>
+		<industry>Wholesalers: Electronics and Office Equipment</industry>
+		<marketvalue>2.506</marketvalue>
+		<assets>8.565</assets>
+		<revenue>19.519</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1169</id>
+		<name>Synchrony Financial</name>
+		<hqcity>Stamford</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>9.871</marketvalue>
+		<assets>104.826</assets>
+		<revenue>19.461</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1170</id>
+		<name>Genuine Parts</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Wholesalers: Diversified</industry>
+		<marketvalue>9.789</marketvalue>
+		<assets>14.646</assets>
+		<revenue>19.392</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1171</id>
+		<name>NextEra Energy</name>
+		<hqcity>Juno Beach</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>117.655</marketvalue>
+		<assets>117.691</assets>
+		<revenue>19.204</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1172</id>
+		<name>CarMax</name>
+		<hqcity>Richmond</hqcity>
+		<industry>Automotive Retailing, Services</industry>
+		<marketvalue>8.795</marketvalue>
+		<assets>18.718</assets>
+		<revenue>19.146</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1173</id>
+		<name>Tenet Healthcare</name>
+		<hqcity>Dallas</hqcity>
+		<industry>Health Care: Medical Facilities</industry>
+		<marketvalue>1.502</marketvalue>
+		<assets>23.351</assets>
+		<revenue>18.479</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1174</id>
+		<name>Kimberly-Clark</name>
+		<hqcity>Irving</hqcity>
+		<industry>Household and Personal Products</industry>
+		<marketvalue>43.663</marketvalue>
+		<assets>15.283</assets>
+		<revenue>18.45</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1175</id>
+		<name>Emerson Electric</name>
+		<hqcity>St. Louis</hqcity>
+		<industry>Industrial Machinery</industry>
+		<marketvalue>29.154</marketvalue>
+		<assets>20.497</assets>
+		<revenue>18.372</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1176</id>
+		<name>WestRock</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Packaging, Containers</industry>
+		<marketvalue>7.304</marketvalue>
+		<assets>30.157</assets>
+		<revenue>18.289</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1177</id>
+		<name>CDW</name>
+		<hqcity>Lincolnshire</hqcity>
+		<industry>Information Technology Services</industry>
+		<marketvalue>13.316</marketvalue>
+		<assets>7.999</assets>
+		<revenue>18.032</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1178</id>
+		<name>Jones Lang LaSalle</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Real Estate</industry>
+		<marketvalue>5.207</marketvalue>
+		<assets>13.673</assets>
+		<revenue>17.983</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1179</id>
+		<name>Sherwin-Williams</name>
+		<hqcity>Cleveland</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>42.186</marketvalue>
+		<assets>20.496</assets>
+		<revenue>17.901</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1180</id>
+		<name>Fluor</name>
+		<hqcity>Irving</hqcity>
+		<industry>Engineering &amp; Construction</industry>
+		<marketvalue>0.969</marketvalue>
+		<assets>7.884</assets>
+		<revenue>17.817</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1181</id>
+		<name>PayPal Holdings</name>
+		<hqcity>San Jose</hqcity>
+		<industry>Financial Data Services</industry>
+		<marketvalue>112.299</marketvalue>
+		<assets>51.333</assets>
+		<revenue>17.772</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1182</id>
+		<name>D.R. Horton</name>
+		<hqcity>Arlington</hqcity>
+		<industry>Homebuilders</industry>
+		<marketvalue>12.456</marketvalue>
+		<assets>15.607</assets>
+		<revenue>17.593</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1183</id>
+		<name>HF Sinclair</name>
+		<hqcity>Dallas</hqcity>
+		<industry>Petroleum Refining</industry>
+		<marketvalue>3.968</marketvalue>
+		<assets>12.165</assets>
+		<revenue>17.487</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1184</id>
+		<name>Tenneco</name>
+		<hqcity>Lake Forest</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>0.292</marketvalue>
+		<assets>13.226</assets>
+		<revenue>17.45</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1185</id>
+		<name>EOG Resources</name>
+		<hqcity>Houston</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>20.907</marketvalue>
+		<assets>37.125</assets>
+		<revenue>17.38</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1186</id>
+		<name>Becton Dickinson</name>
+		<hqcity>Franklin Lakes</hqcity>
+		<industry>Medical Products and Equipment</industry>
+		<marketvalue>62.308</marketvalue>
+		<assets>51.765</assets>
+		<revenue>17.29</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1187</id>
+		<name>Lincoln National</name>
+		<hqcity>Radnor</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<marketvalue>5.142</marketvalue>
+		<assets>334.761</assets>
+		<revenue>17.258</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1188</id>
+		<name>PG&amp;E</name>
+		<hqcity>San Francisco</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>4.763</marketvalue>
+		<assets>85.196</assets>
+		<revenue>17.129</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1189</id>
+		<name>Salesforce</name>
+		<hqcity>San Francisco</hqcity>
+		<industry>Computer Software</industry>
+		<marketvalue>128.862</marketvalue>
+		<assets>55.126</assets>
+		<revenue>17.098</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1190</id>
+		<name>Mastercard</name>
+		<hqcity>Purchase</hqcity>
+		<industry>Financial Data Services</industry>
+		<marketvalue>242.794</marketvalue>
+		<assets>29.236</assets>
+		<revenue>16.883</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1191</id>
+		<name>General Mills</name>
+		<hqcity>Minneapolis</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>31.986</marketvalue>
+		<assets>30.111</assets>
+		<revenue>16.865</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1192</id>
+		<name>Molina Healthcare</name>
+		<hqcity>Long Beach</hqcity>
+		<industry>Health Care: Insurance and Managed Care</industry>
+		<marketvalue>8.501</marketvalue>
+		<assets>6.787</assets>
+		<revenue>16.829</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1193</id>
+		<name>Cognizant Technology Solutions</name>
+		<hqcity>Teaneck</hqcity>
+		<industry>Information Technology Services</industry>
+		<marketvalue>25.495</marketvalue>
+		<assets>16.204</assets>
+		<revenue>16.783</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1194</id>
+		<name>Marsh &amp; McLennan</name>
+		<hqcity>New York</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>43.567</marketvalue>
+		<assets>31.357</assets>
+		<revenue>16.652</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1195</id>
+		<name>XPO</name>
+		<hqcity>Greenwich</hqcity>
+		<industry>Transportation and Logistics</industry>
+		<marketvalue>4.502</marketvalue>
+		<assets>14.128</assets>
+		<revenue>16.648</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1196</id>
+		<name>Dominion Energy</name>
+		<hqcity>Richmond</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>60.515</marketvalue>
+		<assets>103.823</assets>
+		<revenue>16.572</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1197</id>
+		<name>Western Digital</name>
+		<hqcity>San Jose</hqcity>
+		<industry>Computers, Office Equipment</industry>
+		<marketvalue>12.442</marketvalue>
+		<assets>26.37</assets>
+		<revenue>16.569</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1198</id>
+		<name>Gap</name>
+		<hqcity>San Francisco</hqcity>
+		<industry>Specialty Retailers: Apparel</industry>
+		<marketvalue>2.614</marketvalue>
+		<assets>13.679</assets>
+		<revenue>16.383</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1199</id>
+		<name>Aramark</name>
+		<hqcity>Philadelphia</hqcity>
+		<industry>Diversified Outsourcing Services</industry>
+		<marketvalue>5.038</marketvalue>
+		<assets>13.736</assets>
+		<revenue>16.227</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1200</id>
+		<name>Principal Financial</name>
+		<hqcity>Des Moines</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<marketvalue>8.609</marketvalue>
+		<assets>276.088</assets>
+		<revenue>16.222</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1201</id>
+		<name>Ross Stores</name>
+		<hqcity>Dublin</hqcity>
+		<industry>Specialty Retailers: Apparel</industry>
+		<marketvalue>30.952</marketvalue>
+		<assets>9.348</assets>
+		<revenue>16.039</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1202</id>
+		<name>Colgate-Palmolive</name>
+		<hqcity>New York</hqcity>
+		<industry>Household and Personal Products</industry>
+		<marketvalue>56.9</marketvalue>
+		<assets>15.034</assets>
+		<revenue>15.693</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1203</id>
+		<name>American Electric Power</name>
+		<hqcity>Columbus</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>39.577</marketvalue>
+		<assets>75.892</assets>
+		<revenue>15.561</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1204</id>
+		<name>Nordstrom</name>
+		<hqcity>Seattle</hqcity>
+		<industry>General Merchandisers</industry>
+		<marketvalue>2.398</marketvalue>
+		<assets>9.737</assets>
+		<revenue>15.524</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1205</id>
+		<name>Jacobs Solutions</name>
+		<hqcity>Dallas</hqcity>
+		<industry>Engineering &amp; Construction</industry>
+		<marketvalue>10.547</marketvalue>
+		<assets>11.463</assets>
+		<revenue>15.464</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1206</id>
+		<name>Waste Management</name>
+		<hqcity>Houston</hqcity>
+		<industry>Waste Management</industry>
+		<marketvalue>39.211</marketvalue>
+		<assets>27.743</assets>
+		<revenue>15.455</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1207</id>
+		<name>C.H. Robinson Worldwide</name>
+		<hqcity>Eden Prairie</hqcity>
+		<industry>Transportation and Logistics</industry>
+		<marketvalue>8.695</marketvalue>
+		<assets>4.641</assets>
+		<revenue>15.31</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1208</id>
+		<name>PPG Industries</name>
+		<hqcity>Pittsburgh</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>19.722</marketvalue>
+		<assets>17.708</assets>
+		<revenue>15.146</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1209</id>
+		<name>Booking Holdings</name>
+		<hqcity>Norwalk</hqcity>
+		<industry>Internet Services and Retailing</industry>
+		<marketvalue>55.241</marketvalue>
+		<assets>21.402</assets>
+		<revenue>15.066</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1210</id>
+		<name>Omnicom Group</name>
+		<hqcity>New York</hqcity>
+		<industry>Advertising, Marketing</industry>
+		<marketvalue>11.906</marketvalue>
+		<assets>26.783</assets>
+		<revenue>14.954</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1211</id>
+		<name>Loews</name>
+		<hqcity>New York</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>10.023</marketvalue>
+		<assets>82.243</assets>
+		<revenue>14.931</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1212</id>
+		<name>Ecolab</name>
+		<hqcity>St. Paul</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>45.061</marketvalue>
+		<assets>20.869</assets>
+		<revenue>14.906</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1213</id>
+		<name>Stryker</name>
+		<hqcity>Kalamazoo</hqcity>
+		<industry>Medical Products and Equipment</industry>
+		<marketvalue>62.405</marketvalue>
+		<assets>30.167</assets>
+		<revenue>14.884</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1214</id>
+		<name>Estee Lauder</name>
+		<hqcity>New York</hqcity>
+		<industry>Household and Personal Products</industry>
+		<marketvalue>57.289</marketvalue>
+		<assets>13.156</assets>
+		<revenue>14.863</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1215</id>
+		<name>Goodyear Tire &amp; Rubber</name>
+		<hqcity>Akron</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>1.354</marketvalue>
+		<assets>17.185</assets>
+		<revenue>14.745</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1216</id>
+		<name>Truist Financial</name>
+		<hqcity>Charlotte</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>41.48</marketvalue>
+		<assets>473.078</assets>
+		<revenue>14.664</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1217</id>
+		<name>Applied Materials</name>
+		<hqcity>Santa Clara</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>42.077</marketvalue>
+		<assets>19.024</assets>
+		<revenue>14.608</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1218</id>
+		<name>BlackRock</name>
+		<hqcity>New York</hqcity>
+		<industry>Securities</industry>
+		<marketvalue>68.12</marketvalue>
+		<assets>168.622</assets>
+		<revenue>14.539</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1219</id>
+		<name>Stanley Black &amp; Decker</name>
+		<hqcity>New Britain</hqcity>
+		<industry>Home Equipment, Furnishings</industry>
+		<marketvalue>15.403</marketvalue>
+		<assets>20.597</assets>
+		<revenue>14.442</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1220</id>
+		<name>Freeport-McMoRan</name>
+		<hqcity>Phoenix</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>9.794</marketvalue>
+		<assets>40.809</assets>
+		<revenue>14.402</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1221</id>
+		<name>Texas Instruments</name>
+		<hqcity>Dallas</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>93.303</marketvalue>
+		<assets>18.018</assets>
+		<revenue>14.383</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1222</id>
+		<name>Biogen</name>
+		<hqcity>Cambridge</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>55.07</marketvalue>
+		<assets>27.234</assets>
+		<revenue>14.378</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1223</id>
+		<name>Parker-Hannifin</name>
+		<hqcity>Cleveland</hqcity>
+		<industry>Industrial Machinery</industry>
+		<marketvalue>16.653</marketvalue>
+		<assets>17.577</assets>
+		<revenue>14.32</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1224</id>
+		<name>Reinsurance Group of America</name>
+		<hqcity>Chesterfield</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<marketvalue>5.186</marketvalue>
+		<assets>76.731</assets>
+		<revenue>14.3</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1225</id>
+		<name>Howmet Aerospace</name>
+		<hqcity>Pittsburgh</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>7.001</marketvalue>
+		<assets>17.578</assets>
+		<revenue>14.192</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1226</id>
+		<name>Automatic Data Processing</name>
+		<hqcity>Roseland</hqcity>
+		<industry>Diversified Outsourcing Services</industry>
+		<marketvalue>59.012</marketvalue>
+		<assets>41.888</assets>
+		<revenue>14.175</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1227</id>
+		<name>Uber Technologies</name>
+		<hqcity>San Francisco</hqcity>
+		<industry>Internet Services and Retailing</industry>
+		<marketvalue>48.226</marketvalue>
+		<assets>31.761</assets>
+		<revenue>14.147</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1228</id>
+		<name>Illinois Tool Works</name>
+		<hqcity>Glenview</hqcity>
+		<industry>Industrial Machinery</industry>
+		<marketvalue>45.126</marketvalue>
+		<assets>15.068</assets>
+		<revenue>14.109</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1229</id>
+		<name>DaVita</name>
+		<hqcity>Denver</hqcity>
+		<industry>Health Care: Medical Facilities</industry>
+		<marketvalue>9.553</marketvalue>
+		<assets>17.311</assets>
+		<revenue>14.102</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1230</id>
+		<name>Discover Financial Services</name>
+		<hqcity>Riverwoods</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>10.924</marketvalue>
+		<assets>113.996</assets>
+		<revenue>13.989</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1231</id>
+		<name>Land O'Lakes</name>
+		<hqcity>Arden Hills</hqcity>
+		<industry>Food Consumer Products</industry>
+		<assets>8.899</assets>
+		<revenue>13.888</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1232</id>
+		<name>VF</name>
+		<hqcity>Greenwood Village</hqcity>
+		<industry>Apparel</industry>
+		<marketvalue>21.347</marketvalue>
+		<assets>10.357</assets>
+		<revenue>13.871</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1233</id>
+		<name>Corteva</name>
+		<hqcity>Wilmington</hqcity>
+		<industry>Food Production</industry>
+		<marketvalue>17.608</marketvalue>
+		<assets>42.397</assets>
+		<revenue>13.846</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1234</id>
+		<name>Las Vegas Sands</name>
+		<hqcity>Las Vegas</hqcity>
+		<industry>Hotels, Casinos, Resorts</industry>
+		<marketvalue>32.434</marketvalue>
+		<assets>23.199</assets>
+		<revenue>13.739</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1235</id>
+		<name>Textron</name>
+		<hqcity>Providence</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>6.071</marketvalue>
+		<assets>15.018</assets>
+		<revenue>13.63</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1236</id>
+		<name>Kellogg</name>
+		<hqcity>Battle Creek</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>20.547</marketvalue>
+		<assets>17.564</assets>
+		<revenue>13.578</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1237</id>
+		<name>Guardian Life Ins. Co. of America</name>
+		<hqcity>New York</hqcity>
+		<industry>Insurance: Life, Health (Mutual)</industry>
+		<assets>79.388</assets>
+		<revenue>13.477</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1238</id>
+		<name>Qurate Retail</name>
+		<hqcity>Englewood</hqcity>
+		<industry>Internet Services and Retailing</industry>
+		<marketvalue>2.54</marketvalue>
+		<assets>17.305</assets>
+		<revenue>13.458</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1239</id>
+		<name>Core-Mark Holding</name>
+		<hqcity>Westlake</hqcity>
+		<industry>Wholesalers: Food and Grocery</industry>
+		<marketvalue>1.295</marketvalue>
+		<assets>1.898</assets>
+		<revenue>13.329</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1240</id>
+		<name>Community Health Systems</name>
+		<hqcity>Franklin</hqcity>
+		<industry>Health Care: Medical Facilities</industry>
+		<marketvalue>0.394</marketvalue>
+		<assets>15.609</assets>
+		<revenue>13.21</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1241</id>
+		<name>Kinder Morgan</name>
+		<hqcity>Houston</hqcity>
+		<industry>Pipelines</industry>
+		<marketvalue>31.53</marketvalue>
+		<assets>74.157</assets>
+		<revenue>13.209</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1242</id>
+		<name>BJ's Wholesale Club</name>
+		<hqcity>Westborough</hqcity>
+		<industry>General Merchandisers</industry>
+		<marketvalue>3.496</marketvalue>
+		<assets>5.27</assets>
+		<revenue>13.191</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1243</id>
+		<name>State Street</name>
+		<hqcity>Boston</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>18.876</marketvalue>
+		<assets>245.61</assets>
+		<revenue>13.131</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1244</id>
+		<name>Ameriprise Financial</name>
+		<hqcity>Minneapolis</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>12.602</marketvalue>
+		<assets>151.828</assets>
+		<revenue>13.103</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1245</id>
+		<name>Global Partners</name>
+		<hqcity>Waltham</hqcity>
+		<industry>Wholesalers: Diversified</industry>
+		<marketvalue>0.3</marketvalue>
+		<assets>2.808</assets>
+		<revenue>13.082</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1246</id>
+		<name>United States Steel</name>
+		<hqcity>Pittsburgh</hqcity>
+		<industry>Metals</industry>
+		<marketvalue>1.074</marketvalue>
+		<assets>11.608</assets>
+		<revenue>12.937</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1247</id>
+		<name>Bath &amp; Body Works</name>
+		<hqcity>Columbus</hqcity>
+		<industry>Specialty Retailers: Apparel</industry>
+		<marketvalue>3.197</marketvalue>
+		<assets>10.125</assets>
+		<revenue>12.914</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1248</id>
+		<name>MGM Resorts International</name>
+		<hqcity>Las Vegas</hqcity>
+		<industry>Hotels, Casinos, Resorts</industry>
+		<marketvalue>5.814</marketvalue>
+		<assets>33.876</assets>
+		<revenue>12.9</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1249</id>
+		<name>L3Harris Technologies</name>
+		<hqcity>Melbourne</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>39.067</marketvalue>
+		<assets>38.336</assets>
+		<revenue>12.856</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1250</id>
+		<name>DISH Network</name>
+		<hqcity>Englewood</hqcity>
+		<industry>Telecommunications</industry>
+		<marketvalue>10.456</marketvalue>
+		<assets>33.231</assets>
+		<revenue>12.808</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1251</id>
+		<name>Lithia Motors</name>
+		<hqcity>Medford</hqcity>
+		<industry>Automotive Retailing, Services</industry>
+		<marketvalue>1.91</marketvalue>
+		<assets>6.084</assets>
+		<revenue>12.673</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1252</id>
+		<name>DTE Energy</name>
+		<hqcity>Detroit</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>18.29</marketvalue>
+		<assets>41.882</assets>
+		<revenue>12.669</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1253</id>
+		<name>American Family Insurance Group</name>
+		<hqcity>Madison</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<assets>31.124</assets>
+		<revenue>12.633</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1254</id>
+		<name>Farmers Insurance Exchange</name>
+		<hqcity>Woodland Hills</hqcity>
+		<industry>Insurance: Property and Casualty (Mutual)</industry>
+		<assets>17.457</assets>
+		<revenue>12.593</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1255</id>
+		<name>Consolidated Edison</name>
+		<hqcity>New York</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>26.035</marketvalue>
+		<assets>58.079</assets>
+		<revenue>12.574</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1256</id>
+		<name>LKQ</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Wholesalers: Diversified</industry>
+		<marketvalue>6.311</marketvalue>
+		<assets>12.78</assets>
+		<revenue>12.506</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1257</id>
+		<name>Sempra</name>
+		<hqcity>San Diego</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>33.037</marketvalue>
+		<assets>65.665</assets>
+		<revenue>12.443</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1258</id>
+		<name>Edison International</name>
+		<hqcity>Rosemead</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>19.868</marketvalue>
+		<assets>64.382</assets>
+		<revenue>12.347</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1259</id>
+		<name>CenterPoint Energy</name>
+		<hqcity>Houston</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>7.765</marketvalue>
+		<assets>35.439</assets>
+		<revenue>12.301</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1260</id>
+		<name>Quanta Services</name>
+		<hqcity>Houston</hqcity>
+		<industry>Engineering &amp; Construction</industry>
+		<marketvalue>4.537</marketvalue>
+		<assets>8.332</assets>
+		<revenue>12.112</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1261</id>
+		<name>Murphy USA</name>
+		<hqcity>El Dorado</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>2.557</marketvalue>
+		<assets>2.687</assets>
+		<revenue>12.101</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1262</id>
+		<name>Expedia Group</name>
+		<hqcity>Seattle</hqcity>
+		<industry>Internet Services and Retailing</industry>
+		<marketvalue>7.877</marketvalue>
+		<assets>21.416</assets>
+		<revenue>12.067</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1263</id>
+		<name>Group 1 Automotive</name>
+		<hqcity>Houston</hqcity>
+		<industry>Automotive Retailing, Services</industry>
+		<marketvalue>0.813</marketvalue>
+		<assets>5.57</assets>
+		<revenue>12.044</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1264</id>
+		<name>Bed Bath &amp; Beyond</name>
+		<hqcity>Union</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>0.535</marketvalue>
+		<assets>6.571</assets>
+		<revenue>12.029</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1265</id>
+		<name>Unum Group</name>
+		<hqcity>Chattanooga</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<marketvalue>3.047</marketvalue>
+		<assets>67.013</assets>
+		<revenue>11.999</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1266</id>
+		<name>CSX</name>
+		<hqcity>Jacksonville</hqcity>
+		<industry>Railroads</industry>
+		<marketvalue>44.162</marketvalue>
+		<assets>38.257</assets>
+		<revenue>11.937</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1267</id>
+		<name>AutoZone</name>
+		<hqcity>Memphis</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>19.756</marketvalue>
+		<assets>9.896</assets>
+		<revenue>11.864</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1268</id>
+		<name>Pacific Life</name>
+		<hqcity>Newport Beach</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<assets>171.473</assets>
+		<revenue>11.847</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1269</id>
+		<name>Vistra</name>
+		<hqcity>Irving</hqcity>
+		<industry>Energy</industry>
+		<marketvalue>7.795</marketvalue>
+		<assets>26.616</assets>
+		<revenue>11.809</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1270</id>
+		<name>Charles Schwab</name>
+		<hqcity>San Francisco</hqcity>
+		<industry>Securities</industry>
+		<marketvalue>43.278</marketvalue>
+		<assets>294.005</assets>
+		<revenue>11.785</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1271</id>
+		<name>Crown Holdings</name>
+		<hqcity>Yardley</hqcity>
+		<industry>Packaging, Containers</industry>
+		<marketvalue>7.876</marketvalue>
+		<assets>15.505</assets>
+		<revenue>11.665</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1272</id>
+		<name>Ally Financial</name>
+		<hqcity>Detroit</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>5.403</marketvalue>
+		<assets>180.644</assets>
+		<revenue>11.618</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1273</id>
+		<name>Laboratory Corp. of America</name>
+		<hqcity>Burlington</hqcity>
+		<industry>Health Care: Pharmacy and Other Services</industry>
+		<marketvalue>12.298</marketvalue>
+		<assets>18.046</assets>
+		<revenue>11.555</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1274</id>
+		<name>Live Nation Entertainment</name>
+		<hqcity>Beverly Hills</hqcity>
+		<industry>Entertainment</industry>
+		<marketvalue>9.753</marketvalue>
+		<assets>10.976</assets>
+		<revenue>11.548</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1275</id>
+		<name>Xcel Energy</name>
+		<hqcity>Minneapolis</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>31.638</marketvalue>
+		<assets>50.448</assets>
+		<revenue>11.529</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1276</id>
+		<name>Corning</name>
+		<hqcity>Corning</hqcity>
+		<industry>Electronics, Electrical Equipment</industry>
+		<marketvalue>15.664</marketvalue>
+		<assets>28.898</assets>
+		<revenue>11.503</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1277</id>
+		<name>W.W. Grainger</name>
+		<hqcity>Lake Forest</hqcity>
+		<industry>Wholesalers: Diversified</industry>
+		<marketvalue>13.338</marketvalue>
+		<assets>6.005</assets>
+		<revenue>11.486</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1278</id>
+		<name>Ball</name>
+		<hqcity>Broomfield</hqcity>
+		<industry>Packaging, Containers</industry>
+		<marketvalue>21.065</marketvalue>
+		<assets>17.36</assets>
+		<revenue>11.474</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1279</id>
+		<name>Fox</name>
+		<hqcity>New York</hqcity>
+		<industry>Entertainment</industry>
+		<marketvalue>14.143</marketvalue>
+		<assets>19.509</assets>
+		<revenue>11.389</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1280</id>
+		<name>Universal Health Services</name>
+		<hqcity>King of Prussia</hqcity>
+		<industry>Health Care: Medical Facilities</industry>
+		<marketvalue>8.593</marketvalue>
+		<assets>11.668</assets>
+		<revenue>11.378</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1281</id>
+		<name>Baxter International</name>
+		<hqcity>Deerfield</hqcity>
+		<industry>Medical Products and Equipment</industry>
+		<marketvalue>41.18</marketvalue>
+		<assets>18.193</assets>
+		<revenue>11.362</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1282</id>
+		<name>Norfolk Southern</name>
+		<hqcity>Norfolk</hqcity>
+		<industry>Railroads</industry>
+		<marketvalue>37.537</marketvalue>
+		<assets>37.923</assets>
+		<revenue>11.296</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1283</id>
+		<name>Navistar International</name>
+		<hqcity>Lisle</hqcity>
+		<industry>Construction and Farm Machinery</industry>
+		<marketvalue>1.641</marketvalue>
+		<assets>6.917</assets>
+		<revenue>11.251</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1284</id>
+		<name>Adobe</name>
+		<hqcity>San Jose</hqcity>
+		<industry>Computer Software</industry>
+		<marketvalue>153.328</marketvalue>
+		<assets>20.762</assets>
+		<revenue>11.171</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1285</id>
+		<name>J.C. Penney</name>
+		<hqcity>Plano</hqcity>
+		<industry>General Merchandisers</industry>
+		<marketvalue>0.116</marketvalue>
+		<assets>7.989</assets>
+		<revenue>11.167</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1286</id>
+		<name>Warner Bros. Discovery</name>
+		<hqcity>Silver Spring</hqcity>
+		<industry>Entertainment</industry>
+		<marketvalue>9.503</marketvalue>
+		<assets>33.735</assets>
+		<revenue>11.144</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1287</id>
+		<name>Keurig Dr Pepper</name>
+		<hqcity>Burlington</hqcity>
+		<industry>Beverages</industry>
+		<marketvalue>34.148</marketvalue>
+		<assets>49.518</assets>
+		<revenue>11.12</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1288</id>
+		<name>Leidos Holdings</name>
+		<hqcity>Reston</hqcity>
+		<industry>Information Technology Services</industry>
+		<marketvalue>13</marketvalue>
+		<assets>9.367</assets>
+		<revenue>11.094</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1289</id>
+		<name>IQVIA Holdings</name>
+		<hqcity>Durham</hqcity>
+		<industry>Health Care: Pharmacy and Other Services</industry>
+		<marketvalue>20.797</marketvalue>
+		<assets>23.251</assets>
+		<revenue>11.088</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1290</id>
+		<name>Reliance Steel &amp; Aluminum</name>
+		<hqcity>Los Angeles</hqcity>
+		<industry>Metals</industry>
+		<marketvalue>5.856</marketvalue>
+		<assets>8.131</assets>
+		<revenue>10.974</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1291</id>
+		<name>Nvidia</name>
+		<hqcity>Santa Clara</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>161.451</marketvalue>
+		<assets>17.315</assets>
+		<revenue>10.918</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1292</id>
+		<name>Entergy</name>
+		<hqcity>New Orleans</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>18.871</marketvalue>
+		<assets>51.724</assets>
+		<revenue>10.879</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1293</id>
+		<name>FirstEnergy</name>
+		<hqcity>Akron</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>21.666</marketvalue>
+		<assets>42.301</assets>
+		<revenue>10.85</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1294</id>
+		<name>eBay</name>
+		<hqcity>San Jose</hqcity>
+		<industry>Internet Services and Retailing</industry>
+		<marketvalue>23.93</marketvalue>
+		<assets>18.174</assets>
+		<revenue>10.8</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1295</id>
+		<name>Boston Scientific</name>
+		<hqcity>Marlborough</hqcity>
+		<industry>Medical Products and Equipment</industry>
+		<marketvalue>45.656</marketvalue>
+		<assets>30.565</assets>
+		<revenue>10.735</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1296</id>
+		<name>ODP</name>
+		<hqcity>Boca Raton</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>0.868</marketvalue>
+		<assets>7.311</assets>
+		<revenue>10.647</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1297</id>
+		<name>Molson Coors Beverage</name>
+		<hqcity>Denver</hqcity>
+		<industry>Beverages</industry>
+		<marketvalue>8.441</marketvalue>
+		<assets>28.86</assets>
+		<revenue>10.579</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1298</id>
+		<name>Steel Dynamics</name>
+		<hqcity>Fort Wayne</hqcity>
+		<industry>Metals</industry>
+		<marketvalue>4.794</marketvalue>
+		<assets>8.276</assets>
+		<revenue>10.465</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1299</id>
+		<name>Mutual of Omaha Insurance</name>
+		<hqcity>Omaha</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<assets>50.174</assets>
+		<revenue>10.456</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1300</id>
+		<name>Sonic Automotive</name>
+		<hqcity>Charlotte</hqcity>
+		<industry>Automotive Retailing, Services</industry>
+		<marketvalue>0.567</marketvalue>
+		<assets>4.071</assets>
+		<revenue>10.454</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1301</id>
+		<name>Alcoa</name>
+		<hqcity>Pittsburgh</hqcity>
+		<industry>Metals</industry>
+		<marketvalue>1.145</marketvalue>
+		<assets>14.631</assets>
+		<revenue>10.433</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1302</id>
+		<name>Fidelity National Information Services</name>
+		<hqcity>Jacksonville</hqcity>
+		<industry>Financial Data Services</industry>
+		<marketvalue>74.969</marketvalue>
+		<assets>83.806</assets>
+		<revenue>10.333</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1303</id>
+		<name>Henry Schein</name>
+		<hqcity>Melville</hqcity>
+		<industry>Wholesalers: Health Care</industry>
+		<marketvalue>7.244</marketvalue>
+		<assets>7.151</assets>
+		<revenue>10.305</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1304</id>
+		<name>Republic Services</name>
+		<hqcity>Phoenix</hqcity>
+		<industry>Waste Management</industry>
+		<marketvalue>23.956</marketvalue>
+		<assets>22.684</assets>
+		<revenue>10.299</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1305</id>
+		<name>Liberty Media</name>
+		<hqcity>Englewood</hqcity>
+		<industry>Entertainment</industry>
+		<marketvalue>9.972</marketvalue>
+		<assets>44.189</assets>
+		<revenue>10.292</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1306</id>
+		<name>Peter Kiewit Sons'</name>
+		<hqcity>Omaha</hqcity>
+		<industry>Engineering &amp; Construction</industry>
+		<assets>5.717</assets>
+		<revenue>10.283</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1307</id>
+		<name>Interpublic Group</name>
+		<hqcity>New York</hqcity>
+		<industry>Advertising, Marketing</industry>
+		<marketvalue>6.279</marketvalue>
+		<assets>17.752</assets>
+		<revenue>10.221</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1308</id>
+		<name>PulteGroup</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Homebuilders</industry>
+		<marketvalue>6.015</marketvalue>
+		<assets>10.716</assets>
+		<revenue>10.213</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1309</id>
+		<name>AES</name>
+		<hqcity>Arlington</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>9.041</marketvalue>
+		<assets>33.648</assets>
+		<revenue>10.189</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1310</id>
+		<name>Fiserv</name>
+		<hqcity>Brookfield</hqcity>
+		<industry>Financial Data Services</industry>
+		<marketvalue>64.508</marketvalue>
+		<assets>77.539</assets>
+		<revenue>10.187</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1311</id>
+		<name>BorgWarner</name>
+		<hqcity>Auburn Hills</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>5.037</marketvalue>
+		<assets>9.702</assets>
+		<revenue>10.168</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1312</id>
+		<name>Oneok</name>
+		<hqcity>Tulsa</hqcity>
+		<industry>Pipelines</industry>
+		<marketvalue>9.015</marketvalue>
+		<assets>21.812</assets>
+		<revenue>10.164</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1313</id>
+		<name>O'Reilly Automotive</name>
+		<hqcity>Springfield</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>22.353</marketvalue>
+		<assets>10.717</assets>
+		<revenue>10.15</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1314</id>
+		<name>Assurant</name>
+		<hqcity>New York</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>6.218</marketvalue>
+		<assets>44.291</assets>
+		<revenue>10.087</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1315</id>
+		<name>Newell Brands</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Home Equipment, Furnishings</industry>
+		<marketvalue>5.949</marketvalue>
+		<assets>15.642</assets>
+		<revenue>10.083</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1316</id>
+		<name>Public Service Enterprise Group</name>
+		<hqcity>Newark</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>22.685</marketvalue>
+		<assets>47.73</assets>
+		<revenue>10.076</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1317</id>
+		<name>News Corp.</name>
+		<hqcity>New York</hqcity>
+		<industry>Publishing, Printing</industry>
+		<marketvalue>5.28</marketvalue>
+		<assets>15.711</assets>
+		<revenue>10.074</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1318</id>
+		<name>Calpine</name>
+		<hqcity>Houston</hqcity>
+		<industry>Energy</industry>
+		<assets>16.649</assets>
+		<revenue>10.072</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1319</id>
+		<name>Auto-Owners Insurance</name>
+		<hqcity>Lansing</hqcity>
+		<industry>Insurance: Property and Casualty (Mutual)</industry>
+		<assets>27.135</assets>
+		<revenue>10.007</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1320</id>
+		<name>Mohawk Industries</name>
+		<hqcity>Calhoun</hqcity>
+		<industry>Home Equipment, Furnishings</industry>
+		<marketvalue>5.464</marketvalue>
+		<assets>13.387</assets>
+		<revenue>9.971</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1321</id>
+		<name>Campbell Soup</name>
+		<hqcity>Camden</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>13.929</marketvalue>
+		<assets>13.148</assets>
+		<revenue>9.909</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1322</id>
+		<name>PVH</name>
+		<hqcity>New York</hqcity>
+		<industry>Apparel</industry>
+		<marketvalue>2.746</marketvalue>
+		<assets>13.631</assets>
+		<revenue>9.909</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1323</id>
+		<name>NRG Energy</name>
+		<hqcity>Princeton</hqcity>
+		<industry>Energy</industry>
+		<marketvalue>6.83</marketvalue>
+		<assets>12.531</assets>
+		<revenue>9.871</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1324</id>
+		<name>Fifth Third Bancorp</name>
+		<hqcity>Cincinnati</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>10.56</marketvalue>
+		<assets>169.369</assets>
+		<revenue>9.79</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1325</id>
+		<name>Hertz Global Holdings</name>
+		<hqcity>Estero</hqcity>
+		<industry>Automotive Retailing, Services</industry>
+		<marketvalue>0.878</marketvalue>
+		<assets>24.627</assets>
+		<revenue>9.779</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1326</id>
+		<name>Altice USA</name>
+		<hqcity>Long Island City</hqcity>
+		<industry>Telecommunications</industry>
+		<marketvalue>14.11</marketvalue>
+		<assets>34.108</assets>
+		<revenue>9.761</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1327</id>
+		<name>Newmont</name>
+		<hqcity>Greenwood Village</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>36.577</marketvalue>
+		<assets>39.974</assets>
+		<revenue>9.74</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1328</id>
+		<name>Cheniere Energy</name>
+		<hqcity>Houston</hqcity>
+		<industry>Energy</industry>
+		<marketvalue>8.512</marketvalue>
+		<assets>35.492</assets>
+		<revenue>9.73</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1329</id>
+		<name>Advance Auto Parts</name>
+		<hqcity>Raleigh</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>6.461</marketvalue>
+		<assets>11.249</assets>
+		<revenue>9.709</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1330</id>
+		<name>Lam Research</name>
+		<hqcity>Fremont</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>34.932</marketvalue>
+		<assets>12.001</assets>
+		<revenue>9.654</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1331</id>
+		<name>Owens &amp; Minor</name>
+		<hqcity>Mechanicsville</hqcity>
+		<industry>Wholesalers: Health Care</industry>
+		<marketvalue>0.577</marketvalue>
+		<assets>3.643</assets>
+		<revenue>9.65</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1332</id>
+		<name>Equitable Holdings</name>
+		<hqcity>New York</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<marketvalue>6.707</marketvalue>
+		<assets>249.87</assets>
+		<revenue>9.591</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1333</id>
+		<name>Conagra Brands</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>14.291</marketvalue>
+		<assets>22.214</assets>
+		<revenue>9.538</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1334</id>
+		<name>Markel</name>
+		<hqcity>Glen Allen</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>12.787</marketvalue>
+		<assets>37.474</assets>
+		<revenue>9.526</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1335</id>
+		<name>Jones Financial (Edward Jones)</name>
+		<hqcity>Des Peres</hqcity>
+		<industry>Securities</industry>
+		<assets>19.317</assets>
+		<revenue>9.526</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1336</id>
+		<name>Hormel Foods</name>
+		<hqcity>Austin</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>25.082</marketvalue>
+		<assets>8.109</assets>
+		<revenue>9.497</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1337</id>
+		<name>Hilton Worldwide Holdings</name>
+		<hqcity>McLean</hqcity>
+		<industry>Hotels, Casinos, Resorts</industry>
+		<marketvalue>18.933</marketvalue>
+		<assets>14.957</assets>
+		<revenue>9.452</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1338</id>
+		<name>Univar Solutions</name>
+		<hqcity>Downers Grove</hqcity>
+		<industry>Wholesalers: Diversified</industry>
+		<marketvalue>1.81</marketvalue>
+		<assets>6.495</assets>
+		<revenue>9.444</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1339</id>
+		<name>United Rentals</name>
+		<hqcity>Stamford</hqcity>
+		<industry>Equipment Leasing</industry>
+		<marketvalue>7.623</marketvalue>
+		<assets>18.97</assets>
+		<revenue>9.351</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1340</id>
+		<name>Pioneer Natural Resources</name>
+		<hqcity>Irving</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>11.625</marketvalue>
+		<assets>19.067</assets>
+		<revenue>9.304</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1341</id>
+		<name>Delek US Holdings</name>
+		<hqcity>Brentwood</hqcity>
+		<industry>Petroleum Refining</industry>
+		<marketvalue>1.19</marketvalue>
+		<assets>7.016</assets>
+		<revenue>9.298</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1342</id>
+		<name>Eastman Chemical</name>
+		<hqcity>Kingsport</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>6.33</marketvalue>
+		<assets>16.008</assets>
+		<revenue>9.273</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1343</id>
+		<name>EMCOR Group</name>
+		<hqcity>Norwalk</hqcity>
+		<industry>Engineering &amp; Construction</industry>
+		<marketvalue>3.45</marketvalue>
+		<assets>4.83</assets>
+		<revenue>9.175</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1344</id>
+		<name>Avis Budget Group</name>
+		<hqcity>Parsippany</hqcity>
+		<industry>Automotive Retailing, Services</industry>
+		<marketvalue>0.967</marketvalue>
+		<assets>23.126</assets>
+		<revenue>9.172</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1345</id>
+		<name>J.B. Hunt Transport Services</name>
+		<hqcity>Lowell</hqcity>
+		<industry>Trucking, Truck Leasing</industry>
+		<marketvalue>9.8</marketvalue>
+		<assets>5.471</assets>
+		<revenue>9.165</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1346</id>
+		<name>Xerox Holdings</name>
+		<hqcity>Norwalk</hqcity>
+		<industry>Computers, Office Equipment</industry>
+		<marketvalue>4.03</marketvalue>
+		<assets>15.047</assets>
+		<revenue>9.145</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1347</id>
+		<name>Wayfair</name>
+		<hqcity>Boston</hqcity>
+		<industry>Internet Services and Retailing</industry>
+		<marketvalue>5.043</marketvalue>
+		<assets>2.953</assets>
+		<revenue>9.127</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1348</id>
+		<name>KKR</name>
+		<hqcity>New York</hqcity>
+		<industry>Securities</industry>
+		<marketvalue>19.913</marketvalue>
+		<assets>60.899</assets>
+		<revenue>9.12</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1349</id>
+		<name>AGCO</name>
+		<hqcity>Duluth</hqcity>
+		<industry>Construction and Farm Machinery</industry>
+		<marketvalue>3.546</marketvalue>
+		<assets>7.76</assets>
+		<revenue>9.041</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1350</id>
+		<name>Alleghany</name>
+		<hqcity>New York</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>7.924</marketvalue>
+		<assets>26.932</assets>
+		<revenue>9.041</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1351</id>
+		<name>Icahn Enterprises</name>
+		<hqcity>New York</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>10.366</marketvalue>
+		<assets>24.639</assets>
+		<revenue>8.992</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1352</id>
+		<name>Voya Financial</name>
+		<hqcity>New York</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>5.366</marketvalue>
+		<assets>169.051</assets>
+		<revenue>8.942</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1353</id>
+		<name>Ryder System</name>
+		<hqcity>Miami</hqcity>
+		<industry>Trucking, Truck Leasing</industry>
+		<marketvalue>1.381</marketvalue>
+		<assets>14.475</assets>
+		<revenue>8.926</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1354</id>
+		<name>Air Products &amp; Chemicals</name>
+		<hqcity>Allentown</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>44.05</marketvalue>
+		<assets>18.943</assets>
+		<revenue>8.919</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1355</id>
+		<name>Mosaic</name>
+		<hqcity>Tampa</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>4.098</marketvalue>
+		<assets>19.299</assets>
+		<revenue>8.906</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1356</id>
+		<name>Huntington Ingalls Industries</name>
+		<hqcity>Newport News</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>7.42</marketvalue>
+		<assets>7.031</assets>
+		<revenue>8.899</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1357</id>
+		<name>Berry Global Group</name>
+		<hqcity>Evansville</hqcity>
+		<industry>Packaging, Containers</industry>
+		<marketvalue>4.463</marketvalue>
+		<assets>16.469</assets>
+		<revenue>8.878</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1358</id>
+		<name>Anixter International</name>
+		<hqcity>Glenview</hqcity>
+		<industry>Wholesalers: Electronics and Office Equipment</industry>
+		<marketvalue>2.973</marketvalue>
+		<assets>4.809</assets>
+		<revenue>8.846</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1359</id>
+		<name>Alaska Air Group</name>
+		<hqcity>Seattle</hqcity>
+		<industry>Airlines</industry>
+		<marketvalue>3.49</marketvalue>
+		<assets>12.993</assets>
+		<revenue>8.781</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1360</id>
+		<name>Yum China Holdings</name>
+		<hqcity>Plano</hqcity>
+		<industry>Food Services</industry>
+		<marketvalue>16.033</marketvalue>
+		<assets>6.95</assets>
+		<revenue>8.776</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1361</id>
+		<name>Dick's Sporting Goods</name>
+		<hqcity>Coraopolis</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>1.848</marketvalue>
+		<assets>6.629</assets>
+		<revenue>8.751</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1362</id>
+		<name>Caesars Holdings</name>
+		<hqcity>Las Vegas</hqcity>
+		<industry>Hotels, Casinos, Resorts</industry>
+		<marketvalue>4.612</marketvalue>
+		<assets>25.345</assets>
+		<revenue>8.742</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1363</id>
+		<name>Genworth Financial</name>
+		<hqcity>Richmond</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<marketvalue>1.676</marketvalue>
+		<assets>101.342</assets>
+		<revenue>8.681</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1364</id>
+		<name>Targa Resources</name>
+		<hqcity>Houston</hqcity>
+		<industry>Pipelines</industry>
+		<marketvalue>1.611</marketvalue>
+		<assets>18.815</assets>
+		<revenue>8.671</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1365</id>
+		<name>Coty</name>
+		<hqcity>New York</hqcity>
+		<industry>Household and Personal Products</industry>
+		<marketvalue>3.924</marketvalue>
+		<assets>17.665</assets>
+		<revenue>8.649</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1366</id>
+		<name>Dana</name>
+		<hqcity>Maumee</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>1.128</marketvalue>
+		<assets>7.22</assets>
+		<revenue>8.62</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1367</id>
+		<name>Thrivent Financial for Lutherans</name>
+		<hqcity>Minneapolis</hqcity>
+		<industry>Insurance: Life, Health (Mutual)</industry>
+		<assets>102.478</assets>
+		<revenue>8.612</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1368</id>
+		<name>Autoliv</name>
+		<hqcity>Auburn Hills</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>4.017</marketvalue>
+		<assets>6.771</assets>
+		<revenue>8.548</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1369</id>
+		<name>SpartanNash</name>
+		<hqcity>Byron Center</hqcity>
+		<industry>Wholesalers: Food and Grocery</industry>
+		<marketvalue>0.521</marketvalue>
+		<assets>2.276</assets>
+		<revenue>8.536</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1370</id>
+		<name>Eversource Energy</name>
+		<hqcity>Springfield</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>25.835</marketvalue>
+		<assets>41.124</assets>
+		<revenue>8.527</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1371</id>
+		<name>Darden Restaurants</name>
+		<hqcity>Orlando</hqcity>
+		<industry>Food Services</industry>
+		<marketvalue>6.58</marketvalue>
+		<assets>5.893</assets>
+		<revenue>8.51</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1372</id>
+		<name>Chesapeake Energy</name>
+		<hqcity>Oklahoma City</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>0.338</marketvalue>
+		<assets>16.193</assets>
+		<revenue>8.489</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1373</id>
+		<name>NOV</name>
+		<hqcity>Houston</hqcity>
+		<industry>Oil and Gas Equipment, Services</industry>
+		<marketvalue>3.794</marketvalue>
+		<assets>13.149</assets>
+		<revenue>8.479</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1374</id>
+		<name>Fidelity National Financial</name>
+		<hqcity>Jacksonville</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>6.854</marketvalue>
+		<assets>10.677</assets>
+		<revenue>8.469</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1375</id>
+		<name>Erie Insurance Group</name>
+		<hqcity>Erie</hqcity>
+		<industry>Insurance: Property and Casualty (Mutual)</industry>
+		<assets>23.347</assets>
+		<revenue>8.443</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1376</id>
+		<name>Oshkosh</name>
+		<hqcity>Oshkosh</hqcity>
+		<industry>Construction and Farm Machinery</industry>
+		<marketvalue>4.394</marketvalue>
+		<assets>5.566</assets>
+		<revenue>8.382</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1377</id>
+		<name>Casey's General Stores</name>
+		<hqcity>Ankeny</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>4.875</marketvalue>
+		<assets>3.731</assets>
+		<revenue>8.365</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1378</id>
+		<name>WESCO International</name>
+		<hqcity>Pittsburgh</hqcity>
+		<industry>Wholesalers: Diversified</industry>
+		<marketvalue>0.957</marketvalue>
+		<assets>5.018</assets>
+		<revenue>8.359</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1379</id>
+		<name>Tractor Supply</name>
+		<hqcity>Brentwood</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>9.81</marketvalue>
+		<assets>5.289</assets>
+		<revenue>8.352</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1380</id>
+		<name>CommScope Holding</name>
+		<hqcity>Hickory</hqcity>
+		<industry>Network and Other Communications Equipment</industry>
+		<marketvalue>1.779</marketvalue>
+		<assets>14.432</assets>
+		<revenue>8.345</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1381</id>
+		<name>Huntsman</name>
+		<hqcity>The Woodlands</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>3.217</marketvalue>
+		<assets>8.32</assets>
+		<revenue>8.342</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1382</id>
+		<name>American Financial Group</name>
+		<hqcity>Cincinnati</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>6.331</marketvalue>
+		<assets>70.13</assets>
+		<revenue>8.237</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1383</id>
+		<name>Masco</name>
+		<hqcity>Livonia</hqcity>
+		<industry>Home Equipment, Furnishings</industry>
+		<marketvalue>9.118</marketvalue>
+		<assets>5.027</assets>
+		<revenue>8.235</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1384</id>
+		<name>Sanmina</name>
+		<hqcity>San Jose</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>1.927</marketvalue>
+		<assets>3.906</assets>
+		<revenue>8.234</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1385</id>
+		<name>Amphenol</name>
+		<hqcity>Wallingford</hqcity>
+		<industry>Network and Other Communications Equipment</industry>
+		<marketvalue>21.726</marketvalue>
+		<assets>10.816</assets>
+		<revenue>8.225</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1386</id>
+		<name>Williams</name>
+		<hqcity>Tulsa</hqcity>
+		<industry>Pipelines</industry>
+		<marketvalue>17.166</marketvalue>
+		<assets>46.04</assets>
+		<revenue>8.201</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1387</id>
+		<name>Westinghouse Air Brake Technologies</name>
+		<hqcity>Pittsburgh</hqcity>
+		<industry>Industrial Machinery</industry>
+		<marketvalue>9.227</marketvalue>
+		<assets>18.944</assets>
+		<revenue>8.2</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1388</id>
+		<name>Expeditors Intl. of Washington</name>
+		<hqcity>Seattle</hqcity>
+		<industry>Transportation and Logistics</industry>
+		<marketvalue>11.208</marketvalue>
+		<assets>3.692</assets>
+		<revenue>8.175</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1389</id>
+		<name>Andersons</name>
+		<hqcity>Maumee</hqcity>
+		<industry>Food Production</industry>
+		<marketvalue>0.629</marketvalue>
+		<assets>3.901</assets>
+		<revenue>8.17</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1390</id>
+		<name>Westlake</name>
+		<hqcity>Houston</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>4.901</marketvalue>
+		<assets>13.261</assets>
+		<revenue>8.118</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1391</id>
+		<name>Constellation Brands</name>
+		<hqcity>Victor</hqcity>
+		<industry>Beverages</industry>
+		<marketvalue>27.601</marketvalue>
+		<assets>29.232</assets>
+		<revenue>8.116</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1392</id>
+		<name>Frontier Communications</name>
+		<hqcity>Norwalk</hqcity>
+		<industry>Telecommunications</industry>
+		<marketvalue>0.04</marketvalue>
+		<assets>17.488</assets>
+		<revenue>8.107</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1393</id>
+		<name>JetBlue Airways</name>
+		<hqcity>Long Island City</hqcity>
+		<industry>Airlines</industry>
+		<marketvalue>2.526</marketvalue>
+		<assets>11.918</assets>
+		<revenue>8.094</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1394</id>
+		<name>Citizens Financial Group</name>
+		<hqcity>Providence</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>8.04</marketvalue>
+		<assets>165.733</assets>
+		<revenue>8.066</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1395</id>
+		<name>Raymond James Financial</name>
+		<hqcity>St. Petersburg</hqcity>
+		<industry>Securities</industry>
+		<marketvalue>8.803</marketvalue>
+		<assets>38.83</assets>
+		<revenue>8.023</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1396</id>
+		<name>Foot Locker</name>
+		<hqcity>New York</hqcity>
+		<industry>Specialty Retailers: Apparel</industry>
+		<marketvalue>2.297</marketvalue>
+		<assets>6.589</assets>
+		<revenue>8.005</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1397</id>
+		<name>Hershey</name>
+		<hqcity>Hershey</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>27.792</marketvalue>
+		<assets>8.14</assets>
+		<revenue>7.986</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1398</id>
+		<name>Zimmer Biomet Holdings</name>
+		<hqcity>Warsaw</hqcity>
+		<industry>Medical Products and Equipment</industry>
+		<marketvalue>20.891</marketvalue>
+		<assets>24.639</assets>
+		<revenue>7.982</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1399</id>
+		<name>Cincinnati Financial</name>
+		<hqcity>Fairfield</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>12.242</marketvalue>
+		<assets>25.408</assets>
+		<revenue>7.924</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1400</id>
+		<name>Western &amp; Southern Financial Group</name>
+		<hqcity>Cincinnati</hqcity>
+		<industry>Insurance: Life, Health (Mutual)</industry>
+		<assets>54.703</assets>
+		<revenue>7.921</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1401</id>
+		<name>W.R. Berkley</name>
+		<hqcity>Greenwich</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>9.569</marketvalue>
+		<assets>26.643</assets>
+		<revenue>7.902</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1402</id>
+		<name>Motorola Solutions</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Network and Other Communications Equipment</industry>
+		<marketvalue>22.803</marketvalue>
+		<assets>10.642</assets>
+		<revenue>7.887</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1403</id>
+		<name>Thor Industries</name>
+		<hqcity>Elkhart</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>2.328</marketvalue>
+		<assets>5.66</assets>
+		<revenue>7.865</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1404</id>
+		<name>Regeneron Pharmaceuticals</name>
+		<hqcity>Tarrytown</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>53.722</marketvalue>
+		<assets>14.805</assets>
+		<revenue>7.863</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1405</id>
+		<name>Spirit AeroSystems Holdings</name>
+		<hqcity>Wichita</hqcity>
+		<industry>Aerospace &amp; Defense</industry>
+		<marketvalue>2.507</marketvalue>
+		<assets>7.606</assets>
+		<revenue>7.863</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1406</id>
+		<name>J.M. Smucker</name>
+		<hqcity>Orrville</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>12.658</marketvalue>
+		<assets>16.711</assets>
+		<revenue>7.838</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1407</id>
+		<name>PPL</name>
+		<hqcity>Allentown</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>18.95</marketvalue>
+		<assets>45.68</assets>
+		<revenue>7.769</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1408</id>
+		<name>Insight Enterprises</name>
+		<hqcity>Tempe</hqcity>
+		<industry>Information Technology Services</industry>
+		<marketvalue>1.486</marketvalue>
+		<assets>4.178</assets>
+		<revenue>7.731</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1409</id>
+		<name>Quest Diagnostics</name>
+		<hqcity>Secaucus</hqcity>
+		<industry>Health Care: Pharmacy and Other Services</industry>
+		<marketvalue>10.716</marketvalue>
+		<assets>12.843</assets>
+		<revenue>7.726</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1410</id>
+		<name>KeyCorp</name>
+		<hqcity>Cleveland</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>10.058</marketvalue>
+		<assets>144.988</assets>
+		<revenue>7.694</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1411</id>
+		<name>Veritiv</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Wholesalers: Diversified</industry>
+		<marketvalue>0.127</marketvalue>
+		<assets>2.511</assets>
+		<revenue>7.659</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1412</id>
+		<name>DCP Midstream</name>
+		<hqcity>Denver</hqcity>
+		<industry>Pipelines</industry>
+		<marketvalue>0.848</marketvalue>
+		<assets>14.127</assets>
+		<revenue>7.625</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1413</id>
+		<name>American Tower</name>
+		<hqcity>Boston</hqcity>
+		<industry>Real Estate</industry>
+		<marketvalue>96.444</marketvalue>
+		<assets>42.802</assets>
+		<revenue>7.58</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1414</id>
+		<name>Graybar Electric</name>
+		<hqcity>St. Louis</hqcity>
+		<industry>Wholesalers: Diversified</industry>
+		<assets>2.518</assets>
+		<revenue>7.524</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1415</id>
+		<name>WEC Energy Group</name>
+		<hqcity>Milwaukee</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>27.799</marketvalue>
+		<assets>34.952</assets>
+		<revenue>7.523</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1416</id>
+		<name>NVR</name>
+		<hqcity>Reston</hqcity>
+		<industry>Homebuilders</industry>
+		<marketvalue>9.475</marketvalue>
+		<assets>3.81</assets>
+		<revenue>7.428</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1417</id>
+		<name>Ulta Beauty</name>
+		<hqcity>Bolingbrook</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>9.894</marketvalue>
+		<assets>4.864</assets>
+		<revenue>7.398</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1418</id>
+		<name>Devon Energy</name>
+		<hqcity>Oklahoma City</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>2.646</marketvalue>
+		<assets>13.717</assets>
+		<revenue>7.372</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1419</id>
+		<name>Blackstone</name>
+		<hqcity>New York</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>30.696</marketvalue>
+		<assets>32.586</assets>
+		<revenue>7.338</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1420</id>
+		<name>Dean Foods</name>
+		<hqcity>Dallas</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>0.01</marketvalue>
+		<assets>2.229</assets>
+		<revenue>7.329</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1421</id>
+		<name>Fortive</name>
+		<hqcity>Everett</hqcity>
+		<industry>Industrial Machinery</industry>
+		<marketvalue>18.567</marketvalue>
+		<assets>17.439</assets>
+		<revenue>7.326</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1422</id>
+		<name>UGI</name>
+		<hqcity>King of Prussia</hqcity>
+		<industry>Energy</industry>
+		<marketvalue>5.562</marketvalue>
+		<assets>13.347</assets>
+		<revenue>7.32</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1423</id>
+		<name>Burlington Stores</name>
+		<hqcity>Burlington</hqcity>
+		<industry>Specialty Retailers: Apparel</industry>
+		<marketvalue>10.441</marketvalue>
+		<assets>5.594</assets>
+		<revenue>7.286</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1424</id>
+		<name>Builders FirstSource</name>
+		<hqcity>Dallas</hqcity>
+		<industry>Building Materials, Glass</industry>
+		<marketvalue>1.42</marketvalue>
+		<assets>3.25</assets>
+		<revenue>7.28</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1425</id>
+		<name>Toll Brothers</name>
+		<hqcity>Horsham</hqcity>
+		<industry>Homebuilders</industry>
+		<marketvalue>2.44</marketvalue>
+		<assets>10.828</assets>
+		<revenue>7.224</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1426</id>
+		<name>Old Republic International</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>4.635</marketvalue>
+		<assets>21.076</assets>
+		<revenue>7.214</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1427</id>
+		<name>Asbury Automotive Group</name>
+		<hqcity>Duluth</hqcity>
+		<industry>Automotive Retailing, Services</industry>
+		<marketvalue>1.065</marketvalue>
+		<assets>2.911</assets>
+		<revenue>7.21</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1428</id>
+		<name>Arthur J. Gallagher</name>
+		<hqcity>Rolling Meadows</hqcity>
+		<industry>Diversified Financials</industry>
+		<marketvalue>15.455</marketvalue>
+		<assets>19.635</assets>
+		<revenue>7.195</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1429</id>
+		<name>MasTec</name>
+		<hqcity>Coral Gables</hqcity>
+		<industry>Engineering &amp; Construction</industry>
+		<marketvalue>2.507</marketvalue>
+		<assets>4.997</assets>
+		<revenue>7.183</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1430</id>
+		<name>Owens Corning</name>
+		<hqcity>Toledo</hqcity>
+		<industry>Building Materials, Glass</industry>
+		<marketvalue>4.201</marketvalue>
+		<assets>10.006</assets>
+		<revenue>7.16</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1431</id>
+		<name>Magellan Health</name>
+		<hqcity>Phoenix</hqcity>
+		<industry>Health Care: Insurance and Managed Care</industry>
+		<marketvalue>1.188</marketvalue>
+		<assets>3.092</assets>
+		<revenue>7.159</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1432</id>
+		<name>Dover</name>
+		<hqcity>Downers Grove</hqcity>
+		<industry>Industrial Machinery</industry>
+		<marketvalue>12.094</marketvalue>
+		<assets>8.67</assets>
+		<revenue>7.136</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1433</id>
+		<name>Beacon Roofing Supply</name>
+		<hqcity>Herndon</hqcity>
+		<industry>Wholesalers: Diversified</industry>
+		<marketvalue>1.138</marketvalue>
+		<assets>6.393</assets>
+		<revenue>7.105</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1434</id>
+		<name>Avery Dennison</name>
+		<hqcity>Glendale</hqcity>
+		<industry>Packaging, Containers</industry>
+		<marketvalue>8.485</marketvalue>
+		<assets>5.489</assets>
+		<revenue>7.07</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1435</id>
+		<name>Hanesbrands</name>
+		<hqcity>Winston-Salem</hqcity>
+		<industry>Apparel</industry>
+		<marketvalue>2.817</marketvalue>
+		<assets>7.354</assets>
+		<revenue>6.967</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1436</id>
+		<name>Packaging Corp. of America</name>
+		<hqcity>Lake Forest</hqcity>
+		<industry>Packaging, Containers</industry>
+		<marketvalue>8.236</marketvalue>
+		<assets>7.236</assets>
+		<revenue>6.964</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1437</id>
+		<name>M&amp;T Bank</name>
+		<hqcity>Buffalo</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>13.441</marketvalue>
+		<assets>119.873</assets>
+		<revenue>6.941</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1438</id>
+		<name>NCR</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Computers, Office Equipment</industry>
+		<marketvalue>2.287</marketvalue>
+		<assets>8.987</assets>
+		<revenue>6.915</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1439</id>
+		<name>Northern Trust</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>15.791</marketvalue>
+		<assets>136.828</assets>
+		<revenue>6.895</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1440</id>
+		<name>Cintas</name>
+		<hqcity>Cincinnati</hqcity>
+		<industry>Diversified Outsourcing Services</industry>
+		<marketvalue>18.024</marketvalue>
+		<assets>7.437</assets>
+		<revenue>6.892</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1441</id>
+		<name>Polaris</name>
+		<hqcity>Medina</hqcity>
+		<industry>Transportation Equipment</industry>
+		<marketvalue>2.959</marketvalue>
+		<assets>4.431</assets>
+		<revenue>6.863</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1442</id>
+		<name>CMS Energy</name>
+		<hqcity>Jackson</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>16.697</marketvalue>
+		<assets>26.837</assets>
+		<revenue>6.845</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1443</id>
+		<name>Seaboard</name>
+		<hqcity>Merriam</hqcity>
+		<industry>Food Production</industry>
+		<marketvalue>3.274</marketvalue>
+		<assets>6.285</assets>
+		<revenue>6.84</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1444</id>
+		<name>Intuit</name>
+		<hqcity>Mountain View</hqcity>
+		<industry>Computer Software</industry>
+		<marketvalue>59.913</marketvalue>
+		<assets>6.283</assets>
+		<revenue>6.784</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1445</id>
+		<name>Regions Financial</name>
+		<hqcity>Birmingham</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>8.588</marketvalue>
+		<assets>126.24</assets>
+		<revenue>6.755</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1446</id>
+		<name>FM Global</name>
+		<hqcity>Johnston</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<assets>25.054</assets>
+		<revenue>6.743</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1447</id>
+		<name>Advanced Micro Devices</name>
+		<hqcity>Santa Clara</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>53.25</marketvalue>
+		<assets>6.028</assets>
+		<revenue>6.731</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1448</id>
+		<name>Ovintiv</name>
+		<hqcity>Denver</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>0.702</marketvalue>
+		<assets>21.487</assets>
+		<revenue>6.726</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1449</id>
+		<name>Booz Allen Hamilton Holding</name>
+		<hqcity>McLean</hqcity>
+		<industry>Information Technology Services</industry>
+		<marketvalue>9.624</marketvalue>
+		<assets>3.832</assets>
+		<revenue>6.704</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1450</id>
+		<name>S&amp;P Global</name>
+		<hqcity>New York</hqcity>
+		<industry>Financial Data Services</industry>
+		<marketvalue>59.042</marketvalue>
+		<assets>11.348</assets>
+		<revenue>6.699</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1451</id>
+		<name>Rockwell Automation</name>
+		<hqcity>Milwaukee</hqcity>
+		<industry>Electronics, Electrical Equipment</industry>
+		<marketvalue>17.533</marketvalue>
+		<assets>6.113</assets>
+		<revenue>6.695</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1452</id>
+		<name>O-I Glass</name>
+		<hqcity>Perrysburg</hqcity>
+		<industry>Packaging, Containers</industry>
+		<marketvalue>1.109</marketvalue>
+		<assets>9.61</assets>
+		<revenue>6.691</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1453</id>
+		<name>Wynn Resorts</name>
+		<hqcity>Las Vegas</hqcity>
+		<industry>Hotels, Casinos, Resorts</industry>
+		<marketvalue>6.471</marketvalue>
+		<assets>13.871</assets>
+		<revenue>6.611</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1454</id>
+		<name>Securian Financial Group</name>
+		<hqcity>St. Paul</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<assets>63.138</assets>
+		<revenue>6.601</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1455</id>
+		<name>Bread Financial Holdings</name>
+		<hqcity>Columbus</hqcity>
+		<industry>Financial Data Services</industry>
+		<marketvalue>1.603</marketvalue>
+		<assets>26.495</assets>
+		<revenue>6.581</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1456</id>
+		<name>Brighthouse Financial</name>
+		<hqcity>Charlotte</hqcity>
+		<industry>Insurance: Life, Health (Stock)</industry>
+		<marketvalue>2.54</marketvalue>
+		<assets>227.259</assets>
+		<revenue>6.554</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1457</id>
+		<name>Weyerhaeuser</name>
+		<hqcity>Seattle</hqcity>
+		<industry>Forest and Paper Products</industry>
+		<marketvalue>12.637</marketvalue>
+		<assets>16.406</assets>
+		<revenue>6.554</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1458</id>
+		<name>Intercontinental Exchange</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Securities</industry>
+		<marketvalue>44.343</marketvalue>
+		<assets>94.493</assets>
+		<revenue>6.547</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1459</id>
+		<name>American Axle &amp; Manufacturing</name>
+		<hqcity>Detroit</hqcity>
+		<industry>Motor Vehicles &amp; Parts</industry>
+		<marketvalue>0.408</marketvalue>
+		<assets>6.645</assets>
+		<revenue>6.531</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1460</id>
+		<name>Hess</name>
+		<hqcity>New York</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>10.164</marketvalue>
+		<assets>21.782</assets>
+		<revenue>6.51</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1461</id>
+		<name>ABM Industries</name>
+		<hqcity>New York</hqcity>
+		<industry>Diversified Outsourcing Services</industry>
+		<marketvalue>1.623</marketvalue>
+		<assets>3.693</assets>
+		<revenue>6.499</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1462</id>
+		<name>Activision Blizzard</name>
+		<hqcity>Santa Monica</hqcity>
+		<industry>Entertainment</industry>
+		<marketvalue>45.753</marketvalue>
+		<assets>19.845</assets>
+		<revenue>6.489</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1463</id>
+		<name>GameStop</name>
+		<hqcity>Grapevine</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>0.226</marketvalue>
+		<assets>2.82</assets>
+		<revenue>6.466</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1464</id>
+		<name>APA</name>
+		<hqcity>Houston</hqcity>
+		<industry>Mining, Crude-Oil Production</industry>
+		<marketvalue>1.577</marketvalue>
+		<assets>18.107</assets>
+		<revenue>6.411</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1465</id>
+		<name>Science Applications International</name>
+		<hqcity>Reston</hqcity>
+		<industry>Information Technology Services</industry>
+		<marketvalue>4.317</marketvalue>
+		<assets>4.711</assets>
+		<revenue>6.379</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1466</id>
+		<name>AK Steel Holding</name>
+		<hqcity>West Chester</hqcity>
+		<industry>Metals</industry>
+		<assets>4.591</assets>
+		<revenue>6.359</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1467</id>
+		<name>Dillard's</name>
+		<hqcity>Little Rock</hqcity>
+		<industry>General Merchandisers</industry>
+		<marketvalue>0.864</marketvalue>
+		<assets>3.43</assets>
+		<revenue>6.343</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1468</id>
+		<name>Ralph Lauren</name>
+		<hqcity>New York</hqcity>
+		<industry>Apparel</industry>
+		<marketvalue>4.928</marketvalue>
+		<assets>5.943</assets>
+		<revenue>6.313</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1469</id>
+		<name>Celanese</name>
+		<hqcity>Irving</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>8.775</marketvalue>
+		<assets>9.476</assets>
+		<revenue>6.297</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1470</id>
+		<name>R.R. Donnelley &amp; Sons</name>
+		<hqcity>Chicago</hqcity>
+		<industry>Publishing, Printing</industry>
+		<marketvalue>0.068</marketvalue>
+		<assets>3.33</assets>
+		<revenue>6.276</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1471</id>
+		<name>Zoetis</name>
+		<hqcity>Parsippany</hqcity>
+		<industry>Pharmaceuticals</industry>
+		<marketvalue>55.895</marketvalue>
+		<assets>11.545</assets>
+		<revenue>6.26</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1472</id>
+		<name>Mahwah Bergen Retail Group</name>
+		<hqcity>Mahwah</hqcity>
+		<industry>Specialty Retailers: Apparel</industry>
+		<marketvalue>0.014</marketvalue>
+		<assets>2.7</assets>
+		<revenue>6.243</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1473</id>
+		<name>Clorox</name>
+		<hqcity>Oakland</hqcity>
+		<industry>Household and Personal Products</industry>
+		<marketvalue>21.674</marketvalue>
+		<assets>5.116</assets>
+		<revenue>6.214</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1474</id>
+		<name>Ingredion</name>
+		<hqcity>Westchester</hqcity>
+		<industry>Food Production</industry>
+		<marketvalue>5.05</marketvalue>
+		<assets>6.04</assets>
+		<revenue>6.209</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1475</id>
+		<name>First American Financial</name>
+		<hqcity>Santa Ana</hqcity>
+		<industry>Insurance: Property and Casualty (Stock)</industry>
+		<marketvalue>4.791</marketvalue>
+		<assets>11.519</assets>
+		<revenue>6.202</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1476</id>
+		<name>Graphic Packaging Holding</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Packaging, Containers</industry>
+		<marketvalue>3.542</marketvalue>
+		<assets>7.29</assets>
+		<revenue>6.16</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1477</id>
+		<name>HD Supply Holdings</name>
+		<hqcity>Atlanta</hqcity>
+		<industry>Wholesalers: Diversified</industry>
+		<marketvalue>4.605</marketvalue>
+		<assets>4.715</assets>
+		<revenue>6.146</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1478</id>
+		<name>NetApp</name>
+		<hqcity>Sunnyvale</hqcity>
+		<industry>Computers, Office Equipment</industry>
+		<marketvalue>9.221</marketvalue>
+		<assets>8.741</assets>
+		<revenue>6.146</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1479</id>
+		<name>TravelCenters of America</name>
+		<hqcity>Westlake</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>0.081</marketvalue>
+		<assets>3.231</assets>
+		<revenue>6.117</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1480</id>
+		<name>Olin</name>
+		<hqcity>Clayton</hqcity>
+		<industry>Chemicals</industry>
+		<marketvalue>1.842</marketvalue>
+		<assets>9.188</assets>
+		<revenue>6.11</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1481</id>
+		<name>Robert Half International</name>
+		<hqcity>Menlo Park</hqcity>
+		<industry>Temporary Help</industry>
+		<marketvalue>4.346</marketvalue>
+		<assets>2.311</assets>
+		<revenue>6.074</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1482</id>
+		<name>EnLink Midstream</name>
+		<hqcity>Dallas</hqcity>
+		<industry>Pipelines</industry>
+		<marketvalue>0.537</marketvalue>
+		<assets>9.336</assets>
+		<revenue>6.053</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1483</id>
+		<name>Avantor</name>
+		<hqcity>Radnor</hqcity>
+		<industry>Scientific, Photographic and Control Equipment</industry>
+		<marketvalue>7.156</marketvalue>
+		<assets>9.773</assets>
+		<revenue>6.04</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1484</id>
+		<name>Tapestry</name>
+		<hqcity>New York</hqcity>
+		<industry>Apparel</industry>
+		<marketvalue>3.575</marketvalue>
+		<assets>6.877</assets>
+		<revenue>6.027</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1485</id>
+		<name>TD Ameritrade Holding</name>
+		<hqcity>Omaha</hqcity>
+		<industry>Securities</industry>
+		<marketvalue>18.739</marketvalue>
+		<assets>43.786</assets>
+		<revenue>6.016</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1486</id>
+		<name>Analog Devices</name>
+		<hqcity>Norwood</hqcity>
+		<industry>Semiconductors and Other Electronic Components</industry>
+		<marketvalue>33.011</marketvalue>
+		<assets>21.393</assets>
+		<revenue>5.991</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1487</id>
+		<name>Ameren</name>
+		<hqcity>St. Louis</hqcity>
+		<industry>Utilities: Gas and Electric</industry>
+		<marketvalue>17.97</marketvalue>
+		<assets>28.933</assets>
+		<revenue>5.91</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1488</id>
+		<name>Williams-Sonoma</name>
+		<hqcity>San Francisco</hqcity>
+		<industry>Specialty Retailers: Other</industry>
+		<marketvalue>3.282</marketvalue>
+		<assets>4.054</assets>
+		<revenue>5.898</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1489</id>
+		<name>Anywhere Real Estate</name>
+		<hqcity>Madison</hqcity>
+		<industry>Real Estate</industry>
+		<marketvalue>0.347</marketvalue>
+		<assets>7.543</assets>
+		<revenue>5.87</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1490</id>
+		<name>Commercial Metals</name>
+		<hqcity>Irving</hqcity>
+		<industry>Metals</industry>
+		<marketvalue>1.88</marketvalue>
+		<assets>3.759</assets>
+		<revenue>5.829</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1491</id>
+		<name>Rush Enterprises</name>
+		<hqcity>New Braunfels</hqcity>
+		<industry>Automotive Retailing, Services</industry>
+		<marketvalue>1.146</marketvalue>
+		<assets>3.407</assets>
+		<revenue>5.81</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1492</id>
+		<name>Franklin Resources</name>
+		<hqcity>San Mateo</hqcity>
+		<industry>Securities</industry>
+		<marketvalue>8.293</marketvalue>
+		<assets>14.532</assets>
+		<revenue>5.775</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1493</id>
+		<name>Fortune Brands Innovations</name>
+		<hqcity>Deerfield</hqcity>
+		<industry>Home Equipment, Furnishings</industry>
+		<marketvalue>6.042</marketvalue>
+		<assets>6.291</assets>
+		<revenue>5.765</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1494</id>
+		<name>Levi Strauss</name>
+		<hqcity>San Francisco</hqcity>
+		<industry>Apparel</industry>
+		<marketvalue>4.961</marketvalue>
+		<assets>4.232</assets>
+		<revenue>5.763</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1495</id>
+		<name>Crown Castle</name>
+		<hqcity>Houston</hqcity>
+		<industry>Real Estate</industry>
+		<marketvalue>60.179</marketvalue>
+		<assets>38.457</assets>
+		<revenue>5.763</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1496</id>
+		<name>Simon Property Group</name>
+		<hqcity>Indianapolis</hqcity>
+		<industry>Real Estate</industry>
+		<marketvalue>16.835</marketvalue>
+		<assets>31.232</assets>
+		<revenue>5.755</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1497</id>
+		<name>Cerner</name>
+		<hqcity>North Kansas City</hqcity>
+		<industry>Health Care: Pharmacy and Other Services</industry>
+		<marketvalue>19.164</marketvalue>
+		<assets>6.895</assets>
+		<revenue>5.693</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1498</id>
+		<name>Post Holdings</name>
+		<hqcity>St. Louis</hqcity>
+		<industry>Food Consumer Products</industry>
+		<marketvalue>5.732</marketvalue>
+		<assets>11.952</assets>
+		<revenue>5.681</revenue>
+	</company>
+	<company>
+		<id>fortune_500_id_1499</id>
+		<name>Huntington Bancshares</name>
+		<hqcity>Columbus</hqcity>
+		<industry>Commercial Banks</industry>
+		<marketvalue>8.399</marketvalue>
+		<assets>109.002</assets>
+		<revenue>5.655</revenue>
+	</company>
+</companies>

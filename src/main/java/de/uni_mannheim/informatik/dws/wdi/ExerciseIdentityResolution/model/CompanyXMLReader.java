@@ -26,6 +26,7 @@ import org.apache.commons.lang3.StringUtils;
 
 import org.w3c.dom.Node;
 
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.eg.Movie;
 import de.uni_mannheim.informatik.dws.winter.model.DataSet;
 import de.uni_mannheim.informatik.dws.winter.model.FusibleFactory;
 import de.uni_mannheim.informatik.dws.winter.model.RecordGroup;
@@ -52,8 +53,6 @@ FusibleFactory<Company, Attribute> {
 	protected void initialiseDataset(DataSet<Company, Attribute> dataset) {
 		super.initialiseDataset(dataset);
 
-		dataset.addAttribute(Company.NAME);
-
 	}
 
 	@Override
@@ -65,8 +64,40 @@ FusibleFactory<Company, Attribute> {
 
 		// fill the attributes
 		company.setName(getValueFromChildElement(node, "name"));
-		// company.setDirector(getValueFromChildElement(node, "director"));
+		company.setWebsite(getValueFromChildElement(node, "website"));
+		company.setDate(getValueFromChildElement(node, "foundingdate"));
+		company.setHqcity(getValueFromChildElement(node, "hqcity"));
+		company.setIndustry(getValueFromChildElement(node, "industry"));
 
+		try {
+			String marketValue = getValueFromChildElement(node, "marketvalue");
+			if (marketValue != null && !marketValue.isEmpty()) {
+				company.setMarketvalue(Double.parseDouble(marketValue));
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		try {
+			String assets = getValueFromChildElement(node, "assets");
+			if (assets != null && !assets.isEmpty()) {
+				company.setAssets(Double.parseDouble(assets));
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		try {
+			String revenue = getValueFromChildElement(node, "revenue");
+			if (revenue != null && !revenue.isEmpty()) {
+				company.setRevenue(Double.parseDouble(revenue));
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+		company.setRevenuesource(getValueFromChildElement(node, "revenuesource"));
+		
 		// convert the date string into a DateTime object
 		// try {
 		// String date = getValueFromChildElement(node, "date");

@@ -14,9 +14,7 @@ public class NameEvaluationRule extends EvaluationRule<Company, Attribute> {
 
 	@Override
 	public boolean isEqual(Company record1, Company record2, Attribute schemaElement) {
-		// the title is correct if all tokens are there, but the order does not
-		// matter
-		return sim.calculate(record1.getName(), record2.getName()) == 1.0;
+		return sim.calculate(record1.getName(), record2.getName()) >= 0.95;
 	}
 
 	/* (non-Javadoc)

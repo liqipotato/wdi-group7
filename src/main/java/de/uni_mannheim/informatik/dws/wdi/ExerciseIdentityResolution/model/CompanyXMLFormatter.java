@@ -15,6 +15,7 @@ package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.eg.Actor;
 import de.uni_mannheim.informatik.dws.winter.model.io.XMLFormatter;
 
 /**
@@ -32,11 +33,29 @@ public class CompanyXMLFormatter extends XMLFormatter<Company> {
 
 	@Override
 	public Element createElementFromRecord(Company record, Document doc) {
-		Element company = doc.createElement("company");
+		Element movie = doc.createElement("movie");
 
-		company.appendChild(createTextElement("name", record.getName(), doc));
+		movie.appendChild(createTextElement("id", record.getIdentifier(), doc));
 
-		return company;
+		movie.appendChild(createTextElement("title",
+				record.getName(),
+				doc));
+		movie.appendChild(createTextElement("director",
+				record.getDirector(),
+				doc));
+		movie.appendChild(createTextElement("date", record
+				.getDate().toString(), doc));
+
+		movie.appendChild(createActorsElement(record, doc));
+
+		return movie;
+	}
+
+	protected Element createTextElementWithProvenance(String name,
+			String value, String provenance, Document doc) {
+		Element elem = createTextElement(name, value, doc);
+		elem.setAttribute("provenance", provenance);
+		return elem;
 	}
 
 }

@@ -111,7 +111,7 @@ public class Company extends AbstractRecord<Attribute> implements Serializable {
 		this.industry = industry;
 	}
 
-	public double getMarketvalue() {
+	public Double getMarketvalue() {
 		return marketvalue;
 	}
 
@@ -119,7 +119,7 @@ public class Company extends AbstractRecord<Attribute> implements Serializable {
 		this.marketvalue = marketvalue;
 	}
 
-	public double getAssets() {
+	public Double getAssets() {
 		return assets;
 	}
 
@@ -127,7 +127,7 @@ public class Company extends AbstractRecord<Attribute> implements Serializable {
 		this.assets = assets;
 	}
 
-	public double getRevenue() {
+	public Double getRevenue() {
 		return revenue;
 	}
 
@@ -192,20 +192,35 @@ public class Company extends AbstractRecord<Attribute> implements Serializable {
 	}
 
 	public static final Attribute NAME = new Attribute("Name");
-	// public static final Attribute DIRECTOR = new Attribute("Director");
-	// public static final Attribute DATE = new Attribute("Date");
-	// public static final Attribute ACTORS = new Attribute("Actors");
+	public static final Attribute WEBSITE = new Attribute("Website");
+	public static final Attribute FOUNDING_DATE = new Attribute("Founding date");
+	public static final Attribute HQ_CITY = new Attribute("HQ City");
+	public static final Attribute INDUSTRY = new Attribute("Industry");
+	public static final Attribute MARKET_VALUE = new Attribute("Market value");
+	public static final Attribute ASSETS = new Attribute("Assets");
+	public static final Attribute REVENUE = new Attribute("Revenue");
+	public static final Attribute REVENUE_SOURCE = new Attribute("Revenue source");
 	
 	@Override
 	public boolean hasValue(Attribute attribute) {
 		if(attribute==NAME)
-			return getName() != null && !getName().isEmpty();
-		// else if(attribute==DIRECTOR)
-		// 	return getDirector() != null && !getDirector().isEmpty();
-		// else if(attribute==DATE)
-		// 	return getDate() != null;
-		// else if(attribute==ACTORS)
-		// 	return getActors() != null && getActors().size() > 0;
+		return getName() != null && !getName().isEmpty();
+		else if(attribute==WEBSITE)
+			return getWebsite() != null && !getWebsite().isEmpty();
+		else if(attribute==FOUNDING_DATE)
+			return getFoundingdate() != null && !getFoundingdate().isEmpty();
+		else if(attribute==HQ_CITY)
+			return getHqcity() != null && !getHqcity().isEmpty();
+		else if(attribute==INDUSTRY)
+			return getIndustry() != null && !getIndustry().isEmpty();
+		else if(attribute==MARKET_VALUE)
+			return getMarketvalue() != null;
+		else if(attribute==ASSETS)
+			return getAssets() != null;
+		else if(attribute==REVENUE)
+			return getRevenue() != null;
+		else if(attribute==REVENUE_SOURCE)
+			return getRevenuesource() != null && !getRevenuesource().isEmpty();
 		else
 			return false;
 	}
