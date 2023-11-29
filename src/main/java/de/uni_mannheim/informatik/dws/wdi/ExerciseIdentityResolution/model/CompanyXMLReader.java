@@ -26,7 +26,6 @@ import org.apache.commons.lang3.StringUtils;
 
 import org.w3c.dom.Node;
 
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.eg.Movie;
 import de.uni_mannheim.informatik.dws.winter.model.DataSet;
 import de.uni_mannheim.informatik.dws.winter.model.FusibleFactory;
 import de.uni_mannheim.informatik.dws.winter.model.RecordGroup;

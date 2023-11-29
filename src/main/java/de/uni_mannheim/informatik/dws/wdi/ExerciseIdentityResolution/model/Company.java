@@ -49,9 +49,9 @@ public class Company extends AbstractRecord<Attribute> implements Serializable {
 	private String foundingdate;
 	private String hqcity;
 	private String industry;
-	private double marketvalue;
-	private double assets;
-	private double revenue;
+	private Double marketvalue;
+	private Double assets;
+	private Double revenue;
 	private String revenuesource;
 
 	public Company(String identifier, String provenance) {
