@@ -33,22 +33,39 @@ public class CompanyXMLFormatter extends XMLFormatter<Company> {
 
 	@Override
 	public Element createElementFromRecord(Company record, Document doc) {
-		Element movie = doc.createElement("movie");
+		Element company = doc.createElement("company");
 
-		movie.appendChild(createTextElement("id", record.getIdentifier(), doc));
+		company.appendChild(createTextElement("id", record.getIdentifier(), doc));
 
-		movie.appendChild(createTextElement("title",
+		company.appendChild(createTextElement("name",
 				record.getName(),
 				doc));
-		movie.appendChild(createTextElement("director",
-				record.getDirector(),
+		company.appendChild(createTextElement("website",
+				record.getWebsite(),
 				doc));
-		movie.appendChild(createTextElement("date", record
-				.getDate().toString(), doc));
+		company.appendChild(createTextElement("founding_date", record
+				.getFoundingdate(),
+				doc));
+		company.appendChild(createTextElement("hq_city", record
+				.getHqcity(),
+				doc));
+		company.appendChild(createTextElement("industry", record
+				.getIndustry(),
+				doc));
+		company.appendChild(createTextElement("market_value", record
+				.getMarketvalue().toString(),
+				doc));
+		company.appendChild(createTextElement("assets", record
+				.getAssets().toString(),
+				doc));
+		company.appendChild(createTextElement("revenue", record
+				.getRevenue().toString(),
+				doc));
+		company.appendChild(createTextElement("revenue_source", record
+				.getRevenuesource(),
+				doc));
 
-		movie.appendChild(createActorsElement(record, doc));
-
-		return movie;
+		return company;
 	}
 
 	protected Element createTextElementWithProvenance(String name,

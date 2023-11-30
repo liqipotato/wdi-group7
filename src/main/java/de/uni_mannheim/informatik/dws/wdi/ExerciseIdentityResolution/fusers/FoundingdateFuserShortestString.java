@@ -11,9 +11,9 @@ import de.uni_mannheim.informatik.dws.winter.processing.Processable;
 
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Company;
 
-public class WebsiteFuser extends AttributeValueFuser<String, Company, Attribute> {
+public class FoundingdateFuserShortestString extends AttributeValueFuser<String, Company, Attribute> {
 
-	public WebsiteFuser() {
+	public FoundingdateFuserShortestString() {
 		super(new ShortestString<Company, Attribute>());
 	}
 
@@ -24,20 +24,20 @@ public class WebsiteFuser extends AttributeValueFuser<String, Company, Attribute
 		FusedValue<String, Company, Attribute> fused = getFusedValue(group, schemaCorrespondences, schemaElement);
 
 		// set the value for the fused record
-		fusedRecord.setWebsite(fused.getValue());
+		fusedRecord.setDate(fused.getValue());
 
 		// add provenance info
-		fusedRecord.setAttributeProvenance(Company.WEBSITE, fused.getOriginalIds());
+		fusedRecord.setAttributeProvenance(Company.FOUNDING_DATE, fused.getOriginalIds());
 	}
 
 	@Override
 	public boolean hasValue(Company record, Correspondence<Attribute, Matchable> correspondence) {
-		return record.hasValue(Company.WEBSITE);
+		return record.hasValue(Company.FOUNDING_DATE);
 	}
 
 	@Override
 	public String getValue(Company record, Correspondence<Attribute, Matchable> correspondence) {
-		return record.getWebsite();
+		return record.getFoundingdate();
 	}
 
 }

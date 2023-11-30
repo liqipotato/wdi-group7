@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Data and Web Science Group, University of Mannheim, Germany (http://dws.informatik.uni-mannheim.de/)
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and limitations under the License.
+  -->
+
+<companies>
+	<company>
+		<id>us_companies_id_1221</id>
+		<name>IBM</name>
+		<website>www.ibm.com</website>
+	    <foundingdate>1912</foundingdate>
+	    <hqcity>Armonk</hqcity>
+	    <industry>Data/Technology</industry>
+	    <marketvalue>98.551</marketvalue>
+		<assets>152.186</assets>
+		<revenue>77.147</revenue>
+	    <revenuesource>IT and business hardware, software, and services</revenuesource>
+	</company>
+    <company>
+        <id>us_companies_id_1078</id>
+		<name>Cerner</name>
+		<website>http://www.cerner.com</website>
+		<foundingdate>1979</foundingdate>
+		<hqcity>North Kansas City</hqcity>
+		<industry>Healthcare</industry>
+        <marketvalue>19.164</marketvalue>
+		<assets>6.895</assets>
+		<revenue>5.693</revenue>
+		<revenuesource>Not reported by company</revenuesource>
+    <company/>
+    <company>
+        <id>us_companies_id_1044</id>
+		<name>Berkshire Hathaway</name>
+		<website>http://www.berkshirehathaway.com</website>
+		<foundingdate>1998</foundingdate>
+		<hqcity>Omaha</hqcity>
+		<industry>Finance &amp; Investment</industry>
+        <marketvalue>442.897</marketvalue>
+		<assets>817.729</assets>
+		<revenue>254.616</revenue>
+		<revenuesource>Not reported by company</revenuesource>
+    <company/>
+    <company>
+        <id>us_companies_id_1298</id>
+		<name>MetLife</name>
+		<website>https://www.metlife.com</website>
+		<foundingdate>1868</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Insurance</industry>
+        <marketvalue>27.997</marketvalue>
+		<assets>740.463</assets>
+		<revenue>69.62</revenue>
+		<revenuesource>Not reported by company</revenuesource>
+    <company/>
+    <company>
+        <id>us_companies_id_1086</id>
+		<name>Citigroup</name>
+		<website>http://www.citigroup.com/citi/</website>
+		<foundingdate>1812</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+        <marketvalue>88.377</marketvalue>
+		<assets>1951.158</assets>
+		<revenue>103.449</revenue>
+		<revenuesource>Not reported by company</revenuesource>
+    <company/>
+    <company>
+		<id>us_companies_id_1082</id>
+		<name>Charles Schwab Corp.</name>
+		<website>https://www.schwab.com</website>
+		<foundingdate>1973</foundingdate>
+		<hqcity>San Francisco</hqcity>
+		<industry>Finance &amp; Investment</industry>
+        <marketvalue>43.278</marketvalue>
+		<assets>294.005</assets>
+		<revenue>11.785</revenue>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+    <company>
+		<id>us_companies_id_1249</id>
+		<name>J.P. Morgan Chase</name>
+		<website>http://www.jpmorganchase.com/corporate/Home/home.htm</website>
+		<foundingdate>1799</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+        <marketvalue>276.75</marketvalue>
+		<assets>2687.379</assets>
+		<revenue>142.422</revenue>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+    <company>
+		<id>us_companies_id_1304</id>
+		<name>Morgan Stanley</name>
+		<website>http://www.morganstanley.com</website>
+		<foundingdate>1935</foundingdate>
+		<hqcity>New York</hqcity>
+		<industry>Finance &amp; Investment</industry>
+        <marketvalue>52.102</marketvalue>
+		<assets>895.429</assets>
+		<revenue>53.823</revenue>
+		<revenuesource>Not reported by company</revenuesource>
+	</company>
+<companies/>

@@ -8,8 +8,27 @@ import java.time.temporal.ChronoField;
 import java.util.Locale;
 
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.evaluation.NameEvaluationRule;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.evaluation.WebsiteEvaluationRule;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.evaluation.FoundingdateEvaluationRule;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.evaluation.HqcityEvaluationRule;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.evaluation.IndustryEvaluationRule;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.evaluation.MarketvalueEvaluationRule;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.evaluation.AssetsEvaluationRule;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.evaluation.RevenueEvaluationRule;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.evaluation.RevenuesourceEvaluationRule;
+
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.NameFuserLongestString;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.NameFuserShortestString;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.WebsiteFuserShortestString;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.FoundingdateFuserShortestString;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.HqcityFuserFavourSources;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.IndustryFuserLongestString;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.IndustryFuserShortestString;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.MarketvalueFuserFavourSources;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.AssetsFuserFavourSources;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.RevenueFuserFavourSources;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.fusers.RevenuesourceFuserLongestString;
+
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.FusibleCompanyFactory;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Company;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.CompanyXMLFormatter;
@@ -19,6 +38,7 @@ import de.uni_mannheim.informatik.dws.winter.datafusion.CorrespondenceSet;
 import de.uni_mannheim.informatik.dws.winter.datafusion.DataFusionEngine;
 import de.uni_mannheim.informatik.dws.winter.datafusion.DataFusionEvaluator;
 import de.uni_mannheim.informatik.dws.winter.datafusion.DataFusionStrategy;
+
 import de.uni_mannheim.informatik.dws.winter.model.DataSet;
 import de.uni_mannheim.informatik.dws.winter.model.FusibleDataSet;
 import de.uni_mannheim.informatik.dws.winter.model.FusibleHashedDataSet;
@@ -91,7 +111,7 @@ public class DataFusion_Main
 		// load the gold standard
 		logger.info("*\tEvaluating results\t*");
 		DataSet<Company, Attribute> gs = new FusibleHashedDataSet<>();
-		new CompanyXMLReader().loadFromXML(new File("data/goldstandard/gold.xml"), "/movies/movie", gs);
+		new CompanyXMLReader().loadFromXML(new File("data/goldstandard/actualgold.xml"), "/movies/movie", gs);
 
 		for(Company c : gs.get()) {
 			logger.info(String.format("gs: %s", c.getIdentifier()));
@@ -108,6 +128,14 @@ public class DataFusion_Main
 		// strategy.addAttributeFuser(Movie.DATE, new DateFuserFavourSource(),new DateEvaluationRule());
 		// strategy.addAttributeFuser(Movie.ACTORS,new ActorsFuserUnion(),new ActorsEvaluationRule());
 		strategy.addAttributeFuser(Company.NAME, new NameFuserLongestString(), new NameEvaluationRule());
+		strategy.addAttributeFuser(Company.WEBSITE, new WebsiteFuserShortestString(), new WebsiteEvaluationRule());
+		strategy.addAttributeFuser(Company.FOUNDING_DATE, new FoundingdateFuserShortestString(), new FoundingdateEvaluationRule());
+		strategy.addAttributeFuser(Company.HQ_CITY, new HqcityFuserFavourSources(), new HqcityEvaluationRule());
+		strategy.addAttributeFuser(Company.INDUSTRY, new IndustryFuserLongestString(), new IndustryEvaluationRule());
+		strategy.addAttributeFuser(Company.MARKET_VALUE, new MarketvalueFuserFavourSources(), new MarketvalueEvaluationRule());
+		strategy.addAttributeFuser(Company.ASSETS, new AssetsFuserFavourSources(), new AssetsEvaluationRule());
+		strategy.addAttributeFuser(Company.REVENUE, new RevenueFuserFavourSources(), new RevenueEvaluationRule());
+		strategy.addAttributeFuser(Company.REVENUE_SOURCE, new RevenueFuserFavourSources(), new RevenuesourceEvaluationRule());
 
 		// create the fusion engine
 		DataFusionEngine<Company, Attribute> engine = new DataFusionEngine<>(strategy);
