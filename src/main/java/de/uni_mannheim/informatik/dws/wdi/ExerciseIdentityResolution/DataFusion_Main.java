@@ -74,7 +74,7 @@ public class DataFusion_Main
 		ds1.printDataSetDensityReport();
 		
         FusibleDataSet<Company, Attribute> ds2 = new FusibleHashedDataSet<>();
-		new CompanyXMLReader().loadFromXML(new File("data/input/fortune_500_translated.xml"), "/companies/company", ds2);
+		new CompanyXMLReader().loadFromXML(new File("data/input/fortune_500_updated_translated.xml"), "/companies/company", ds2);
 		ds2.printDataSetDensityReport();
 
 		FusibleDataSet<Company, Attribute> ds3 = new FusibleHashedDataSet<>();
