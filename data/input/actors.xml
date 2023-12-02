@@ -614,14 +614,9 @@
 		<date>1975-01-01</date>
 	</movie>
 	<movie>
-		<id>actors_126</id>
-		<title>One Flew Over The Cuckoo's Nes</title>
+		<id>actors_49</id>
+		<title>One Flew Over The Cockoo�s Nes</title>
 		<actors>
-			<actor>
-				<name>Jack Nicholson</name>
-				<birthday>1937-01-01</birthday>
-				<birthplace>New York</birthplace>
-			</actor>
 			<actor>
 				<name>Louise Fletcher</name>
 				<birthday>1934-01-01</birthday>
@@ -910,11 +905,6 @@
 				<name>Helen Hunt</name>
 				<birthday>1963-01-01</birthday>
 				<birthplace>California</birthplace>
-			</actor>
-			<actor>
-				<name>Jack Nicholson</name>
-				<birthday>1937-01-01</birthday>
-				<birthplace>New York</birthplace>
 			</actor>
 		</actors>
 		<date>1998-01-01</date>
@@ -1573,6 +1563,18 @@
 		<date>1975-01-01</date>
 	</movie>
 	<movie>
+		<id>actors_126</id>
+		<title>One Flew Over The Cuckoo's Nes</title>
+		<actors>
+			<actor>
+				<name>Jack Nicholson</name>
+				<birthday>1937-01-01</birthday>
+				<birthplace>New York</birthplace>
+			</actor>
+		</actors>
+		<date>1976-01-01</date>
+	</movie>
+	<movie>
 		<id>actors_127</id>
 		<title>The Goodbye Girl</title>
 		<actors>
@@ -1775,6 +1777,18 @@
 			</actor>
 		</actors>
 		<date>1997-01-01</date>
+	</movie>
+	<movie>
+		<id>actors_144</id>
+		<title>As Good as It Gets</title>
+		<actors>
+			<actor>
+				<name>Jack Nicholson</name>
+				<birthday>1937-01-01</birthday>
+				<birthplace>New York</birthplace>
+			</actor>
+		</actors>
+		<date>1998-01-01</date>
 	</movie>
 	<movie>
 		<id>actors_145</id>

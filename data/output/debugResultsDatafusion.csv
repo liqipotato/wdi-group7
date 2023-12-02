@@ -1,0 +1,405 @@
+"AttributeName","Consistency","ValueIDS","RecordIDS","Values","FusedValue","IsCorrect","CorrectValue"
+"Assets","0.3333333333333333","Assets-{fortune_500_id_1060+top_2000_id_1425+us_companies_id_1304}","fortune_500_id_1060+top_2000_id_1425+us_companies_id_1304","{0.0|0.0|0.0}","0.0","true","0.0"
+"Name","1.0","Name-{top_2000_id_2066+us_companies_id_1456}","top_2000_id_2066+us_companies_id_1456","{T Rowe Price|T. Rowe Price}","T Rowe Price",,
+"Website","1.0","Website-{us_companies_id_1419}","us_companies_id_1419","{http://simpleenergy.com}","http://simpleenergy.com",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_2512+us_companies_id_1247}","top_2000_id_2512+us_companies_id_1247","{28.1|0.0}","0.0",,
+"Revenue","0.3333333333333333","Revenue-{fortune_500_id_1005+top_2000_id_1009+us_companies_id_1044}","fortune_500_id_1005+top_2000_id_1009+us_companies_id_1044","{0.0|0.0|0.0}","0.0","true","0.0"
+"Revenue","1.0","Revenue-{top_2000_id_1777+us_companies_id_1281+us_companies_id_1347}","top_2000_id_1777+us_companies_id_1281+us_companies_id_1347","{0.0|0.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1489}","us_companies_id_1489","{not reported by company}","not reported by company",,
+"Revenue","1.0","Revenue-{top_2000_id_1300+us_companies_id_1227}","top_2000_id_1300+us_companies_id_1227","{0.0|0.0}","0.0",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1072}","us_companies_id_1072","{Centreville}","Centreville",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1247}","us_companies_id_1247","{Not reported by company}","Not reported by company",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1444}","us_companies_id_1444","{1922}","1922","true","1922"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1456}","us_companies_id_1456","{1937}","1937",,
+"Revenue","0.5","Revenue-{top_2000_id_2528+us_companies_id_1461}","top_2000_id_2528+us_companies_id_1461","{0.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1005}","us_companies_id_1005","{Not reported by company}","Not reported by company",,
+"Name","0.5","Name-{top_2000_id_1344+us_companies_id_1470}","top_2000_id_1344+us_companies_id_1470","{Thomson Reuters|Thomson Reuters}","Thomson Reuters","true","Thomson Reuters"
+"Industry","1.0","Industry-{us_companies_id_1164}","us_companies_id_1164","{Insurance}","Insurance",,
+"Hqcity","1.0","Hqcity-{fortune_500_id_1449+us_companies_id_1052}","fortune_500_id_1449+us_companies_id_1052","{McLean|McLean}","McLean","true","McLean"
+"Name","0.0","Name-{fortune_500_id_1449+us_companies_id_1052}","fortune_500_id_1449+us_companies_id_1052","{Booz Allen Hamilton Holding|Booz Allen Hamilton}","Booz Allen Hamilton","true","Booz Allen Hamilton"
+"Revenue","0.6666666666666666","Revenue-{fortune_500_id_1016+top_2000_id_1002+us_companies_id_1249}","fortune_500_id_1016+top_2000_id_1002+us_companies_id_1249","{0.0|0.0|0.0}","0.0","true","0.0"
+"Name","0.0","Name-{top_2000_id_2917+us_companies_id_1212}","top_2000_id_2917+us_companies_id_1212","{Health Net|Healthline}","Healthline",,
+"Name","0.3333333333333333","Name-{fortune_500_id_1005+top_2000_id_1009+us_companies_id_1044}","fortune_500_id_1005+top_2000_id_1009+us_companies_id_1044","{Berkshire Hathaway|Berkshire Hathaway|Berkshire Hathaway}","Berkshire Hathaway","true","Berkshire Hathaway"
+"Marketvalue","0.0","Marketvalue-{top_2000_id_2001+us_companies_id_1072}","top_2000_id_2001+us_companies_id_1072","{9.3|0.0}","0.0",,
+"Assets","0.5","Assets-{top_2000_id_1482+us_companies_id_1399}","top_2000_id_1482+us_companies_id_1399","{0.0|0.0}","0.0","true","0.0"
+"Industry","0.0","Industry-{fortune_500_id_1497+us_companies_id_1078}","fortune_500_id_1497+us_companies_id_1078","{Health Care: Pharmacy and Other Services|Healthcare}","Healthcare","true","Healthcare"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1227}","us_companies_id_1227","{2001}","2001",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1085}","us_companies_id_1085","{Warren}","Warren",,
+"Name","0.5","Name-{top_2000_id_1024+us_companies_id_1012}","top_2000_id_1024+us_companies_id_1012","{Allianz|Allianz}","Allianz","true","Allianz"
+"Website","1.0","Website-{us_companies_id_1072}","us_companies_id_1072","{http://www.carfax.com}","http://www.carfax.com",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1620+us_companies_id_1146}","top_2000_id_1620+us_companies_id_1146","{18.5|0.0}","0.0",,
+"Industry","1.0","Industry-{us_companies_id_1066}","us_companies_id_1066","{Data/Technology}","Data/Technology","true","Data/Technology"
+"Assets","0.5","Assets-{top_2000_id_1602+us_companies_id_1520}","top_2000_id_1602+us_companies_id_1520","{0.0|0.0}","0.0",,
+"Name","0.0","Name-{top_2000_id_1159+us_companies_id_1164}","top_2000_id_1159+us_companies_id_1164","{Wesfarmers|Farmers}","Farmers",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1419}","us_companies_id_1419","{Boulder}","Boulder",,
+"Revenue","1.0","Revenue-{top_2000_id_1313+us_companies_id_1459}","top_2000_id_1313+us_companies_id_1459","{0.0|0.0}","0.0",,
+"Website","1.0","Website-{us_companies_id_1514}","us_companies_id_1514","{http://www.wolterskluwer.com/}","http://www.wolterskluwer.com/",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1245+us_companies_id_1050}","top_2000_id_1245+us_companies_id_1050","{200.5|0.0}","0.0",,
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1076+us_companies_id_1273}","fortune_500_id_1076+us_companies_id_1273","{43.228|0.0}","43.228","true","43.228"
+"Industry","1.0","Industry-{us_companies_id_1065}","us_companies_id_1065","{Finance & Investment}","Finance & Investment",,
+"Industry","0.0","Industry-{fortune_500_id_1076+us_companies_id_1273}","fortune_500_id_1076+us_companies_id_1273","{Insurance: Property and Casualty (Stock)|Insurance}","Insurance","true","Insurance"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1221}","us_companies_id_1221","{IT and business hardware, software, and services}","IT and business hardware, software, and services","true","IT and business hardware, software, and services"
+"Industry","0.0","Industry-{fortune_500_id_1449+us_companies_id_1052}","fortune_500_id_1449+us_companies_id_1052","{Information Technology Services|Research & Consulting}","Research & Consulting","true","Research & Consulting"
+"Assets","1.0","Assets-{fortune_500_id_1449+us_companies_id_1052}","fortune_500_id_1449+us_companies_id_1052","{0.0|0.0}","0.0","true","0.0"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1014}","us_companies_id_1014","{Not reported by company}","Not reported by company",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1459}","us_companies_id_1459","{1999}","1999",,
+"Name","0.0","Name-{fortune_500_id_1076+us_companies_id_1273}","fortune_500_id_1076+us_companies_id_1273","{Liberty Mutual Insurance Group|Liberty Mutual Insurance Cos.}","Liberty Mutual Insurance Cos.","true","Liberty Mutual Insurance Cos."
+"Name","0.3333333333333333","Name-{fortune_500_id_1016+top_2000_id_1002+us_companies_id_1249}","fortune_500_id_1016+top_2000_id_1002+us_companies_id_1249","{JPMorgan Chase|JPMorgan Chase|J.P. Morgan Chase}","JPMorgan Chase","false","J.P. Morgan Chase"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1002}","us_companies_id_1002","{Subscriptions, User fees for web or mobile access}","Subscriptions, User fees for web or mobile access",,
+"Website","1.0","Website-{us_companies_id_1082}","us_companies_id_1082","{https://www.schwab.com}","https://www.schwab.com","true","https://www.schwab.com"
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1449+us_companies_id_1052}","fortune_500_id_1449+us_companies_id_1052","{6.704|0.0}","6.704","true","6.704"
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1497+top_2000_id_2372+us_companies_id_1078}","fortune_500_id_1497+top_2000_id_2372+us_companies_id_1078","{5.693|3.7|0.0}","5.693","true","5.693"
+"Hqcity","1.0","Hqcity-{us_companies_id_1514}","us_companies_id_1514","{Minneapolis}","Minneapolis",,
+"Name","0.3333333333333333","Name-{fortune_500_id_1060+top_2000_id_1425+us_companies_id_1304}","fortune_500_id_1060+top_2000_id_1425+us_companies_id_1304","{Morgan Stanley|Morgan Stanley|Morgan Stanley}","Morgan Stanley","true","Morgan Stanley"
+"Revenue","1.0","Revenue-{top_2000_id_1808+us_companies_id_1364}","top_2000_id_1808+us_companies_id_1364","{0.0|0.0}","0.0",,
+"Name","0.5","Name-{fortune_500_id_1035+us_companies_id_1444}","fortune_500_id_1035+us_companies_id_1444","{State Farm Insurance|State Farm Insurance}","State Farm Insurance","true","State Farm Insurance"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1520}","us_companies_id_1520","{1994}","1994",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1303}","us_companies_id_1303","{1909}","1909",,
+"Name","0.5","Name-{top_2000_id_1305+us_companies_id_1005}","top_2000_id_1305+us_companies_id_1005","{Accenture|Accenture}","Accenture",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1400}","us_companies_id_1400","{1989}","1989",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1300+us_companies_id_1227}","top_2000_id_1300+us_companies_id_1227","{41.7|0.0}","0.0",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1412}","us_companies_id_1412","{1972}","1972",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1092}","us_companies_id_1092","{West Loop}","West Loop",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1227}","us_companies_id_1227","{Not reported by company}","Not reported by company",,
+"Industry","0.0","Industry-{fortune_500_id_1016+us_companies_id_1249}","fortune_500_id_1016+us_companies_id_1249","{Commercial Banks|Finance & Investment}","Commercial Banks","false","Finance & Investment"
+"Revenue","0.3333333333333333","Revenue-{fortune_500_id_1060+top_2000_id_1425+us_companies_id_1304}","fortune_500_id_1060+top_2000_id_1425+us_companies_id_1304","{0.0|0.0|0.0}","0.0","true","0.0"
+"Name","0.5","Name-{top_2000_id_1217+us_companies_id_1141}","top_2000_id_1217+us_companies_id_1141","{EMC|EMC}","EMC",,
+"Industry","1.0","Industry-{us_companies_id_1281+us_companies_id_1347}","us_companies_id_1281+us_companies_id_1347","{Data/Technology|Data/Technology}","Data/Technology",,
+"Assets","1.0","Assets-{top_2000_id_1300+us_companies_id_1227}","top_2000_id_1300+us_companies_id_1227","{0.0|0.0}","0.0",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1304}","us_companies_id_1304","{1935}","1935","true","1935"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1456}","us_companies_id_1456","{Not reported by company}","Not reported by company",,
+"Name","0.5","Name-{top_2000_id_1172+us_companies_id_1066}","top_2000_id_1172+us_companies_id_1066","{Canon|Canon}","Canon","true","Canon"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1444}","us_companies_id_1444","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Industry","1.0","Industry-{us_companies_id_1470}","us_companies_id_1470","{Business & Legal Services}","Business & Legal Services","true","Business & Legal Services"
+"Website","0.0","Website-{us_companies_id_1240+us_companies_id_1324}","us_companies_id_1240+us_companies_id_1324","{www.intermap.com|www.noveda.com}","www.noveda.com",,
+"Website","1.0","Website-{us_companies_id_1052}","us_companies_id_1052","{http://www.boozallen.com}","http://www.boozallen.com","true","http://www.boozallen.com"
+"Revenue","1.0","Revenue-{top_2000_id_2001+us_companies_id_1072}","top_2000_id_2001+us_companies_id_1072","{0.0|0.0}","0.0",,
+"Name","0.0","Name-{top_2000_id_1777+us_companies_id_1281+us_companies_id_1347}","top_2000_id_1777+us_companies_id_1281+us_companies_id_1347","{Agilent Technologies|LOVELAND Technologies|Palantir Technologies}","Agilent Technologies",,
+"Industry","0.0","Industry-{fortune_500_id_1035+us_companies_id_1444}","fortune_500_id_1035+us_companies_id_1444","{Insurance: Property and Casualty (Mutual)|Insurance}","Insurance","true","Insurance"
+"Assets","1.0","Assets-{top_2000_id_1777+us_companies_id_1281+us_companies_id_1347}","top_2000_id_1777+us_companies_id_1281+us_companies_id_1347","{0.0|0.0|0.0}","0.0",,
+"Revenue","0.5","Revenue-{top_2000_id_1482+us_companies_id_1399}","top_2000_id_1482+us_companies_id_1399","{0.0|0.0}","0.0","true","0.0"
+"Assets","0.5","Assets-{top_2000_id_1516+us_companies_id_1178}","top_2000_id_1516+us_companies_id_1178","{0.0|0.0}","0.0",,
+"Assets","1.0","Assets-{top_2000_id_1312+us_companies_id_1400}","top_2000_id_1312+us_companies_id_1400","{0.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1249}","us_companies_id_1249","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Hqcity","0.5","Hqcity-{fortune_500_id_1035+us_companies_id_1444}","fortune_500_id_1035+us_companies_id_1444","{Bloomington|Bloomington}","Bloomington","true","Bloomington"
+"Assets","0.3333333333333333","Assets-{fortune_500_id_1005+top_2000_id_1009+us_companies_id_1044}","fortune_500_id_1005+top_2000_id_1009+us_companies_id_1044","{0.0|0.0|0.0}","0.0","true","0.0"
+"Marketvalue","0.0","Marketvalue-{top_2000_id_2528+us_companies_id_1461}","top_2000_id_2528+us_companies_id_1461","{3.1|0.0}","0.0",,
+"Website","1.0","Website-{us_companies_id_1085}","us_companies_id_1085","{http://www.chubb.com}","http://www.chubb.com",,
+"Name","0.0","Name-{top_2000_id_1037+us_companies_id_1489}","top_2000_id_1037+us_companies_id_1489","{AXA Group|USAA Group}","AXA Group",,
+"Industry","1.0","Industry-{us_companies_id_1178}","us_companies_id_1178","{Data/Technology}","Data/Technology",,
+"Name","0.5","Name-{top_2000_id_1516+us_companies_id_1178}","top_2000_id_1516+us_companies_id_1178","{Fujitsu|Fujitsu}","Fujitsu",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1313+us_companies_id_1459}","top_2000_id_1313+us_companies_id_1459","{29.6|0.0}","0.0",,
+"Name","0.5","Name-{top_2000_id_1201+us_companies_id_1412}","top_2000_id_1201+us_companies_id_1412","{SAP|SAP}","SAP",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1212}","us_companies_id_1212","{Not reported by company}","Not reported by company",,
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1035+us_companies_id_1444}","fortune_500_id_1035+us_companies_id_1444","{79.395|0.0}","79.395","true","79.395"
+"Website","1.0","Website-{us_companies_id_1086}","us_companies_id_1086","{http://www.citigroup.com/citi/}","http://www.citigroup.com/citi/","true","http://www.citigroup.com/citi/"
+"Industry","1.0","Industry-{us_companies_id_1141}","us_companies_id_1141","{Data/Technology}","Data/Technology",,
+"Website","1.0","Website-{us_companies_id_1050}","us_companies_id_1050","{http://www.blackrock.com}","http://www.blackrock.com",,
+"Assets","0.5","Assets-{fortune_500_id_1035+us_companies_id_1444}","fortune_500_id_1035+us_companies_id_1444","{0.0|0.0}","0.0","true","0.0"
+"Assets","1.0","Assets-{top_2000_id_1808+us_companies_id_1364}","top_2000_id_1808+us_companies_id_1364","{0.0|0.0}","0.0",,
+"Assets","1.0","Assets-{top_2000_id_1806+us_companies_id_1002}","top_2000_id_1806+us_companies_id_1002","{0.0|0.0}","0.0",,
+"Industry","1.0","Industry-{us_companies_id_1419}","us_companies_id_1419","{Energy}","Energy",,
+"Website","1.0","Website-{us_companies_id_1459}","us_companies_id_1459","{http://www.telenav.com/}","http://www.telenav.com/",,
+"Name","0.0","Name-{top_2000_id_2001+us_companies_id_1072}","top_2000_id_2001+us_companies_id_1072","{CarMax|CARFAX}","CARFAX",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1344+us_companies_id_1470}","top_2000_id_1344+us_companies_id_1470","{32.6|0.0}","0.0","false","32.6"
+"Website","1.0","Website-{us_companies_id_1520}","us_companies_id_1520","{http://www.yahoo.com/}","http://www.yahoo.com/",,
+"Assets","0.5","Assets-{top_2000_id_1245+us_companies_id_1050}","top_2000_id_1245+us_companies_id_1050","{0.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1178}","us_companies_id_1178","{ICT Product and Services, Software licensing, Data analysis for clients, Database licensing}","ICT Product and Services, Software licensing, Data analysis for clients, Database licensing",,
+"Assets","1.0","Assets-{top_2000_id_1705+us_companies_id_1014}","top_2000_id_1705+us_companies_id_1014","{0.0|0.0}","0.0",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1092}","us_companies_id_1092","{2013}","2013",,
+"Revenue","1.0","Revenue-{fortune_500_id_1449+us_companies_id_1052}","fortune_500_id_1449+us_companies_id_1052","{0.0|0.0}","0.0","true","0.0"
+"Website","1.0","Website-{us_companies_id_1400}","us_companies_id_1400","{www.reisystems.com}","www.reisystems.com",,
+"Name","0.0","Name-{top_2000_id_1939+us_companies_id_1065}","top_2000_id_1939+us_companies_id_1065","{RHB Capital|CAN Capital}","CAN Capital",,
+"Website","1.0","Website-{us_companies_id_1303}","us_companies_id_1303","{https://www.moodys.com}","https://www.moodys.com",,
+"Website","1.0","Website-{us_companies_id_1412}","us_companies_id_1412","{http://www.sap.com/}","http://www.sap.com/",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1514}","us_companies_id_1514","{1836}","1836",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1159+us_companies_id_1164}","top_2000_id_1159+us_companies_id_1164","{42.9|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1044}","us_companies_id_1044","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1298}","us_companies_id_1298","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1141}","us_companies_id_1141","{Not reported by company}","Not reported by company",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1459}","us_companies_id_1459","{Sunnyvale}","Sunnyvale",,
+"Revenue","0.5","Revenue-{top_2000_id_1602+us_companies_id_1520}","top_2000_id_1602+us_companies_id_1520","{0.0|0.0}","0.0",,
+"Industry","0.0","Industry-{fortune_500_id_1037+us_companies_id_1221}","fortune_500_id_1037+us_companies_id_1221","{Information Technology Services|Data/Technology}","Data/Technology","true","Data/Technology"
+"Website","1.0","Website-{us_companies_id_1227}","us_companies_id_1227","{http://www.impaqint.com}","http://www.impaqint.com",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1520}","us_companies_id_1520","{Sunnyvale}","Sunnyvale",,
+"Assets","1.0","Assets-{top_2000_id_2512+us_companies_id_1247}","top_2000_id_2512+us_companies_id_1247","{0.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1164}","us_companies_id_1164","{Not reported by company}","Not reported by company",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1273}","us_companies_id_1273","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Industry","1.0","Industry-{us_companies_id_1514}","us_companies_id_1514","{Business & Legal Services}","Business & Legal Services",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1082}","us_companies_id_1082","{1973}","1973","true","1973"
+"Hqcity","1.0","Hqcity-{us_companies_id_1303}","us_companies_id_1303","{New York}","New York",,
+"Name","0.0","Name-{top_2000_id_1312+us_companies_id_1400}","top_2000_id_1312+us_companies_id_1400","{BAE Systems|REI Systems}","BAE Systems",,
+"Revenue","1.0","Revenue-{top_2000_id_1088+us_companies_id_1240+us_companies_id_1324}","top_2000_id_1088+us_companies_id_1240+us_companies_id_1324","{0.0|0.0|0.0}","0.0",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1412}","us_companies_id_1412","{Newtown Square}","Newtown Square",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1400}","us_companies_id_1400","{Sterling}","Sterling",,
+"Revenue","0.5","Revenue-{top_2000_id_1201+us_companies_id_1412}","top_2000_id_1201+us_companies_id_1412","{0.0|0.0}","0.0",,
+"Industry","1.0","Industry-{us_companies_id_1092}","us_companies_id_1092","{Data/Technology}","Data/Technology",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1066}","us_companies_id_1066","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1078}","us_companies_id_1078","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1419}","us_companies_id_1419","{2010}","2010",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1227}","us_companies_id_1227","{Columbia}","Columbia",,
+"Hqcity","0.5","Hqcity-{fortune_500_id_1497+us_companies_id_1078}","fortune_500_id_1497+us_companies_id_1078","{North Kansas City|North Kansas City}","North Kansas City","true","North Kansas City"
+"Assets","1.0","Assets-{top_2000_id_1939+us_companies_id_1065}","top_2000_id_1939+us_companies_id_1065","{0.0|0.0}","0.0",,
+"Revenue","0.3333333333333333","Revenue-{fortune_500_id_1030+top_2000_id_1018+us_companies_id_1086}","fortune_500_id_1030+top_2000_id_1018+us_companies_id_1086","{0.0|0.0|0.0}","0.0","true","0.0"
+"Name","0.5","Name-{top_2000_id_1482+us_companies_id_1399}","top_2000_id_1482+us_companies_id_1399","{Reed Elsevier|Reed Elsevier}","Reed Elsevier","true","Reed Elsevier"
+"Assets","0.3333333333333333","Assets-{fortune_500_id_1497+top_2000_id_2372+us_companies_id_1078}","fortune_500_id_1497+top_2000_id_2372+us_companies_id_1078","{0.0|0.0|0.0}","0.0","true","0.0"
+"Name","0.0","Name-{top_2000_id_1705+us_companies_id_1014}","top_2000_id_1705+us_companies_id_1014","{RSA Insurance Group|AllState Insurance Group}","RSA Insurance Group",,
+"Revenue","0.5","Revenue-{fortune_500_id_1035+us_companies_id_1444}","fortune_500_id_1035+us_companies_id_1444","{0.0|0.0}","0.0","true","0.0"
+"Assets","0.6666666666666666","Assets-{fortune_500_id_1270+top_2000_id_1517+us_companies_id_1082}","fortune_500_id_1270+top_2000_id_1517+us_companies_id_1082","{0.0|0.0|0.0}","0.0","true","0.0"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1146}","us_companies_id_1146","{Not reported by company}","Not reported by company",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1217+us_companies_id_1141}","top_2000_id_1217+us_companies_id_1141","{38.1|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1158}","us_companies_id_1158","{Not reported by company}","Not reported by company",,
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1030+top_2000_id_1018+us_companies_id_1086}","fortune_500_id_1030+top_2000_id_1018+us_companies_id_1086","{103.449|1864.7|0.0}","103.449","true","103.449"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1364}","us_companies_id_1364","{Venture Capital}","Venture Capital",,
+"Assets","1.0","Assets-{top_2000_id_1480+us_companies_id_1419}","top_2000_id_1480+us_companies_id_1419","{0.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1461}","us_companies_id_1461","{Not reported by company}","Not reported by company",,
+"Assets","1.0","Assets-{fortune_500_id_1076+us_companies_id_1273}","fortune_500_id_1076+us_companies_id_1273","{0.0|0.0}","0.0","true","0.0"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1072}","us_companies_id_1072","{1984}","1984",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1939+us_companies_id_1065}","top_2000_id_1939+us_companies_id_1065","{61.8|0.0}","0.0",,
+"Revenue","0.5","Revenue-{top_2000_id_1024+us_companies_id_1012}","top_2000_id_1024+us_companies_id_1012","{0.0|0.0}","0.0","true","0.0"
+"Revenue","0.5","Revenue-{top_2000_id_1172+us_companies_id_1066}","top_2000_id_1172+us_companies_id_1066","{0.0|0.0}","0.0","true","0.0"
+"Name","0.5","Name-{top_2000_id_1245+us_companies_id_1050}","top_2000_id_1245+us_companies_id_1050","{BlackRock|BlackRock}","BlackRock",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1305+us_companies_id_1005}","top_2000_id_1305+us_companies_id_1005","{16.4|0.0}","0.0",,
+"Revenue","0.5","Revenue-{top_2000_id_1327+us_companies_id_1085}","top_2000_id_1327+us_companies_id_1085","{0.0|0.0}","0.0",,
+"Name","0.3333333333333333","Name-{fortune_500_id_1030+top_2000_id_1018+us_companies_id_1086}","fortune_500_id_1030+top_2000_id_1018+us_companies_id_1086","{Citigroup|Citigroup|Citigroup}","Citigroup","true","Citigroup"
+"Revenue","0.5","Revenue-{top_2000_id_2533+us_companies_id_1514}","top_2000_id_2533+us_companies_id_1514","{0.0|0.0}","0.0",,
+"Revenue","0.5","Revenue-{top_2000_id_2279+us_companies_id_1303}","top_2000_id_2279+us_companies_id_1303","{0.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1399}","us_companies_id_1399","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Industry","1.0","Industry-{us_companies_id_1050}","us_companies_id_1050","{Finance & Investment}","Finance & Investment",,
+"Name","0.0","Name-{top_2000_id_1806+us_companies_id_1002}","top_2000_id_1806+us_companies_id_1002","{Resolution|5PSolutions}","Resolution",,
+"Revenue","0.5","Revenue-{top_2000_id_2080+us_companies_id_1158}","top_2000_id_2080+us_companies_id_1158","{0.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1460}","us_companies_id_1460","{Not reported by company}","Not reported by company",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1012}","us_companies_id_1012","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Website","1.0","Website-{us_companies_id_1092}","us_companies_id_1092","{http://civisanalytics.com/}","http://civisanalytics.com/",,
+"Revenue","1.0","Revenue-{top_2000_id_1495+us_companies_id_1460}","top_2000_id_1495+us_companies_id_1460","{0.0|0.0}","0.0",,
+"Website","1.0","Website-{us_companies_id_1304}","us_companies_id_1304","{http://www.morganstanley.com}","http://www.morganstanley.com","true","http://www.morganstanley.com"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1085}","us_companies_id_1085","{1882}","1882",,
+"Revenue","1.0","Revenue-{top_2000_id_2066+us_companies_id_1456}","top_2000_id_2066+us_companies_id_1456","{0.0|0.0}","0.0",,
+"Assets","1.0","Assets-{top_2000_id_1313+us_companies_id_1459}","top_2000_id_1313+us_companies_id_1459","{0.0|0.0}","0.0",,
+"Industry","1.0","Industry-{us_companies_id_1085}","us_companies_id_1085","{Insurance}","Insurance",,
+"Name","0.0","Name-{top_2000_id_1480+us_companies_id_1419}","top_2000_id_1480+us_companies_id_1419","{Sempra Energy|Simple Energy}","Simple Energy",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1037+us_companies_id_1489}","top_2000_id_1037+us_companies_id_1489","{1005.4|0.0}","0.0",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1050}","us_companies_id_1050","{1988}","1988",,
+"Name","0.0","Name-{top_2000_id_1088+us_companies_id_1240+us_companies_id_1324}","top_2000_id_1088+us_companies_id_1240+us_companies_id_1324","{United Technologies|Intermap Technologies|Noveda Technologies}","Noveda Technologies",,
+"Assets","1.0","Assets-{top_2000_id_1088+us_companies_id_1240+us_companies_id_1324}","top_2000_id_1088+us_companies_id_1240+us_companies_id_1324","{0.0|0.0|0.0}","0.0",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1456}","us_companies_id_1456","{Baltimore}","Baltimore",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1086}","us_companies_id_1086","{1812}","1812","true","1812"
+"Assets","1.0","Assets-{top_2000_id_1159+us_companies_id_1164}","top_2000_id_1159+us_companies_id_1164","{0.0|0.0}","0.0",,
+"Industry","1.0","Industry-{us_companies_id_1072}","us_companies_id_1072","{Transportation}","Transportation",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1470}","us_companies_id_1470","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1240}","us_companies_id_1240","{Not provided by company}","Not provided by company",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1808+us_companies_id_1364}","top_2000_id_1808+us_companies_id_1364","{6.6|0.0}","0.0",,
+"Industry","1.0","Industry-{us_companies_id_1520}","us_companies_id_1520","{Lifestyle & Consumer}","Lifestyle & Consumer",,
+"Industry","1.0","Industry-{us_companies_id_1459}","us_companies_id_1459","{Geospatial/Mapping}","Geospatial/Mapping",,
+"Revenue","0.3333333333333333","Revenue-{fortune_500_id_1497+top_2000_id_2372+us_companies_id_1078}","fortune_500_id_1497+top_2000_id_2372+us_companies_id_1078","{0.0|0.0|0.0}","0.0","true","0.0"
+"Hqcity","1.0","Hqcity-{us_companies_id_1005}","us_companies_id_1005","{Chicago}","Chicago",,
+"Assets","0.5","Assets-{top_2000_id_1201+us_companies_id_1412}","top_2000_id_1201+us_companies_id_1412","{0.0|0.0}","0.0",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1247}","us_companies_id_1247","{Portland}","Portland",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1489}","us_companies_id_1489","{San Antonio}","San Antonio",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_2634+us_companies_id_1092}","top_2000_id_2634+us_companies_id_1092","{2.4|0.0}","0.0",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1312+us_companies_id_1400}","top_2000_id_1312+us_companies_id_1400","{36.2|0.0}","0.0",,
+"Website","1.0","Website-{us_companies_id_1221}","us_companies_id_1221","{www.ibm.com}","www.ibm.com","true","www.ibm.com"
+"Website","0.0","Website-{us_companies_id_1281+us_companies_id_1347}","us_companies_id_1281+us_companies_id_1347","{www.makeloveland.com|https://www.palantir.com}","www.makeloveland.com",,
+"Name","0.0","Name-{top_2000_id_1313+us_companies_id_1459}","top_2000_id_1313+us_companies_id_1459","{Telenor|Telenav}","Telenor",,
+"Revenue","1.0","Revenue-{top_2000_id_2917+us_companies_id_1212}","top_2000_id_2917+us_companies_id_1212","{0.0|0.0}","0.0",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1516+us_companies_id_1178}","top_2000_id_1516+us_companies_id_1178","{35.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1085}","us_companies_id_1085","{Not reported by company}","Not reported by company",,
+"Name","0.5","Name-{top_2000_id_2528+us_companies_id_1461}","top_2000_id_2528+us_companies_id_1461","{Teradata|Teradata}","Teradata",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1806+us_companies_id_1002}","top_2000_id_1806+us_companies_id_1002","{207.5|0.0}","0.0",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1052}","us_companies_id_1052","{1914}","1914","true","1914"
+"Name","0.3333333333333333","Name-{fortune_500_id_1497+top_2000_id_2372+us_companies_id_1078}","fortune_500_id_1497+top_2000_id_2372+us_companies_id_1078","{Cerner|Cerner|Cerner}","Cerner","true","Cerner"
+"Hqcity","1.0","Hqcity-{us_companies_id_1212}","us_companies_id_1212","{San Francisco}","San Francisco",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1072}","us_companies_id_1072","{Not provided by company}","Not provided by company",,
+"Name","0.5","Name-{top_2000_id_2279+us_companies_id_1303}","top_2000_id_2279+us_companies_id_1303","{Moody's|Moody's}","Moody's",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_2533+us_companies_id_1514}","top_2000_id_2533+us_companies_id_1514","{8.5|0.0}","0.0",,
+"Marketvalue","0.6666666666666666","Marketvalue-{top_2000_id_1777+us_companies_id_1281+us_companies_id_1347}","top_2000_id_1777+us_companies_id_1281+us_companies_id_1347","{10.7|0.0|0.0}","0.0",,
+"Name","0.0","Name-{top_2000_id_1300+us_companies_id_1227}","top_2000_id_1300+us_companies_id_1227","{Wilmar International|Impaq International}","Impaq International",,
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1016+top_2000_id_1002+us_companies_id_1249}","fortune_500_id_1016+top_2000_id_1002+us_companies_id_1249","{142.422|2359.1|0.0}","142.422","true","142.422"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1082}","us_companies_id_1082","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Industry","1.0","Industry-{us_companies_id_1227}","us_companies_id_1227","{Research & Consulting}","Research & Consulting",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1705+us_companies_id_1014}","top_2000_id_1705+us_companies_id_1014","{33.4|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1419}","us_companies_id_1419","{Software licensing}","Software licensing",,
+"Industry","0.0","Industry-{fortune_500_id_1030+us_companies_id_1086}","fortune_500_id_1030+us_companies_id_1086","{Commercial Banks|Finance & Investment}","Commercial Banks","false","Finance & Investment"
+"Assets","0.5","Assets-{top_2000_id_1305+us_companies_id_1005}","top_2000_id_1305+us_companies_id_1005","{0.0|0.0}","0.0",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1065}","us_companies_id_1065","{1998}","1998",,
+"Website","1.0","Website-{us_companies_id_1146}","us_companies_id_1146","{http://www.enscoplc.com/Home/default.aspx}","http://www.enscoplc.com/Home/default.aspx",,
+"Hqcity","0.0","Hqcity-{us_companies_id_1281+us_companies_id_1347}","us_companies_id_1281+us_companies_id_1347","{Detroit|Palo Alto}","Detroit",,
+"Website","1.0","Website-{us_companies_id_1158}","us_companies_id_1158","{http://www.experian.com}","http://www.experian.com",,
+"Website","1.0","Website-{us_companies_id_1461}","us_companies_id_1461","{http://www.teradata.com/}","http://www.teradata.com/",,
+"Website","1.0","Website-{us_companies_id_1364}","us_companies_id_1364","{www.placeilive.com}","www.placeilive.com",,
+"Assets","0.5","Assets-{top_2000_id_1344+us_companies_id_1470}","top_2000_id_1344+us_companies_id_1470","{0.0|0.0}","0.0","true","0.0"
+"Assets","0.3333333333333333","Assets-{fortune_500_id_1037+top_2000_id_1032+us_companies_id_1221}","fortune_500_id_1037+top_2000_id_1032+us_companies_id_1221","{0.0|0.0|0.0}","0.0","true","0.0"
+"Industry","1.0","Industry-{us_companies_id_1456}","us_companies_id_1456","{Finance & Investment}","Finance & Investment",,
+"Assets","0.5","Assets-{top_2000_id_1172+us_companies_id_1066}","top_2000_id_1172+us_companies_id_1066","{0.0|0.0}","0.0","true","0.0"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1066}","us_companies_id_1066","{1937}","1937","true","1937"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1078}","us_companies_id_1078","{1979}","1979","true","1979"
+"Assets","0.5","Assets-{top_2000_id_1024+us_companies_id_1012}","top_2000_id_1024+us_companies_id_1012","{0.0|0.0}","0.0","true","0.0"
+"Hqcity","0.5","Hqcity-{fortune_500_id_1030+us_companies_id_1086}","fortune_500_id_1030+us_companies_id_1086","{New York|New York}","New York","true","New York"
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1005+top_2000_id_1009+us_companies_id_1044}","fortune_500_id_1005+top_2000_id_1009+us_companies_id_1044","{254.616|427.5|0.0}","254.616","true","254.616"
+"Website","1.0","Website-{us_companies_id_1014}","us_companies_id_1014","{http://www.allstate.com}","http://www.allstate.com",,
+"Website","1.0","Website-{us_companies_id_1002}","us_companies_id_1002","{www.5psolutions.com}","www.5psolutions.com",,
+"Assets","1.0","Assets-{top_2000_id_1037+us_companies_id_1489}","top_2000_id_1037+us_companies_id_1489","{0.0|0.0}","0.0",,
+"Assets","1.0","Assets-{top_2000_id_2917+us_companies_id_1212}","top_2000_id_2917+us_companies_id_1212","{0.0|0.0}","0.0",,
+"Revenue","1.0","Revenue-{top_2000_id_1806+us_companies_id_1002}","top_2000_id_1806+us_companies_id_1002","{0.0|0.0}","0.0",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1364}","us_companies_id_1364","{Vilnius}","Vilnius",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1164}","us_companies_id_1164","{1928}","1928",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1146}","us_companies_id_1146","{Falls Church}","Falls Church",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1273}","us_companies_id_1273","{1912}","1912","true","1912"
+"Hqcity","1.0","Hqcity-{us_companies_id_1158}","us_companies_id_1158","{Costa Mesa}","Costa Mesa",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1461}","us_companies_id_1461","{Dayton}","Dayton",,
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1060+top_2000_id_1425+us_companies_id_1304}","fortune_500_id_1060+top_2000_id_1425+us_companies_id_1304","{53.823|781.0|0.0}","53.823","true","53.823"
+"Website","1.0","Website-{us_companies_id_1249}","us_companies_id_1249","{http://www.jpmorganchase.com/corporate/Home/home.htm}","http://www.jpmorganchase.com/corporate/Home/home.htm","true","http://www.jpmorganchase.com/corporate/Home/home.htm"
+"Name","0.5","Name-{top_2000_id_1602+us_companies_id_1520}","top_2000_id_1602+us_companies_id_1520","{Yahoo|Yahoo}","Yahoo",,
+"Foundingdate","0.0","Foundingdate-{us_companies_id_1281+us_companies_id_1347}","us_companies_id_1281+us_companies_id_1347","{2010|2004}","2010",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1065}","us_companies_id_1065","{Financial Products and Services}","Financial Products and Services",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1480+us_companies_id_1419}","top_2000_id_1480+us_companies_id_1419","{36.5|0.0}","0.0",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1495+us_companies_id_1460}","top_2000_id_1495+us_companies_id_1460","{15.7|0.0}","0.0",,
+"Hqcity","0.5","Hqcity-{fortune_500_id_1005+us_companies_id_1044}","fortune_500_id_1005+us_companies_id_1044","{Omaha|Omaha}","Omaha","true","Omaha"
+"Hqcity","1.0","Hqcity-{us_companies_id_1002}","us_companies_id_1002","{Fairfax}","Fairfax",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1044}","us_companies_id_1044","{1998}","1998","true","1998"
+"Hqcity","1.0","Hqcity-{us_companies_id_1014}","us_companies_id_1014","{Northbrook}","Northbrook",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1298}","us_companies_id_1298","{1868}","1868","true","1868"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1141}","us_companies_id_1141","{1979}","1979",,
+"Website","1.0","Website-{us_companies_id_1444}","us_companies_id_1444","{http://www.statefarm.com/}","http://www.statefarm.com/","true","http://www.statefarm.com/"
+"Website","1.0","Website-{us_companies_id_1456}","us_companies_id_1456","{http://www.troweprice.com}","http://www.troweprice.com",,
+"Revenue","1.0","Revenue-{top_2000_id_2634+us_companies_id_1092}","top_2000_id_2634+us_companies_id_1092","{0.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1052}","us_companies_id_1052","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Hqcity","1.0","Hqcity-{fortune_500_id_1270+us_companies_id_1082}","fortune_500_id_1270+us_companies_id_1082","{San Francisco|San Francisco}","San Francisco","true","San Francisco"
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1327+us_companies_id_1085}","top_2000_id_1327+us_companies_id_1085","{52.2|0.0}","0.0",,
+"Assets","0.3333333333333333","Assets-{fortune_500_id_1047+top_2000_id_1117+us_companies_id_1298}","fortune_500_id_1047+top_2000_id_1117+us_companies_id_1298","{0.0|0.0|0.0}","0.0","true","0.0"
+"Assets","1.0","Assets-{top_2000_id_2001+us_companies_id_1072}","top_2000_id_2001+us_companies_id_1072","{0.0|0.0}","0.0",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1178}","us_companies_id_1178","{1935}","1935",,
+"Hqcity","0.5","Hqcity-{fortune_500_id_1037+us_companies_id_1221}","fortune_500_id_1037+us_companies_id_1221","{Armonk|Armonk}","Armonk","true","Armonk"
+"Website","1.0","Website-{us_companies_id_1247}","us_companies_id_1247","{http://info.iwfinancial.com}","http://info.iwfinancial.com",,
+"Website","1.0","Website-{us_companies_id_1005}","us_companies_id_1005","{http://www.accenture.com/us-en/pages/index.aspx}","http://www.accenture.com/us-en/pages/index.aspx",,
+"Website","1.0","Website-{us_companies_id_1489}","us_companies_id_1489","{https://www.usaa.com}","https://www.usaa.com",,
+"Revenue","0.5","Revenue-{top_2000_id_1344+us_companies_id_1470}","top_2000_id_1344+us_companies_id_1470","{0.0|0.0}","0.0","true","0.0"
+"Hqcity","1.0","Hqcity-{us_companies_id_1470}","us_companies_id_1470","{New York}","New York","true","New York"
+"Assets","0.5","Assets-{top_2000_id_1217+us_companies_id_1141}","top_2000_id_1217+us_companies_id_1141","{0.0|0.0}","0.0",,
+"Revenue","0.5","Revenue-{top_2000_id_1217+us_companies_id_1141}","top_2000_id_1217+us_companies_id_1141","{0.0|0.0}","0.0",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_2080+us_companies_id_1158}","top_2000_id_2080+us_companies_id_1158","{7.8|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1281}","us_companies_id_1281","{Subscriptions, Special Projects}","Subscriptions, Special Projects",,
+"Industry","1.0","Industry-{us_companies_id_1400}","us_companies_id_1400","{Data/Technology}","Data/Technology",,
+"Industry","1.0","Industry-{us_companies_id_1412}","us_companies_id_1412","{Data/Technology}","Data/Technology",,
+"Industry","0.0","Industry-{fortune_500_id_1060+us_companies_id_1304}","fortune_500_id_1060+us_companies_id_1304","{Commercial Banks|Finance & Investment}","Commercial Banks","false","Finance & Investment"
+"Industry","1.0","Industry-{us_companies_id_1303}","us_companies_id_1303","{Finance & Investment}","Finance & Investment",,
+"Assets","0.5","Assets-{top_2000_id_1620+us_companies_id_1146}","top_2000_id_1620+us_companies_id_1146","{0.0|0.0}","0.0",,
+"Hqcity","0.5","Hqcity-{fortune_500_id_1060+us_companies_id_1304}","fortune_500_id_1060+us_companies_id_1304","{New York|New York}","New York","true","New York"
+"Industry","0.0","Industry-{fortune_500_id_1005+us_companies_id_1044}","fortune_500_id_1005+us_companies_id_1044","{Insurance: Property and Casualty (Stock)|Finance & Investment}","Finance & Investment","true","Finance & Investment"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1470}","us_companies_id_1470","{2008}","2008","true","2008"
+"Hqcity","1.0","Hqcity-{us_companies_id_1460}","us_companies_id_1460","{Boulder}","Boulder",,
+"Name","0.3333333333333333","Name-{fortune_500_id_1037+top_2000_id_1032+us_companies_id_1221}","fortune_500_id_1037+top_2000_id_1032+us_companies_id_1221","{IBM|IBM|IBM}","IBM","true","IBM"
+"Hqcity","1.0","Hqcity-{us_companies_id_1399}","us_companies_id_1399","{New York}","New York","true","New York"
+"Hqcity","1.0","Hqcity-{us_companies_id_1012}","us_companies_id_1012","{New York}","New York","true","New York"
+"Name","0.0","Name-{top_2000_id_2512+us_companies_id_1247}","top_2000_id_2512+us_companies_id_1247","{BOK Financial|IW Financial}","IW Financial",,
+"Industry","0.0","Industry-{fortune_500_id_1270+us_companies_id_1082}","fortune_500_id_1270+us_companies_id_1082","{Securities|Finance & Investment}","Securities","false","Finance & Investment"
+"Website","1.0","Website-{us_companies_id_1212}","us_companies_id_1212","{http://www.healthline.com}","http://www.healthline.com",,
+"Revenue","1.0","Revenue-{top_2000_id_1312+us_companies_id_1400}","top_2000_id_1312+us_companies_id_1400","{0.0|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1050}","us_companies_id_1050","{Not reported by company}","Not reported by company",,
+"Name","0.0","Name-{top_2000_id_1808+us_companies_id_1364}","top_2000_id_1808+us_companies_id_1364","{Priceline.com|PlaceILive.com}","Priceline.com",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1086}","us_companies_id_1086","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Revenue","1.0","Revenue-{top_2000_id_1939+us_companies_id_1065}","top_2000_id_1939+us_companies_id_1065","{0.0|0.0}","0.0",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1024+us_companies_id_1012}","top_2000_id_1024+us_companies_id_1012","{915.8|0.0}","0.0","false","915.8"
+"Revenue","0.6666666666666666","Revenue-{fortune_500_id_1270+top_2000_id_1517+us_companies_id_1082}","fortune_500_id_1270+top_2000_id_1517+us_companies_id_1082","{0.0|0.0|0.0}","0.0","true","0.0"
+"Hqcity","1.0","Hqcity-{us_companies_id_1178}","us_companies_id_1178","{Sunnyvale}","Sunnyvale",,
+"Industry","0.0","Industry-{us_companies_id_1240+us_companies_id_1324}","us_companies_id_1240+us_companies_id_1324","{Geospatial/Mapping|Data/Technology}","Data/Technology",,
+"Revenue","1.0","Revenue-{top_2000_id_1037+us_companies_id_1489}","top_2000_id_1037+us_companies_id_1489","{0.0|0.0}","0.0",,
+"Website","1.0","Website-{us_companies_id_1164}","us_companies_id_1164","{http://www.farmers.com}","http://www.farmers.com",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1304}","us_companies_id_1304","{Not reported by company}","Not reported by company","true","Not reported by company"
+"Name","0.3333333333333333","Name-{fortune_500_id_1270+top_2000_id_1517+us_companies_id_1082}","fortune_500_id_1270+top_2000_id_1517+us_companies_id_1082","{Charles Schwab|Charles Schwab|Charles Schwab Corp.}","Charles Schwab","false","Charles Schwab Corp."
+"Website","1.0","Website-{us_companies_id_1273}","us_companies_id_1273","{http://www.libertymutual.com}","http://www.libertymutual.com","true","http://www.libertymutual.com"
+"Revenue","0.5","Revenue-{top_2000_id_1620+us_companies_id_1146}","top_2000_id_1620+us_companies_id_1146","{0.0|0.0}","0.0",,
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1037+top_2000_id_1032+us_companies_id_1221}","fortune_500_id_1037+top_2000_id_1032+us_companies_id_1221","{77.147|119.2|0.0}","77.147","true","77.147"
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1270+top_2000_id_1517+us_companies_id_1082}","fortune_500_id_1270+top_2000_id_1517+us_companies_id_1082","{11.785|133.6|0.0}","11.785","true","11.785"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1460}","us_companies_id_1460","{2004}","2004",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1012}","us_companies_id_1012","{1896}","1896","true","1896"
+"Hqcity","1.0","Hqcity-{us_companies_id_1240}","us_companies_id_1240","{Englewood}","Englewood",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1399}","us_companies_id_1399","{1880}","1880","true","1880"
+"Revenue","1.0","Revenue-{top_2000_id_1480+us_companies_id_1419}","top_2000_id_1480+us_companies_id_1419","{0.0|0.0}","0.0",,
+"Hqcity","0.5","Hqcity-{fortune_500_id_1047+us_companies_id_1298}","fortune_500_id_1047+us_companies_id_1298","{New York|New York}","New York","true","New York"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1412}","us_companies_id_1412","{Not reported by company}","Not reported by company",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1303}","us_companies_id_1303","{Not reported by company}","Not reported by company",,
+"Name","0.5","Name-{top_2000_id_1620+us_companies_id_1146}","top_2000_id_1620+us_companies_id_1146","{Ensco|Ensco}","Ensco",,
+"Marketvalue","0.6666666666666666","Marketvalue-{top_2000_id_1088+us_companies_id_1240+us_companies_id_1324}","top_2000_id_1088+us_companies_id_1240+us_companies_id_1324","{89.4|0.0|0.0}","0.0",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1158}","us_companies_id_1158","{1980}","1980",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1400}","us_companies_id_1400","{Data analysis for clients, Database licensing}","Data analysis for clients, Database licensing",,
+"Website","1.0","Website-{us_companies_id_1298}","us_companies_id_1298","{https://www.metlife.com}","https://www.metlife.com","true","https://www.metlife.com"
+"Assets","0.3333333333333333","Assets-{fortune_500_id_1030+top_2000_id_1018+us_companies_id_1086}","fortune_500_id_1030+top_2000_id_1018+us_companies_id_1086","{0.0|0.0|0.0}","0.0","true","0.0"
+"Website","1.0","Website-{us_companies_id_1044}","us_companies_id_1044","{http://www.berkshirehathaway.com}","http://www.berkshirehathaway.com","true","http://www.berkshirehathaway.com"
+"Website","1.0","Website-{us_companies_id_1141}","us_companies_id_1141","{http://www.emc.com/index.htm}","http://www.emc.com/index.htm",,
+"Foundingdate","0.0","Foundingdate-{us_companies_id_1240+us_companies_id_1324}","us_companies_id_1240+us_companies_id_1324","{1996|2007}","1996",,
+"Industry","1.0","Industry-{us_companies_id_1014}","us_companies_id_1014","{Insurance}","Insurance",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_2279+us_companies_id_1303}","top_2000_id_2279+us_companies_id_1303","{4.0|0.0}","0.0",,
+"Industry","1.0","Industry-{us_companies_id_1002}","us_companies_id_1002","{Data/Technology}","Data/Technology",,
+"Revenue","0.5","Revenue-{top_2000_id_1305+us_companies_id_1005}","top_2000_id_1305+us_companies_id_1005","{0.0|0.0}","0.0",,
+"Name","0.3333333333333333","Name-{fortune_500_id_1047+top_2000_id_1117+us_companies_id_1298}","fortune_500_id_1047+top_2000_id_1117+us_companies_id_1298","{MetLife|MetLife|MetLife}","MetLife","true","MetLife"
+"Industry","1.0","Industry-{us_companies_id_1158}","us_companies_id_1158","{Finance & Investment}","Finance & Investment",,
+"Industry","0.0","Industry-{fortune_500_id_1047+us_companies_id_1298}","fortune_500_id_1047+us_companies_id_1298","{Insurance: Life, Health (Stock)|Insurance}","Insurance","true","Insurance"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1461}","us_companies_id_1461","{1979}","1979",,
+"Name","0.0","Name-{top_2000_id_2634+us_companies_id_1092}","top_2000_id_2634+us_companies_id_1092","{Verisk Analytics|Civis Analytics}","Civis Analytics",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1146}","us_companies_id_1146","{1987}","1987",,
+"Revenue","0.3333333333333333","Revenue-{fortune_500_id_1037+top_2000_id_1032+us_companies_id_1221}","fortune_500_id_1037+top_2000_id_1032+us_companies_id_1221","{0.0|0.0|0.0}","0.0","true","0.0"
+"Hqcity","1.0","Hqcity-{us_companies_id_1164}","us_companies_id_1164","{Los Angeles}","Los Angeles",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1364}","us_companies_id_1364","{2012}","2012",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1482+us_companies_id_1399}","top_2000_id_1482+us_companies_id_1399","{17.9|0.0}","0.0","false","17.9"
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1520}","us_companies_id_1520","{Not reported by company}","Not reported by company",,
+"Revenue","0.5","Revenue-{top_2000_id_1516+us_companies_id_1178}","top_2000_id_1516+us_companies_id_1178","{0.0|0.0}","0.0",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_2066+us_companies_id_1456}","top_2000_id_2066+us_companies_id_1456","{4.2|0.0}","0.0",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1459}","us_companies_id_1459","{Not reported by company}","Not reported by company",,
+"Website","1.0","Website-{us_companies_id_1065}","us_companies_id_1065","{http://www.cancapital.com/}","http://www.cancapital.com/",,
+"Industry","1.0","Industry-{us_companies_id_1461}","us_companies_id_1461","{Data/Technology}","Data/Technology",,
+"Industry","1.0","Industry-{us_companies_id_1364}","us_companies_id_1364","{Housing/Real Estate}","Housing/Real Estate",,
+"Industry","1.0","Industry-{us_companies_id_1146}","us_companies_id_1146","{Energy}","Energy",,
+"Hqcity","1.0","Hqcity-{fortune_500_id_1016+us_companies_id_1249}","fortune_500_id_1016+us_companies_id_1249","{New York|New York}","New York","true","New York"
+"Assets","1.0","Assets-{top_2000_id_2634+us_companies_id_1092}","top_2000_id_2634+us_companies_id_1092","{0.0|0.0}","0.0",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1002}","us_companies_id_1002","{2007}","2007",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1014}","us_companies_id_1014","{1931}","1931",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1141}","us_companies_id_1141","{Hopkinton}","Hopkinton",,
+"Website","1.0","Website-{us_companies_id_1078}","us_companies_id_1078","{http://www.cerner.com}","http://www.cerner.com","true","http://www.cerner.com"
+"Website","1.0","Website-{us_companies_id_1066}","us_companies_id_1066","{http://www.canon.com}","http://www.canon.com","true","http://www.canon.com"
+"Industry","1.0","Industry-{us_companies_id_1460}","us_companies_id_1460","{Energy}","Energy",,
+"Industry","1.0","Industry-{us_companies_id_1012}","us_companies_id_1012","{Finance & Investment}","Finance & Investment","true","Finance & Investment"
+"Industry","1.0","Industry-{us_companies_id_1399}","us_companies_id_1399","{Business & Legal Services}","Business & Legal Services","true","Business & Legal Services"
+"Revenue","1.0","Revenue-{top_2000_id_2512+us_companies_id_1247}","top_2000_id_2512+us_companies_id_1247","{0.0|0.0}","0.0",,
+"Name","0.5","Name-{top_2000_id_2080+us_companies_id_1158}","top_2000_id_2080+us_companies_id_1158","{Experian|Experian}","Experian",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1092}","us_companies_id_1092","{Not reported by company}","Not reported by company",,
+"Revenue","1.0","Revenue-{top_2000_id_1159+us_companies_id_1164}","top_2000_id_1159+us_companies_id_1164","{0.0|0.0}","0.0",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1065}","us_companies_id_1065","{New York}","New York",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1221}","us_companies_id_1221","{1912}","1912","true","1912"
+"Assets","0.5","Assets-{top_2000_id_2528+us_companies_id_1461}","top_2000_id_2528+us_companies_id_1461","{0.0|0.0}","0.0",,
+"Revenue","0.5","Revenue-{top_2000_id_1245+us_companies_id_1050}","top_2000_id_1245+us_companies_id_1050","{0.0|0.0}","0.0",,
+"Name","0.5","Name-{top_2000_id_1327+us_companies_id_1085}","top_2000_id_1327+us_companies_id_1085","{Chubb|Chubb}","Chubb",,
+"Name","0.0","Name-{top_2000_id_1495+us_companies_id_1460}","top_2000_id_1495+us_companies_id_1460","{Tenaris|Tendril}","Tendril",,
+"Revenuesource","1.0","Revenuesource-{us_companies_id_1514}","us_companies_id_1514","{Not reported by company}","Not reported by company",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1602+us_companies_id_1520}","top_2000_id_1602+us_companies_id_1520","{17.1|0.0}","0.0",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_2917+us_companies_id_1212}","top_2000_id_2917+us_companies_id_1212","{3.9|0.0}","0.0",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1066}","us_companies_id_1066","{Melville}","Melville","true","Melville"
+"Revenue","1.0","Revenue-{fortune_500_id_1076+us_companies_id_1273}","fortune_500_id_1076+us_companies_id_1273","{0.0|0.0}","0.0","true","0.0"
+"Website","1.0","Website-{us_companies_id_1399}","us_companies_id_1399","{http://www.reedelsevier.com/Pages/Home.aspx}","http://www.reedelsevier.com/Pages/Home.aspx","true","http://www.reedelsevier.com/Pages/Home.aspx"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1247}","us_companies_id_1247","{2001}","2001",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1489}","us_companies_id_1489","{1922}","1922",,
+"Website","1.0","Website-{us_companies_id_1012}","us_companies_id_1012","{http://www.allianzusa.com}","http://www.allianzusa.com","true","http://www.allianzusa.com"
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1005}","us_companies_id_1005","{1989}","1989",,
+"Name","0.5","Name-{top_2000_id_2533+us_companies_id_1514}","top_2000_id_2533+us_companies_id_1514","{Wolters Kluwer|Wolters Kluwer}","Wolters Kluwer",,
+"Website","1.0","Website-{us_companies_id_1460}","us_companies_id_1460","{http://www.tendrilinc.com/}","http://www.tendrilinc.com/",,
+"Hqcity","1.0","Hqcity-{fortune_500_id_1076+us_companies_id_1273}","fortune_500_id_1076+us_companies_id_1273","{Boston|Boston}","Boston","true","Boston"
+"Industry","1.0","Industry-{us_companies_id_1212}","us_companies_id_1212","{Healthcare}","Healthcare",,
+"Industry","1.0","Industry-{us_companies_id_1247}","us_companies_id_1247","{Finance & Investment}","Finance & Investment",,
+"Marketvalue","0.0","Marketvalue-{fortune_500_id_1047+top_2000_id_1117+us_companies_id_1298}","fortune_500_id_1047+top_2000_id_1117+us_companies_id_1298","{69.62|836.8|0.0}","69.62","true","69.62"
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1172+us_companies_id_1066}","top_2000_id_1172+us_companies_id_1066","{45.7|0.0}","0.0","false","45.7"
+"Assets","1.0","Assets-{top_2000_id_1495+us_companies_id_1460}","top_2000_id_1495+us_companies_id_1460","{0.0|0.0}","0.0",,
+"Marketvalue","0.0","Marketvalue-{top_2000_id_1201+us_companies_id_1412}","top_2000_id_1201+us_companies_id_1412","{35.5|0.0}","0.0",,
+"Hqcity","1.0","Hqcity-{us_companies_id_1050}","us_companies_id_1050","{Atlanta}","Atlanta",,
+"Assets","0.5","Assets-{top_2000_id_2080+us_companies_id_1158}","top_2000_id_2080+us_companies_id_1158","{0.0|0.0}","0.0",,
+"Website","1.0","Website-{us_companies_id_1178}","us_companies_id_1178","{http://www.fujitsu.com/us/}","http://www.fujitsu.com/us/",,
+"Assets","1.0","Assets-{top_2000_id_2066+us_companies_id_1456}","top_2000_id_2066+us_companies_id_1456","{0.0|0.0}","0.0",,
+"Industry","1.0","Industry-{us_companies_id_1489}","us_companies_id_1489","{Finance & Investment}","Finance & Investment",,
+"Revenue","0.3333333333333333","Revenue-{fortune_500_id_1047+top_2000_id_1117+us_companies_id_1298}","fortune_500_id_1047+top_2000_id_1117+us_companies_id_1298","{0.0|0.0|0.0}","0.0","true","0.0"
+"Assets","0.5","Assets-{top_2000_id_1327+us_companies_id_1085}","top_2000_id_1327+us_companies_id_1085","{0.0|0.0}","0.0",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1212}","us_companies_id_1212","{2005}","2005",,
+"Foundingdate","1.0","Foundingdate-{us_companies_id_1249}","us_companies_id_1249","{1799}","1799","true","1799"
+"Assets","0.6666666666666666","Assets-{fortune_500_id_1016+top_2000_id_1002+us_companies_id_1249}","fortune_500_id_1016+top_2000_id_1002+us_companies_id_1249","{0.0|0.0|0.0}","0.0","true","0.0"
+"Assets","0.5","Assets-{top_2000_id_2279+us_companies_id_1303}","top_2000_id_2279+us_companies_id_1303","{0.0|0.0}","0.0",,
+"Website","1.0","Website-{us_companies_id_1470}","us_companies_id_1470","{http://thomsonreuters.com/}","http://thomsonreuters.com/","true","http://thomsonreuters.com/"
+"Assets","0.5","Assets-{top_2000_id_2533+us_companies_id_1514}","top_2000_id_2533+us_companies_id_1514","{0.0|0.0}","0.0",,
+"Revenue","1.0","Revenue-{top_2000_id_1705+us_companies_id_1014}","top_2000_id_1705+us_companies_id_1014","{0.0|0.0}","0.0",,

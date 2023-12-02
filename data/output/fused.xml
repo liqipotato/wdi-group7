@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies>
+  <company>
+    <id>top_2000_id_1620+us_companies_id_1146</id>
+    <name provenance="top_2000_id_1620">Ensco</name>
+    <website provenance="us_companies_id_1146">http://www.enscoplc.com/Home/default.aspx</website>
+    <foundingdate provenance="us_companies_id_1146">1987</foundingdate>
+    <hqcity provenance="us_companies_id_1146">Falls Church</hqcity>
+    <industry provenance="us_companies_id_1146">Energy</industry>
+    <marketvalue provenance="us_companies_id_1146">0.0</marketvalue>
+    <assets provenance="us_companies_id_1146">0.0</assets>
+    <revenue provenance="us_companies_id_1146">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1146">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1245+us_companies_id_1050</id>
+    <name provenance="us_companies_id_1050">BlackRock</name>
+    <website provenance="us_companies_id_1050">http://www.blackrock.com</website>
+    <foundingdate provenance="us_companies_id_1050">1988</foundingdate>
+    <hqcity provenance="us_companies_id_1050">Atlanta</hqcity>
+    <industry provenance="us_companies_id_1050">Finance &amp; Investment</industry>
+    <marketvalue provenance="us_companies_id_1050">0.0</marketvalue>
+    <assets provenance="us_companies_id_1050">0.0</assets>
+    <revenue provenance="us_companies_id_1050">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1050">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1344+us_companies_id_1470</id>
+    <name provenance="us_companies_id_1470">Thomson Reuters</name>
+    <website provenance="us_companies_id_1470">http://thomsonreuters.com/</website>
+    <foundingdate provenance="us_companies_id_1470">2008</foundingdate>
+    <hqcity provenance="us_companies_id_1470">New York</hqcity>
+    <industry provenance="us_companies_id_1470">Business &amp; Legal Services</industry>
+    <marketvalue provenance="us_companies_id_1470">0.0</marketvalue>
+    <assets provenance="us_companies_id_1470">0.0</assets>
+    <revenue provenance="us_companies_id_1470">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1470">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1270+top_2000_id_1517+us_companies_id_1082</id>
+    <name provenance="top_2000_id_1517">Charles Schwab</name>
+    <website provenance="us_companies_id_1082">https://www.schwab.com</website>
+    <foundingdate provenance="us_companies_id_1082">1973</foundingdate>
+    <hqcity provenance="fortune_500_id_1270">San Francisco</hqcity>
+    <industry provenance="fortune_500_id_1270">Securities</industry>
+    <marketvalue provenance="fortune_500_id_1270">11.785</marketvalue>
+    <assets provenance="fortune_500_id_1270">0.0</assets>
+    <revenue provenance="fortune_500_id_1270">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1082">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1159+us_companies_id_1164</id>
+    <name provenance="us_companies_id_1164">Farmers</name>
+    <website provenance="us_companies_id_1164">http://www.farmers.com</website>
+    <foundingdate provenance="us_companies_id_1164">1928</foundingdate>
+    <hqcity provenance="us_companies_id_1164">Los Angeles</hqcity>
+    <industry provenance="us_companies_id_1164">Insurance</industry>
+    <marketvalue provenance="us_companies_id_1164">0.0</marketvalue>
+    <assets provenance="us_companies_id_1164">0.0</assets>
+    <revenue provenance="us_companies_id_1164">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1164">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1305+us_companies_id_1005</id>
+    <name provenance="top_2000_id_1305">Accenture</name>
+    <website provenance="us_companies_id_1005">http://www.accenture.com/us-en/pages/index.aspx</website>
+    <foundingdate provenance="us_companies_id_1005">1989</foundingdate>
+    <hqcity provenance="us_companies_id_1005">Chicago</hqcity>
+    <industry provenance=""/>
+    <marketvalue provenance="us_companies_id_1005">0.0</marketvalue>
+    <assets provenance="us_companies_id_1005">0.0</assets>
+    <revenue provenance="us_companies_id_1005">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1005">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1939+us_companies_id_1065</id>
+    <name provenance="us_companies_id_1065">CAN Capital</name>
+    <website provenance="us_companies_id_1065">http://www.cancapital.com/</website>
+    <foundingdate provenance="us_companies_id_1065">1998</foundingdate>
+    <hqcity provenance="us_companies_id_1065">New York</hqcity>
+    <industry provenance="us_companies_id_1065">Finance &amp; Investment</industry>
+    <marketvalue provenance="us_companies_id_1065">0.0</marketvalue>
+    <assets provenance="us_companies_id_1065">0.0</assets>
+    <revenue provenance="us_companies_id_1065">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1065">Financial Products and Services</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_2528+us_companies_id_1461</id>
+    <name provenance="top_2000_id_2528">Teradata</name>
+    <website provenance="us_companies_id_1461">http://www.teradata.com/</website>
+    <foundingdate provenance="us_companies_id_1461">1979</foundingdate>
+    <hqcity provenance="us_companies_id_1461">Dayton</hqcity>
+    <industry provenance="us_companies_id_1461">Data/Technology</industry>
+    <marketvalue provenance="us_companies_id_1461">0.0</marketvalue>
+    <assets provenance="us_companies_id_1461">0.0</assets>
+    <revenue provenance="us_companies_id_1461">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1461">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1482+us_companies_id_1399</id>
+    <name provenance="us_companies_id_1399">Reed Elsevier</name>
+    <website provenance="us_companies_id_1399">http://www.reedelsevier.com/Pages/Home.aspx</website>
+    <foundingdate provenance="us_companies_id_1399">1880</foundingdate>
+    <hqcity provenance="us_companies_id_1399">New York</hqcity>
+    <industry provenance="us_companies_id_1399">Business &amp; Legal Services</industry>
+    <marketvalue provenance="us_companies_id_1399">0.0</marketvalue>
+    <assets provenance="us_companies_id_1399">0.0</assets>
+    <revenue provenance="us_companies_id_1399">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1399">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1312+us_companies_id_1400</id>
+    <name provenance="top_2000_id_1312">BAE Systems</name>
+    <website provenance="us_companies_id_1400">www.reisystems.com</website>
+    <foundingdate provenance="us_companies_id_1400">1989</foundingdate>
+    <hqcity provenance="us_companies_id_1400">Sterling</hqcity>
+    <industry provenance="us_companies_id_1400">Data/Technology</industry>
+    <marketvalue provenance="us_companies_id_1400">0.0</marketvalue>
+    <assets provenance="us_companies_id_1400">0.0</assets>
+    <revenue provenance="us_companies_id_1400">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1400">Data analysis for clients, Database licensing</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1480+us_companies_id_1419</id>
+    <name provenance="us_companies_id_1419">Simple Energy</name>
+    <website provenance="us_companies_id_1419">http://simpleenergy.com</website>
+    <foundingdate provenance="us_companies_id_1419">2010</foundingdate>
+    <hqcity provenance="us_companies_id_1419">Boulder</hqcity>
+    <industry provenance="us_companies_id_1419">Energy</industry>
+    <marketvalue provenance="us_companies_id_1419">0.0</marketvalue>
+    <assets provenance="us_companies_id_1419">0.0</assets>
+    <revenue provenance="us_companies_id_1419">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1419">Software licensing</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1806+us_companies_id_1002</id>
+    <name provenance="top_2000_id_1806">Resolution</name>
+    <website provenance="us_companies_id_1002">www.5psolutions.com</website>
+    <foundingdate provenance="us_companies_id_1002">2007</foundingdate>
+    <hqcity provenance="us_companies_id_1002">Fairfax</hqcity>
+    <industry provenance="us_companies_id_1002">Data/Technology</industry>
+    <marketvalue provenance="us_companies_id_1002">0.0</marketvalue>
+    <assets provenance="us_companies_id_1002">0.0</assets>
+    <revenue provenance="us_companies_id_1002">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1002">Subscriptions, User fees for web or mobile access</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_2533+us_companies_id_1514</id>
+    <name provenance="top_2000_id_2533">Wolters Kluwer</name>
+    <website provenance="us_companies_id_1514">http://www.wolterskluwer.com/</website>
+    <foundingdate provenance="us_companies_id_1514">1836</foundingdate>
+    <hqcity provenance="us_companies_id_1514">Minneapolis</hqcity>
+    <industry provenance="us_companies_id_1514">Business &amp; Legal Services</industry>
+    <marketvalue provenance="us_companies_id_1514">0.0</marketvalue>
+    <assets provenance="us_companies_id_1514">0.0</assets>
+    <revenue provenance="us_companies_id_1514">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1514">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1037+us_companies_id_1489</id>
+    <name provenance="top_2000_id_1037">AXA Group</name>
+    <website provenance="us_companies_id_1489">https://www.usaa.com</website>
+    <foundingdate provenance="us_companies_id_1489">1922</foundingdate>
+    <hqcity provenance="us_companies_id_1489">San Antonio</hqcity>
+    <industry provenance="us_companies_id_1489">Finance &amp; Investment</industry>
+    <marketvalue provenance="us_companies_id_1489">0.0</marketvalue>
+    <assets provenance="us_companies_id_1489">0.0</assets>
+    <revenue provenance="us_companies_id_1489">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1489">not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1024+us_companies_id_1012</id>
+    <name provenance="us_companies_id_1012">Allianz</name>
+    <website provenance="us_companies_id_1012">http://www.allianzusa.com</website>
+    <foundingdate provenance="us_companies_id_1012">1896</foundingdate>
+    <hqcity provenance="us_companies_id_1012">New York</hqcity>
+    <industry provenance="us_companies_id_1012">Finance &amp; Investment</industry>
+    <marketvalue provenance="us_companies_id_1012">0.0</marketvalue>
+    <assets provenance="us_companies_id_1012">0.0</assets>
+    <revenue provenance="us_companies_id_1012">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1012">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_2512+us_companies_id_1247</id>
+    <name provenance="us_companies_id_1247">IW Financial</name>
+    <website provenance="us_companies_id_1247">http://info.iwfinancial.com</website>
+    <foundingdate provenance="us_companies_id_1247">2001</foundingdate>
+    <hqcity provenance="us_companies_id_1247">Portland</hqcity>
+    <industry provenance="us_companies_id_1247">Finance &amp; Investment</industry>
+    <marketvalue provenance="us_companies_id_1247">0.0</marketvalue>
+    <assets provenance="us_companies_id_1247">0.0</assets>
+    <revenue provenance="us_companies_id_1247">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1247">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1172+us_companies_id_1066</id>
+    <name provenance="us_companies_id_1066">Canon</name>
+    <website provenance="us_companies_id_1066">http://www.canon.com</website>
+    <foundingdate provenance="us_companies_id_1066">1937</foundingdate>
+    <hqcity provenance="us_companies_id_1066">Melville</hqcity>
+    <industry provenance="us_companies_id_1066">Data/Technology</industry>
+    <marketvalue provenance="us_companies_id_1066">0.0</marketvalue>
+    <assets provenance="us_companies_id_1066">0.0</assets>
+    <revenue provenance="us_companies_id_1066">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1066">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1449+us_companies_id_1052</id>
+    <name provenance="us_companies_id_1052">Booz Allen Hamilton</name>
+    <website provenance="us_companies_id_1052">http://www.boozallen.com</website>
+    <foundingdate provenance="us_companies_id_1052">1914</foundingdate>
+    <hqcity provenance="fortune_500_id_1449">McLean</hqcity>
+    <industry provenance="us_companies_id_1052">Research &amp; Consulting</industry>
+    <marketvalue provenance="fortune_500_id_1449">6.704</marketvalue>
+    <assets provenance="fortune_500_id_1449">0.0</assets>
+    <revenue provenance="fortune_500_id_1449">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1052">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1602+us_companies_id_1520</id>
+    <name provenance="top_2000_id_1602">Yahoo</name>
+    <website provenance="us_companies_id_1520">http://www.yahoo.com/</website>
+    <foundingdate provenance="us_companies_id_1520">1994</foundingdate>
+    <hqcity provenance="us_companies_id_1520">Sunnyvale</hqcity>
+    <industry provenance="us_companies_id_1520">Lifestyle &amp; Consumer</industry>
+    <marketvalue provenance="us_companies_id_1520">0.0</marketvalue>
+    <assets provenance="us_companies_id_1520">0.0</assets>
+    <revenue provenance="us_companies_id_1520">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1520">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1047+top_2000_id_1117+us_companies_id_1298</id>
+    <name provenance="us_companies_id_1298">MetLife</name>
+    <website provenance="us_companies_id_1298">https://www.metlife.com</website>
+    <foundingdate provenance="us_companies_id_1298">1868</foundingdate>
+    <hqcity provenance="fortune_500_id_1047">New York</hqcity>
+    <industry provenance="us_companies_id_1298">Insurance</industry>
+    <marketvalue provenance="fortune_500_id_1047">69.62</marketvalue>
+    <assets provenance="fortune_500_id_1047">0.0</assets>
+    <revenue provenance="fortune_500_id_1047">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1298">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1516+us_companies_id_1178</id>
+    <name provenance="top_2000_id_1516">Fujitsu</name>
+    <website provenance="us_companies_id_1178">http://www.fujitsu.com/us/</website>
+    <foundingdate provenance="us_companies_id_1178">1935</foundingdate>
+    <hqcity provenance="us_companies_id_1178">Sunnyvale</hqcity>
+    <industry provenance="us_companies_id_1178">Data/Technology</industry>
+    <marketvalue provenance="us_companies_id_1178">0.0</marketvalue>
+    <assets provenance="us_companies_id_1178">0.0</assets>
+    <revenue provenance="us_companies_id_1178">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1178">ICT Product and Services, Software licensing, Data analysis for clients, Database licensing</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1705+us_companies_id_1014</id>
+    <name provenance="top_2000_id_1705">RSA Insurance Group</name>
+    <website provenance="us_companies_id_1014">http://www.allstate.com</website>
+    <foundingdate provenance="us_companies_id_1014">1931</foundingdate>
+    <hqcity provenance="us_companies_id_1014">Northbrook</hqcity>
+    <industry provenance="us_companies_id_1014">Insurance</industry>
+    <marketvalue provenance="us_companies_id_1014">0.0</marketvalue>
+    <assets provenance="us_companies_id_1014">0.0</assets>
+    <revenue provenance="us_companies_id_1014">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1014">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1808+us_companies_id_1364</id>
+    <name provenance="top_2000_id_1808">Priceline.com</name>
+    <website provenance="us_companies_id_1364">www.placeilive.com</website>
+    <foundingdate provenance="us_companies_id_1364">2012</foundingdate>
+    <hqcity provenance="us_companies_id_1364">Vilnius</hqcity>
+    <industry provenance="us_companies_id_1364">Housing/Real Estate</industry>
+    <marketvalue provenance="us_companies_id_1364">0.0</marketvalue>
+    <assets provenance="us_companies_id_1364">0.0</assets>
+    <revenue provenance="us_companies_id_1364">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1364">Venture Capital</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_2634+us_companies_id_1092</id>
+    <name provenance="us_companies_id_1092">Civis Analytics</name>
+    <website provenance="us_companies_id_1092">http://civisanalytics.com/</website>
+    <foundingdate provenance="us_companies_id_1092">2013</foundingdate>
+    <hqcity provenance="us_companies_id_1092">West Loop</hqcity>
+    <industry provenance="us_companies_id_1092">Data/Technology</industry>
+    <marketvalue provenance="us_companies_id_1092">0.0</marketvalue>
+    <assets provenance="us_companies_id_1092">0.0</assets>
+    <revenue provenance="us_companies_id_1092">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1092">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_2080+us_companies_id_1158</id>
+    <name provenance="top_2000_id_2080">Experian</name>
+    <website provenance="us_companies_id_1158">http://www.experian.com</website>
+    <foundingdate provenance="us_companies_id_1158">1980</foundingdate>
+    <hqcity provenance="us_companies_id_1158">Costa Mesa</hqcity>
+    <industry provenance="us_companies_id_1158">Finance &amp; Investment</industry>
+    <marketvalue provenance="us_companies_id_1158">0.0</marketvalue>
+    <assets provenance="us_companies_id_1158">0.0</assets>
+    <revenue provenance="us_companies_id_1158">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1158">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1201+us_companies_id_1412</id>
+    <name provenance="us_companies_id_1412">SAP</name>
+    <website provenance="us_companies_id_1412">http://www.sap.com/</website>
+    <foundingdate provenance="us_companies_id_1412">1972</foundingdate>
+    <hqcity provenance="us_companies_id_1412">Newtown Square</hqcity>
+    <industry provenance="us_companies_id_1412">Data/Technology</industry>
+    <marketvalue provenance="us_companies_id_1412">0.0</marketvalue>
+    <assets provenance="us_companies_id_1412">0.0</assets>
+    <revenue provenance="us_companies_id_1412">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1412">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1495+us_companies_id_1460</id>
+    <name provenance="us_companies_id_1460">Tendril</name>
+    <website provenance="us_companies_id_1460">http://www.tendrilinc.com/</website>
+    <foundingdate provenance="us_companies_id_1460">2004</foundingdate>
+    <hqcity provenance="us_companies_id_1460">Boulder</hqcity>
+    <industry provenance="us_companies_id_1460">Energy</industry>
+    <marketvalue provenance="us_companies_id_1460">0.0</marketvalue>
+    <assets provenance="us_companies_id_1460">0.0</assets>
+    <revenue provenance="us_companies_id_1460">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1460">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1037+top_2000_id_1032+us_companies_id_1221</id>
+    <name provenance="us_companies_id_1221">IBM</name>
+    <website provenance="us_companies_id_1221">www.ibm.com</website>
+    <foundingdate provenance="us_companies_id_1221">1912</foundingdate>
+    <hqcity provenance="fortune_500_id_1037">Armonk</hqcity>
+    <industry provenance="us_companies_id_1221">Data/Technology</industry>
+    <marketvalue provenance="fortune_500_id_1037">77.147</marketvalue>
+    <assets provenance="fortune_500_id_1037">0.0</assets>
+    <revenue provenance="fortune_500_id_1037">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1221">IT and business hardware, software, and services</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1327+us_companies_id_1085</id>
+    <name provenance="us_companies_id_1085">Chubb</name>
+    <website provenance="us_companies_id_1085">http://www.chubb.com</website>
+    <foundingdate provenance="us_companies_id_1085">1882</foundingdate>
+    <hqcity provenance="us_companies_id_1085">Warren</hqcity>
+    <industry provenance="us_companies_id_1085">Insurance</industry>
+    <marketvalue provenance="us_companies_id_1085">0.0</marketvalue>
+    <assets provenance="us_companies_id_1085">0.0</assets>
+    <revenue provenance="us_companies_id_1085">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1085">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_2066+us_companies_id_1456</id>
+    <name provenance="top_2000_id_2066">T Rowe Price</name>
+    <website provenance="us_companies_id_1456">http://www.troweprice.com</website>
+    <foundingdate provenance="us_companies_id_1456">1937</foundingdate>
+    <hqcity provenance="us_companies_id_1456">Baltimore</hqcity>
+    <industry provenance="us_companies_id_1456">Finance &amp; Investment</industry>
+    <marketvalue provenance="us_companies_id_1456">0.0</marketvalue>
+    <assets provenance="us_companies_id_1456">0.0</assets>
+    <revenue provenance="us_companies_id_1456">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1456">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1060+top_2000_id_1425+us_companies_id_1304</id>
+    <name provenance="top_2000_id_1425">Morgan Stanley</name>
+    <website provenance="us_companies_id_1304">http://www.morganstanley.com</website>
+    <foundingdate provenance="us_companies_id_1304">1935</foundingdate>
+    <hqcity provenance="fortune_500_id_1060">New York</hqcity>
+    <industry provenance="fortune_500_id_1060">Commercial Banks</industry>
+    <marketvalue provenance="fortune_500_id_1060">53.823</marketvalue>
+    <assets provenance="fortune_500_id_1060">0.0</assets>
+    <revenue provenance="fortune_500_id_1060">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1304">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_2279+us_companies_id_1303</id>
+    <name provenance="top_2000_id_2279">Moody's</name>
+    <website provenance="us_companies_id_1303">https://www.moodys.com</website>
+    <foundingdate provenance="us_companies_id_1303">1909</foundingdate>
+    <hqcity provenance="us_companies_id_1303">New York</hqcity>
+    <industry provenance="us_companies_id_1303">Finance &amp; Investment</industry>
+    <marketvalue provenance="us_companies_id_1303">0.0</marketvalue>
+    <assets provenance="us_companies_id_1303">0.0</assets>
+    <revenue provenance="us_companies_id_1303">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1303">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1300+us_companies_id_1227</id>
+    <name provenance="us_companies_id_1227">Impaq International</name>
+    <website provenance="us_companies_id_1227">http://www.impaqint.com</website>
+    <foundingdate provenance="us_companies_id_1227">2001</foundingdate>
+    <hqcity provenance="us_companies_id_1227">Columbia</hqcity>
+    <industry provenance="us_companies_id_1227">Research &amp; Consulting</industry>
+    <marketvalue provenance="us_companies_id_1227">0.0</marketvalue>
+    <assets provenance="us_companies_id_1227">0.0</assets>
+    <revenue provenance="us_companies_id_1227">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1227">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1777+us_companies_id_1281+us_companies_id_1347</id>
+    <name provenance="top_2000_id_1777">Agilent Technologies</name>
+    <website provenance="us_companies_id_1281">www.makeloveland.com</website>
+    <foundingdate provenance="us_companies_id_1281">2010</foundingdate>
+    <hqcity provenance="us_companies_id_1281">Detroit</hqcity>
+    <industry provenance="us_companies_id_1281">Data/Technology</industry>
+    <marketvalue provenance="us_companies_id_1281">0.0</marketvalue>
+    <assets provenance="us_companies_id_1281">0.0</assets>
+    <revenue provenance="us_companies_id_1281">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1281">Subscriptions, Special Projects</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1030+top_2000_id_1018+us_companies_id_1086</id>
+    <name provenance="fortune_500_id_1030">Citigroup</name>
+    <website provenance="us_companies_id_1086">http://www.citigroup.com/citi/</website>
+    <foundingdate provenance="us_companies_id_1086">1812</foundingdate>
+    <hqcity provenance="fortune_500_id_1030">New York</hqcity>
+    <industry provenance="fortune_500_id_1030">Commercial Banks</industry>
+    <marketvalue provenance="fortune_500_id_1030">103.449</marketvalue>
+    <assets provenance="fortune_500_id_1030">0.0</assets>
+    <revenue provenance="fortune_500_id_1030">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1086">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1313+us_companies_id_1459</id>
+    <name provenance="top_2000_id_1313">Telenor</name>
+    <website provenance="us_companies_id_1459">http://www.telenav.com/</website>
+    <foundingdate provenance="us_companies_id_1459">1999</foundingdate>
+    <hqcity provenance="us_companies_id_1459">Sunnyvale</hqcity>
+    <industry provenance="us_companies_id_1459">Geospatial/Mapping</industry>
+    <marketvalue provenance="us_companies_id_1459">0.0</marketvalue>
+    <assets provenance="us_companies_id_1459">0.0</assets>
+    <revenue provenance="us_companies_id_1459">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1459">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_2917+us_companies_id_1212</id>
+    <name provenance="us_companies_id_1212">Healthline</name>
+    <website provenance="us_companies_id_1212">http://www.healthline.com</website>
+    <foundingdate provenance="us_companies_id_1212">2005</foundingdate>
+    <hqcity provenance="us_companies_id_1212">San Francisco</hqcity>
+    <industry provenance="us_companies_id_1212">Healthcare</industry>
+    <marketvalue provenance="us_companies_id_1212">0.0</marketvalue>
+    <assets provenance="us_companies_id_1212">0.0</assets>
+    <revenue provenance="us_companies_id_1212">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1212">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1035+us_companies_id_1444</id>
+    <name provenance="fortune_500_id_1035">State Farm Insurance</name>
+    <website provenance="us_companies_id_1444">http://www.statefarm.com/</website>
+    <foundingdate provenance="us_companies_id_1444">1922</foundingdate>
+    <hqcity provenance="fortune_500_id_1035">Bloomington</hqcity>
+    <industry provenance="us_companies_id_1444">Insurance</industry>
+    <marketvalue provenance="fortune_500_id_1035">79.395</marketvalue>
+    <assets provenance="fortune_500_id_1035">0.0</assets>
+    <revenue provenance="fortune_500_id_1035">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1444">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1088+us_companies_id_1240+us_companies_id_1324</id>
+    <name provenance="us_companies_id_1324">Noveda Technologies</name>
+    <website provenance="us_companies_id_1324">www.noveda.com</website>
+    <foundingdate provenance="us_companies_id_1240">1996</foundingdate>
+    <hqcity provenance="us_companies_id_1240">Englewood</hqcity>
+    <industry provenance="us_companies_id_1324">Data/Technology</industry>
+    <marketvalue provenance="us_companies_id_1240">0.0</marketvalue>
+    <assets provenance="us_companies_id_1240">0.0</assets>
+    <revenue provenance="us_companies_id_1240">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1240">Not provided by company</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1016+top_2000_id_1002+us_companies_id_1249</id>
+    <name provenance="fortune_500_id_1016">JPMorgan Chase</name>
+    <website provenance="us_companies_id_1249">http://www.jpmorganchase.com/corporate/Home/home.htm</website>
+    <foundingdate provenance="us_companies_id_1249">1799</foundingdate>
+    <hqcity provenance="fortune_500_id_1016">New York</hqcity>
+    <industry provenance="fortune_500_id_1016">Commercial Banks</industry>
+    <marketvalue provenance="fortune_500_id_1016">142.422</marketvalue>
+    <assets provenance="fortune_500_id_1016">0.0</assets>
+    <revenue provenance="fortune_500_id_1016">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1249">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1076+us_companies_id_1273</id>
+    <name provenance="us_companies_id_1273">Liberty Mutual Insurance Cos.</name>
+    <website provenance="us_companies_id_1273">http://www.libertymutual.com</website>
+    <foundingdate provenance="us_companies_id_1273">1912</foundingdate>
+    <hqcity provenance="fortune_500_id_1076">Boston</hqcity>
+    <industry provenance="us_companies_id_1273">Insurance</industry>
+    <marketvalue provenance="fortune_500_id_1076">43.228</marketvalue>
+    <assets provenance="fortune_500_id_1076">0.0</assets>
+    <revenue provenance="fortune_500_id_1076">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1273">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1497+top_2000_id_2372+us_companies_id_1078</id>
+    <name provenance="us_companies_id_1078">Cerner</name>
+    <website provenance="us_companies_id_1078">http://www.cerner.com</website>
+    <foundingdate provenance="us_companies_id_1078">1979</foundingdate>
+    <hqcity provenance="fortune_500_id_1497">North Kansas City</hqcity>
+    <industry provenance="us_companies_id_1078">Healthcare</industry>
+    <marketvalue provenance="fortune_500_id_1497">5.693</marketvalue>
+    <assets provenance="fortune_500_id_1497">0.0</assets>
+    <revenue provenance="fortune_500_id_1497">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1078">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_2001+us_companies_id_1072</id>
+    <name provenance="us_companies_id_1072">CARFAX</name>
+    <website provenance="us_companies_id_1072">http://www.carfax.com</website>
+    <foundingdate provenance="us_companies_id_1072">1984</foundingdate>
+    <hqcity provenance="us_companies_id_1072">Centreville</hqcity>
+    <industry provenance="us_companies_id_1072">Transportation</industry>
+    <marketvalue provenance="us_companies_id_1072">0.0</marketvalue>
+    <assets provenance="us_companies_id_1072">0.0</assets>
+    <revenue provenance="us_companies_id_1072">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1072">Not provided by company</revenuesource>
+  </company>
+  <company>
+    <id>fortune_500_id_1005+top_2000_id_1009+us_companies_id_1044</id>
+    <name provenance="top_2000_id_1009">Berkshire Hathaway</name>
+    <website provenance="us_companies_id_1044">http://www.berkshirehathaway.com</website>
+    <foundingdate provenance="us_companies_id_1044">1998</foundingdate>
+    <hqcity provenance="fortune_500_id_1005">Omaha</hqcity>
+    <industry provenance="us_companies_id_1044">Finance &amp; Investment</industry>
+    <marketvalue provenance="fortune_500_id_1005">254.616</marketvalue>
+    <assets provenance="fortune_500_id_1005">0.0</assets>
+    <revenue provenance="fortune_500_id_1005">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1044">Not reported by company</revenuesource>
+  </company>
+  <company>
+    <id>top_2000_id_1217+us_companies_id_1141</id>
+    <name provenance="top_2000_id_1217">EMC</name>
+    <website provenance="us_companies_id_1141">http://www.emc.com/index.htm</website>
+    <foundingdate provenance="us_companies_id_1141">1979</foundingdate>
+    <hqcity provenance="us_companies_id_1141">Hopkinton</hqcity>
+    <industry provenance="us_companies_id_1141">Data/Technology</industry>
+    <marketvalue provenance="us_companies_id_1141">0.0</marketvalue>
+    <assets provenance="us_companies_id_1141">0.0</assets>
+    <revenue provenance="us_companies_id_1141">0.0</revenue>
+    <revenuesource provenance="us_companies_id_1141">Not reported by company</revenuesource>
+  </company>
+</companies>
