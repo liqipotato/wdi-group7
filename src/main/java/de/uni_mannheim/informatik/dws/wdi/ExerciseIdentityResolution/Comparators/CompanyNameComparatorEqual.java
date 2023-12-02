@@ -20,7 +20,7 @@ import de.uni_mannheim.informatik.dws.winter.similarity.EqualsSimilarity;
 import de.uni_mannheim.informatik.dws.winter.similarity.string.LevenshteinSimilarity;
 import de.uni_mannheim.informatik.dws.winter.similarity.string.TokenizingJaccardSimilarity;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Company;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Movie;
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.eg.Movie;
 
 /**
  * {@link Comparator} for {@link Movie}s based on the {@link Movie#getTitle()}
